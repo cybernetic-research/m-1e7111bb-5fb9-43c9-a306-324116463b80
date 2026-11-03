@@ -1,0 +1,17 @@
+{
+ "name": "Bristol: Broadmead and the docks",
+ "size": 2400,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.4535,
+ "lon": -2.593,
+ "easting": 358892,
+ "northing": 172891,
+ "min": -0.87,
+ "max": 81.94,
+ "holesFilled": 0,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 128.71
+}

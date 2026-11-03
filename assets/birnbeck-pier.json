@@ -1,0 +1,17 @@
+{
+ "name": "Birnbeck Pier",
+ "size": 2400,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.357174,
+ "lon": -2.9966311,
+ "easting": 330700,
+ "northing": 162483,
+ "min": -5.78,
+ "max": 104.19,
+ "holesFilled": 16204,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 121.43
+}

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Project M</title>
+<style>
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #0c1016; color: #ffe9b8;
+    font-family: ui-monospace, Menlo, Consolas, monospace; }
+  canvas { display: block; }
+  #overlay { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center;
+    justify-content: center; gap: 18px; padding: 16px; text-align: center; z-index: 2;
+    background: repeating-radial-gradient(circle at 50% 60%, #0c1016 0 22px, #141b23 22px 24px); }
+  #overlay h1 { margin: 0; font-size: clamp(28px, 6vw, 56px); letter-spacing: 0.2em; }
+  #overlay p { margin: 0; max-width: 560px; line-height: 1.5; color: #b8c4cc; background: rgba(12,16,22,0.8); padding: 4px 8px; }
+  #overlay button { font: inherit; font-size: 18px; letter-spacing: 0.1em; padding: 14px 28px; cursor: pointer;
+    color: #0c1016; background: #ffe9b8; border: 0; border-radius: 4px; min-width: 240px; }
+  #overlay button:disabled { background: #2c333b; color: #6d7a85; cursor: default; }
+  #overlay button.secondary { background: rgba(12,16,22,0.8); color: #ffe9b8; outline: 1px solid #ffe9b8; }
+  #overlay .keys { font-size: 13px; color: #8e9ba6; }
+  /* Where and when you are, top left (on screen; in the headset it's the badge above the belt). */
+  #period { position: fixed; top: 12px; left: 12px; z-index: 5; padding: 6px 12px; font: bold 15px ui-monospace, Menlo, monospace;
+    color: #ffb347; background: rgba(12,16,22,0.85); border: 2px solid #ffb347; border-radius: 4px; pointer-events: none; display: none; }
+  /* The corner map (src/minimap.js): top left, clear of the table and its buttons, with the place and period
+     caption immediately to its right (moved there by minimap.js while the map shows). */
+  #period .gothic { font: 24px Medieval, serif; font-weight: normal; vertical-align: -2px; }
+  #minimap { position: fixed; left: 12px; top: 12px; width: 260px; height: 260px; z-index: 5; display: none;
+    border: 2px solid #ffb347; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.4); pointer-events: none; }
+</style>
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/",
+  "@mkkellogg/gaussian-splats-3d": "https://cdn.jsdelivr.net/npm/@mkkellogg/gaussian-splats-3d@0.4.7/build/gaussian-splats-3d.module.js"
+} }
+</script>
+</head>
+<body>
+<div id="overlay">
+  <h1>PROJECT M</h1>
+  <p>Contour maps and 3D terrain on your real table, with today's map or the c.1900 OS map draped over them,
+     and life size to walk around. Troopers Hill, Clifton, Clevedon, Birnbeck, Brean Down, Glastonbury Tor and the Cadbury hillforts in 1 m LIDAR.</p>
+  <button id="btn-ar" disabled>CHECKING FOR AR…</button>
+  <button id="btn-screen" class="secondary">VIEW ON SCREEN</button>
+  <p class="keys" id="status">loading terrain…</p>
+  <p class="keys">AR: point + trigger / pinch the buttons · pinch the map with one hand to slide it, two hands to zoom
+     and turn · stick zooms and turns · click a stick to bring the map to you · A/X next place · B/Y flat ↔ 3D · LIFE SIZE then point where to stand<br>
+     Life size: left stick walk (click to hurry) · right stick turn · point + trigger to jump there · B/Y back to the table<br>
+     Screen: drag the map to slide it, wheel to zoom, Q/E turn, drag elsewhere to orbit · [ ] place · 0 reset · R flat/3D ·
+     G rings · M map · O water · T now/then · L life size
+     (then drag to look, WASD walk, Q/E turn, click to jump, Esc back)</p>
+  <p class="keys">Credits: map data © OpenStreetMap contributors · OS six-inch maps 1888–1913 reproduced with the
+     permission of the National Library of Scotland · LIDAR © Environment Agency, Open Government Licence v3.0 ·
+     elevation tiles from Mapzen/AWS Terrain Tiles · models by Quaternius, Kay Lousberg, Kenney and Čestmír Dammer (the hens) (CC0) · "Bear" by
+     jeremy via Poly Pizza (CC-BY 3.0) · UnifrakturMaguntia font (SIL OFL) · textures from Poly Haven (CC0). Historic
+     scenes are reconstructions, partly conjectural. A non-commercial project.</p>
+</div>
+<script type="module" src="src/main.js"></script>
+<div id="period"></div>
+</body>
+</html>

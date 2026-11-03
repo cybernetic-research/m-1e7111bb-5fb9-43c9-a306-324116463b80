@@ -1,0 +1,20 @@
+[
+ {
+  "title": "The Earthquake on the Tor",
+  "era": "1275",
+  "theme": "Natural Disaster",
+  "lat": 51.1444,
+  "lon": -2.6986,
+  "text": "A major earthquake struck southern Britain on 11 September 1275 and destroyed the earlier church on Glastonbury Tor. The stone church later built on the summit survives today only as St Michael's tower.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Last Days of the Abbey",
+  "era": "1539",
+  "theme": "Reformation",
+  "lat": 51.145,
+  "lon": -2.714,
+  "text": "Glastonbury Abbey was dissolved during Henry VIII's suppression of the monasteries. Abbot Richard Whiting was executed in 1539, an event deeply embedded in local memory and legend.",
+  "source": "Butleigh history"
+ }
+]

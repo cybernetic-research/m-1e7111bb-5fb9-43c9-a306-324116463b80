@@ -1,0 +1,48 @@
+[
+ {
+  "title": "Concorde at Filton",
+  "era": "1969–2003",
+  "theme": "Engineering · Aviation",
+  "lat": 51.5197,
+  "lon": -2.588,
+  "text": "The first British-built Concorde flew from Filton to RAF Fairford on 9 April 1969, piloted by Brian Trubshaw. Concorde was 61.66 m long with a 25.6 m wingspan, and cruised at up to Mach 2.04; its nose drooped 5° for take-off and 12.5° for landing. Concorde's last-ever flight, on 26 November 2003, ended here.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Concorde 216, G-BOAF",
+  "era": "2003 · 2017",
+  "theme": "Aviation",
+  "lat": 51.522312,
+  "lon": -2.578601,
+  "text": "Several of Filton's hangars reopened in 2017 as the Aerospace Bristol museum, with a purpose-built hangar for Concorde G-BOAF.",
+  "source": "Wikipedia",
+  "check": "That G-BOAF made the final flight in 2003 is general knowledge; Wikipedia's pages fetched here confirm only the date and destination."
+ },
+ {
+  "title": "Filton airfield",
+  "era": "1910–2012",
+  "theme": "Aviation · Industry",
+  "lat": 51.5197,
+  "lon": -2.595,
+  "text": "Sir George White set up the British and Colonial Aeroplane Company here in 1910 (the Bristol Aeroplane Company from 1920). The runway, 2,467 m long and 91 m wide, was extended for the Brabazon's first flight in 1949. The airfield closed for business at the end of 2012; the new district of Brabazon is being built on it.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "The Brabazon hangar",
+  "era": "1940s",
+  "theme": "Aviation",
+  "lat": 51.51639,
+  "lon": -2.58496,
+  "text": "Built in the late 1940s to assemble the giant Bristol Brabazon airliner; its doors were among the largest in the world.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "25 September 1940",
+  "era": "1940",
+  "theme": "Second World War",
+  "lat": 51.5185,
+  "lon": -2.58,
+  "text": "German aircraft raided Filton, causing extensive damage to the aircraft factories; several air-raid shelters were hit, with heavy loss of life.",
+  "source": "Wikipedia"
+ }
+]

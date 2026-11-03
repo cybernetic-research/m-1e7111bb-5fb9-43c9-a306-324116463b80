@@ -1,0 +1,17 @@
+{
+ "name": "St Pauls",
+ "size": 1800,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.463,
+ "lon": -2.5845,
+ "easting": 359491,
+ "northing": 173943,
+ "min": 5.82,
+ "max": 69.69,
+ "holesFilled": 0,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 91.73
+}

@@ -1,0 +1,17 @@
+{
+ "name": "Thornbury Castle",
+ "size": 2400,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.61396,
+ "lon": -2.53049,
+ "easting": 363365,
+ "northing": 190704,
+ "min": 5.86,
+ "max": 73.04,
+ "holesFilled": 0,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 83.16
+}

@@ -1,0 +1,77 @@
+[
+ {
+  "title": "Champion's Warmley works",
+  "era": "1746–1769",
+  "theme": "Industry · Slave trade",
+  "lat": 51.45288,
+  "lon": -2.47947,
+  "text": "William Champion, who patented a way of distilling zinc in 1738, began the Warmley works in 1746: copper, brass, zinc, pins, wire, plate and kettles. By 1754 it had 15 copper, 12 brass and 4 zinc furnaces, one of the largest and most advanced brass works in Europe. Its big brass basins, 'Neptunes', were made for the transatlantic slave trade.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "The Warmley Giant",
+  "era": "18th century",
+  "theme": "Curiosities",
+  "lat": 51.45522,
+  "lon": -2.47789,
+  "text": "A statue of Neptune about 30 feet tall stands in the works' lake, built (like much here) from recycled copper slag and clinker blocks.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Champion's downfall",
+  "era": "1768–1769",
+  "theme": "Industry",
+  "lat": 51.45396,
+  "lon": -2.47688,
+  "text": "In 1768 Champion's partners dismissed him and he was declared bankrupt; in March 1769 the works were advertised for sale and bought by the Harford & Bristol Copper Company. Warmley House, the clock tower (c.1746), workers' cottages and the grotto survive.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Preaching to the colliers",
+  "era": "1739",
+  "theme": "Faith · Working lives",
+  "lat": 51.45142,
+  "lon": -2.50892,
+  "text": "Kingswood's colliers were notorious, and the parish churches were closing their doors to George Whitefield. In 1739 he preached to them in the open air, then handed the work to John Wesley. Hanham Mount is remembered as one of the places they preached.",
+  "source": "Wikipedia",
+  "check": "Wikipedia confirms the 1739 open-air preaching at Kingswood but not the exact spot; Hanham Mount is the local tradition."
+ },
+ {
+  "title": "Kingswood School",
+  "era": "1748–1851",
+  "theme": "Education",
+  "lat": 51.461,
+  "lon": -2.5145,
+  "text": "John Wesley founded a school here in 1748 for the colliers' children; Whitefield laid the foundation stone on Kennard Road, among the pits. It later became a school for Methodist ministers' sons and moved to Bath in 1851.",
+  "source": "Wikipedia",
+  "check": "The original site on Kennard Road is just west of this map's edge."
+ },
+ {
+  "title": "The Kingswood coalfield",
+  "era": "late 17th century on",
+  "theme": "Industry",
+  "lat": 51.456,
+  "lon": -2.495,
+  "text": "Kingswood was once a royal forest round Bristol, whose Chief Ranger was the Constable of Bristol Castle. From the late 17th century it was coal country, with mines under much of the town.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Siston Court",
+  "era": "16th century",
+  "theme": "Tudor",
+  "lat": 51.47638,
+  "lon": -2.45263,
+  "text": "A Grade I Elizabethan manor house built by Sir Maurice Denys (1516–1563) on the site of an earlier Denys mansion. Anne of Denmark, James I's queen, stayed here in June 1613.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Longwell Green",
+  "era": "",
+  "theme": "Places",
+  "lat": 51.43794,
+  "lon": -2.49186,
+  "text": "Between Kingswood and Hanham, on the old coalfield; Champion's world spread across this area, from Warmley to his later works at Kingswood and Bitton.",
+  "source": "Wikipedia",
+  "draft": true
+ }
+]

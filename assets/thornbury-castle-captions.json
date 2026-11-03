@@ -1,0 +1,39 @@
+[
+ {
+  "title": "Thornbury Castle",
+  "era": "1510–1521",
+  "theme": "Tudor",
+  "lat": 51.61396,
+  "lon": -2.53049,
+  "text": "Begun by Edward Stafford, 3rd Duke of Buckingham, in about 1510–11 beside the parish church of St Mary. More a grand Tudor country house than a fortress, with only a show of defence. Work stopped when the Duke was executed for treason in 1521.",
+  "source": "Wikipedia",
+  "check": "Wikipedia gives both 1510 and 1511 for the start."
+ },
+ {
+  "title": "The gatehouse range",
+  "era": "early 16th century",
+  "theme": "Tudor architecture",
+  "lat": 51.6142,
+  "lon": -2.531,
+  "text": "A symmetrical entrance front with a central gatehouse and octagonal corner towers, in dressed Cotswold ashlar, with crenellations and machicolations. The ornate brick chimneys are among the finest of the period; one is dated 1514.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Thornbury Castle today",
+  "era": "1966–",
+  "theme": "Later history",
+  "lat": 51.6138,
+  "lon": -2.53,
+  "text": "Grade I listed. Kenneth Bell ran it as a restaurant from 1966 to 1986; it is now a 26-room hotel and wedding venue.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "St Mary's Church",
+  "era": "medieval",
+  "theme": "Faith",
+  "lat": 51.6132,
+  "lon": -2.52999,
+  "text": "The castle was built right beside Thornbury's parish church of St Mary, whose tower gives a view down into the castle courts.",
+  "source": "Wikipedia"
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "title": "Somerdale",
+  "era": "1924–2011",
+  "theme": "Industry · Chocolate",
+  "lat": 51.4227,
+  "lon": -2.4983,
+  "text": "After Fry's merged with Cadbury in 1919, a 228-acre greenfield site at Keynsham was chosen (and named Somerdale after a national competition in 1923). Building ran from 1924 to 1935 as production moved block by block from Union Street in Bristol. At its height it employed more than 5,000 people.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "What Somerdale made",
+  "era": "20th century",
+  "theme": "Industry · Chocolate",
+  "lat": 51.4232,
+  "lon": -2.4975,
+  "text": "Fry's Chocolate Cream, Double Decker, Dairy Milk, Buttons, Creme Eggs, Mini Eggs, Fudge, Chomp, Crunchie and Curly Wurly: the Crunchie line alone made over a million bars a day. In the Second World War spare floor space was used by Rolls-Royce to build Merlin engines.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "A Quaker garden factory",
+  "era": "1920s–",
+  "theme": "Working lives",
+  "lat": 51.4238,
+  "lon": -2.4994,
+  "text": "As Quakers, the owners built playing fields and sports grounds for the workforce, which still serve Keynsham. The works had its own power station and railway sidings joined to the Great Western Railway at Keynsham station.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Closure",
+  "era": "2007–2011",
+  "theme": "Industry",
+  "lat": 51.4225,
+  "lon": -2.497,
+  "text": "Cadbury announced closure in 2007; after Kraft's takeover it was confirmed, and the factory closed on 31 March 2011 with production moved to Poland. The site became housing, and the old blocks a retirement village, 'The Chocolate Quarter'.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "The Somerdale villa",
+  "era": "Roman · 1922",
+  "theme": "Archaeology",
+  "lat": 51.4222,
+  "lon": -2.499,
+  "source": "Wikipedia",
+  "text": "Digging the factory's foundations in 1922 uncovered a small Roman villa: eight rooms, about 50 feet square, with a bathing suite and two stone coffins holding a man and a woman. It was taken up and reassembled near the factory entrance.",
+  "check": "The reassembled villa's exact position here is approximate."
+ },
+ {
+  "title": "Keynsham Roman Villa",
+  "era": "Roman",
+  "theme": "Archaeology",
+  "lat": 51.41851,
+  "lon": -2.495577,
+  "source": "Wikipedia",
+  "text": "A grand villa of over 30 rooms, found in 1877 when graves were dug at Durley Hill. Ten elaborate 4th-century mosaics were saved before burials destroyed the rest; the villa lies beneath the cemetery and the A4. A 2012 survey found about 15 more Roman buildings under the Keynsham Hams."
+ },
+ {
+  "title": "Keynsham Abbey",
+  "era": "c.1166–1539",
+  "theme": "Faith",
+  "lat": 51.417324,
+  "lon": -2.495945,
+  "source": "Wikipedia",
+  "text": "Founded around 1166 by William, Earl of Gloucester, after his son's death, as a house of Victorine (Augustinian) canons. The abbot and ten canons surrendered it on 28 January 1539. Its ruins lie in Keynsham's Memorial Park near the A4.",
+  "check": "Wikipedia gives both c.1166 and c.1170 for the founding."
+ }
+]

@@ -1,0 +1,7 @@
+Animals (Deer, Stag, Wolf, Horse, Horse_White, Donkey, Fox, Husky, ShibaInu): Quaternius, "Animal Assortment", CC0 1.0 (License.txt).
+bear.glb: "Bear" by jeremy, via Poly Pizza (https://poly.pizza/m/evjB26aGfTh), licensed CC-BY 3.0
+  (https://creativecommons.org/licenses/by/3.0/). Unmodified; scaled and posed in code (src/outskirts.js).
+Nature (assets/models/nature): Quaternius, "Stylized Nature MegaKit" (Standard), CC0 1.0; textures downscaled.
+Chicken (Chicken.gltf): Čestmír Dammer, made for the Kelgar project (http://www.kelgar.org/), CC0 (the user's
+  chicken.zip; texture derived from photos by Rick Hoppmann). Converted from chickenV2.blend with Blender: the body
+  texture wired to its materials and halved to 512 px; clips kept: Walk, Idle1, Idle2, Eating, Pecking1, Pecking2.

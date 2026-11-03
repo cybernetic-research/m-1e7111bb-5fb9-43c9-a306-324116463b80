@@ -1,0 +1,161 @@
+[
+ {
+  "title": "Bristol Castle",
+  "era": "c.1088–1656",
+  "theme": "Castles · Civil War",
+  "lat": 51.4562,
+  "lon": -2.5884,
+  "text": "A royal castle between the Avon and the Frome, first mentioned in 1088 and rebuilt in stone; its great keep was said to be of stone brought from Caen. The city bought it in 1630. After Bristol changed hands in the Civil War, Cromwell ordered it destroyed, and it was gone by 1656. Vaulted chambers and a sally port survive in Castle Park.",
+  "source": "Wikipedia",
+  "check": "The castle's layout and the keep's size here are conjecture; Wikipedia gives no dimensions.",
+  "years": [
+   1088,
+   1656
+  ]
+ },
+ {
+  "title": "Wine Street and Castle Street",
+  "era": "to 1940",
+  "theme": "Shopping · Second World War",
+  "lat": 51.4553,
+  "lon": -2.5905,
+  "text": "Before the war these were Bristol's main shopping streets: Boots, Jones's, the Co-op, Marks & Spencer, and Baker Baker, whose stores were joined by a high bridge across Mary-le-Port Street. Behind them ran narrow, winding streets of shops, hotels and pubs on the oldest street plan in the city.",
+  "source": "Wikipedia",
+  "years": [
+   1900,
+   1940
+  ]
+ },
+ {
+  "title": "24 November 1940",
+  "era": "1940",
+  "theme": "Second World War",
+  "lat": 51.4557,
+  "lon": -2.5895,
+  "text": "148 Luftwaffe aircraft set out and 135 reached Bristol, dropping around 12,000 incendiaries and 160 tons of high explosive. Fires burned through the night between Broad Quay and Old Market. Of some 500 buildings around here, about 80 survived intact; 200 people died that night.",
+  "source": "Wikipedia",
+  "years": [
+   1940,
+   1945
+  ]
+ },
+ {
+  "title": "St Peter's Church",
+  "era": "1106 · 1940",
+  "theme": "Faith · Second World War",
+  "lat": 51.45536,
+  "lon": -2.58969,
+  "text": "Founded in 1106, with a 12th-century lower tower and a 15th-century church. It was gutted on the night of 24–25 November 1940 and is kept as a ruin, a memorial to Bristol's civilian war dead, with their names on a plaque. The 12th-century city wall runs under its west end.",
+  "source": "Wikipedia",
+  "years": [
+   1940,
+   9999
+  ]
+ },
+ {
+  "title": "St Mary-le-Port",
+  "era": "11th–16th century · 1940",
+  "theme": "Faith",
+  "lat": 51.45469,
+  "lon": -2.59169,
+  "text": "Rebuilt and enlarged between the 11th and 16th centuries on Mary-le-Port Street, in the oldest part of the medieval city. Bombed on 24 November 1940; only its 15th-century tower stands.",
+  "source": "Wikipedia",
+  "years": [
+   1940,
+   9999
+  ]
+ },
+ {
+  "title": "The Dutch House",
+  "era": "17th century · 1940",
+  "theme": "Lost buildings",
+  "lat": 51.4549,
+  "lon": -2.5932,
+  "text": "A timber-framed house on the corner of High Street and Wine Street, called the 'most loved fragment of Old Bristol'. Damaged in the Blitz and later demolished.",
+  "source": "Wikipedia",
+  "check": "Its position and form in the model are approximate.",
+  "years": [
+   1676,
+   1940
+  ]
+ },
+ {
+  "title": "Castle Park",
+  "era": "1978",
+  "theme": "Rebuilding",
+  "lat": 51.456,
+  "lon": -2.5875,
+  "text": "After the war the shops were rebuilt in Broadmead, and by 1966 this ground was car parks. The park opened on 30 September 1978, burying Dolphin Street and Peter Street, the last of the medieval street plan.",
+  "source": "Wikipedia",
+  "years": [
+   1978,
+   9999
+  ]
+ },
+ {
+  "title": "The Floating Harbour",
+  "era": "1804–1809",
+  "theme": "Docks · Engineering",
+  "lat": 51.4505,
+  "lon": -2.599,
+  "text": "William Jessop's scheme, begun in May 1804 and opened on 1 May 1809, dammed the river so the harbour stays at a constant level whatever the tide. The tidal Avon was sent round through the New Cut, dug for two miles through the fields of Bedminster, and the Feeder Canal linked the harbour upstream to Netham.",
+  "source": "Wikipedia",
+  "years": [
+   1809,
+   9999
+  ]
+ },
+ {
+  "title": "Shipshape and Bristol fashion",
+  "era": "before 1809",
+  "theme": "Docks",
+  "lat": 51.4528,
+  "lon": -2.5925,
+  "text": "The tide here rises and falls about 14 m. Before the Floating Harbour, ships at the quays sat on the mud at every low water, so they had to be built and loaded to stand it: 'shipshape and Bristol fashion'. Welsh Back was where the trows brought in Welsh slate, stone, timber and coal.",
+  "source": "Wikipedia",
+  "years": [
+   1200,
+   1809
+  ]
+ },
+ {
+  "title": "St Augustine's Reach",
+  "era": "1240s",
+  "theme": "Docks · Medieval",
+  "lat": 51.452,
+  "lon": -2.598,
+  "text": "In the 1240s the River Frome was diverted into a deep artificial channel, St Augustine's Reach, which became the heart of Bristol's docks, lined with quays and wharves.",
+  "source": "Wikipedia",
+  "years": [
+   1240,
+   9999
+  ]
+ },
+ {
+  "title": "Fry's chocolate works",
+  "era": "1777–1935",
+  "theme": "Industry · Chocolate",
+  "lat": 51.4573,
+  "lon": -2.5916,
+  "text": "Joseph Fry, a Quaker, was making chocolate in Bristol by 1759; the works moved to Union Street in 1777 and grew into one of the city's largest employers. Here Fry's made one of the first solid eating-chocolate bars (1847), the first filled chocolate, Cream Sticks (1853), Fry's Chocolate Cream (1866) and Turkish Delight (1914), before moving block by block to Somerdale from 1923.",
+  "source": "Wikipedia",
+  "check": "The positions of individual Fry's buildings around Union Street and the Pithay aren't mapped here.",
+  "years": [
+   1777,
+   1935
+  ]
+ },
+ {
+  "title": "SS Great Britain",
+  "era": "1843 · 1970",
+  "theme": "Victorian Engineering",
+  "lat": 51.44915,
+  "lon": -2.608397,
+  "text": "Brunel's iron screw steamship, 98 m long, built in the Great Western Dockyard and floated out on 19 July 1843. She was trapped in the harbour for over a year waiting for the locks to be widened. After service to New York and Australia she ended as a hulk in the Falklands; she was towed home up the Avon on 5 July 1970 to the dock where she was built. A glass plate now seals the dock at her waterline.",
+  "source": "Wikipedia",
+  "years": [
+   1843,
+   9999
+  ]
+ }
+]

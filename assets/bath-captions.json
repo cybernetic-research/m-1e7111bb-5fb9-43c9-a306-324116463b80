@@ -1,0 +1,66 @@
+[
+ {
+  "title": "The sacred spring",
+  "era": "before AD 43 · Roman",
+  "theme": "Faith · Roman Britain",
+  "lat": 51.381115,
+  "lon": -2.359734,
+  "text": "Hot water rises here at 46 °C, over a million litres a day. Before the Romans it was a shrine of the Brythonic goddess Sulis; the Romans linked her with Minerva and began a temple complex in the AD 60s. 130 curse tablets were later found in the spring.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Temple of Sulis Minerva",
+  "era": "AD 60–70",
+  "theme": "Roman Britain",
+  "lat": 51.381127,
+  "lon": -2.35938,
+  "text": "The temple stood on a podium over two metres high; its pediment, 7.9 m wide, carried a Gorgon-type head about 15 m up. A gilt bronze head of Minerva was found nearby in 1727.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Aquae Sulis",
+  "era": "1st–4th century",
+  "theme": "Roman Britain",
+  "lat": 51.3818,
+  "lon": -2.36,
+  "text": "The baths grew over 300 years, and in the 2nd century were enclosed in a barrel-vaulted building with hot, warm and cold rooms. The walls, probably 3rd century, enclosed about 9.3 hectares around the religious centre, where the Fosse Way crossed the Avon.",
+  "source": "Wikipedia",
+  "check": "The wall line here follows the medieval walls, which kept the Roman line; it is approximate."
+ },
+ {
+  "title": "The lost baths",
+  "era": "5th–16th century",
+  "theme": "Medieval",
+  "lat": 51.3806,
+  "lon": -2.3595,
+  "text": "After Rome the baths fell into disrepair and were lost to silting and flooding. In the 12th century John of Tours built a curative bath over the King's Spring, and in the 16th century the city built the Queen's Bath.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "The Pump Room",
+  "era": "1789–1799",
+  "theme": "Georgian",
+  "lat": 51.381141,
+  "lon": -2.359955,
+  "text": "Begun by Thomas Baldwin in 1789 and completed by John Palmer in 1799, where fashionable visitors came to drink the waters.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "The Royal Crescent",
+  "era": "1767–1774",
+  "theme": "Georgian",
+  "lat": 51.38727,
+  "lon": -2.36823,
+  "text": "John Wood the Younger's crescent of 30 houses behind one 150 m front of 114 Ionic columns: the first crescent of terraced houses, looking over parkland. Buyers bought a length of facade and built their own houses behind it.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Georgian Bath in the model",
+  "era": "",
+  "theme": "About this model",
+  "lat": 51.386,
+  "lon": -2.3638,
+  "text": "The Georgian view keeps today's buildings within the Georgian city and leaves out the rest: a rough cut, since many later buildings stand inside it and some Georgian ones outside.",
+  "source": "This app"
+ }
+]

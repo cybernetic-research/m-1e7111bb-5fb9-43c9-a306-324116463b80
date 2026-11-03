@@ -1,0 +1,29 @@
+[
+ {
+  "title": "Brunel's First Child",
+  "era": "1831–1864",
+  "theme": "Victorian Engineering",
+  "lat": 51.4549,
+  "lon": -2.6279,
+  "text": "Clifton Suspension Bridge began as Brunel's winning design in 1831 but was not completed until 1864, five years after his death. The bridge spans 214 metres across the Avon Gorge and remains one of Britain's most recognisable engineering landmarks.",
+  "source": "Clifton Suspension Bridge Trust"
+ },
+ {
+  "title": "Clifton Rocks Railway",
+  "era": "1893–1934 · 1940–1945",
+  "theme": "Transport · Wartime Bristol",
+  "lat": 51.454,
+  "lon": -2.6255,
+  "text": "The Clifton Rocks Railway opened in 1893 as a water-balanced underground funicular linking Hotwells with Clifton. During the Second World War its tunnels became BBC emergency studios, offices and an air-raid shelter hidden inside the limestone cliffs.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Clifton Observatory",
+  "era": "Georgian",
+  "theme": "Curiosities",
+  "lat": 51.4566,
+  "lon": -2.62635,
+  "text": "Built as a mill in the 18th century and later turned into an observatory with a camera obscura. A passage leads down through the rock to the Giant's Cave, which opens in the cliff face high above the river.",
+  "draft": true
+ }
+]
