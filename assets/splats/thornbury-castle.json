@@ -1,0 +1,43 @@
+[
+ {
+  "name": "Thornbury Castle 1",
+  "file": "thornbury-1.splat",
+  "lat": 51.61426,
+  "lon": -2.5299568,
+  "heading": 165,
+  "up": "-y",
+  "scale": 1,
+  "lat0": 51.61426,
+  "lon0": -2.52987,
+  "alt": 32.85,
+  "fit": 1.51,
+  "aligned": "auto (LIDAR fit)"
+ },
+ {
+  "name": "Thornbury Castle 2",
+  "file": "thornbury-2.splat",
+  "lat": 51.6140622,
+  "lon": -2.53022,
+  "heading": 357,
+  "up": "-y",
+  "scale": 1,
+  "lat0": 51.61417,
+  "lon0": -2.53022,
+  "alt": 32.89,
+  "fit": 4.33,
+  "aligned": "auto (LIDAR fit)"
+ },
+ {
+  "name": "Thornbury Castle 3",
+  "file": "thornbury-3.splat",
+  "lat": 51.61386,
+  "lon": -2.53065,
+  "heading": 0,
+  "up": "-y",
+  "scale": 1,
+  "lat0": 51.61386,
+  "lon0": -2.53065,
+  "alt": 32.0,
+  "aligned": "height only: heading needs setting by eye (ADJUST SCAN)"
+ }
+]

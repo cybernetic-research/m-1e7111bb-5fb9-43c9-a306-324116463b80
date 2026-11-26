@@ -1,0 +1,37 @@
+[
+{
+"kind": "stop",
+"who": "keeper",
+"file": "stop-0.mp3",
+"text": "Hold there! What's in the packs? Goods going out of the town pay their toll.",
+"speaker": "p259"
+},
+{
+"kind": "price",
+"who": "keeper",
+"file": "price-1.mp3",
+"text": "A penny a horse-load. It keeps the walls standing.",
+"speaker": "p259"
+},
+{
+"kind": "thanks",
+"who": "keeper",
+"file": "thanks-2.mp3",
+"text": "Thank you kindly. On you go, and God speed.",
+"speaker": "p259"
+},
+{
+"kind": "let",
+"who": "keeper",
+"file": "let-3.mp3",
+"text": "Oh, go on, then. Just this once. But don't let me see you trying it again.",
+"speaker": "p259"
+},
+{
+"kind": "away",
+"who": "keeper",
+"file": "away-4.mp3",
+"text": "No toll, no passage. Off with you.",
+"speaker": "p259"
+}
+]

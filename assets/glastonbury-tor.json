@@ -1,0 +1,17 @@
+{
+ "name": "Glastonbury: the Tor and the abbey",
+ "size": 3000,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.1455,
+ "lon": -2.7075,
+ "easting": 350606,
+ "northing": 138709,
+ "min": 2.85,
+ "max": 159.16,
+ "holesFilled": 0,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 176.16
+}

@@ -1,0 +1,40 @@
+[
+ {
+  "title": "Palmerston's Fort at the End of the World",
+  "era": "1864–1901",
+  "theme": "Coastal Defence",
+  "lat": 51.3272,
+  "lon": -3.0334,
+  "text": "Brean Down Fort was constructed between 1864 and 1871 as part of the chain of Palmerston defences protecting the Bristol Channel. Its guns were intended to work with batteries on Steep Holm, Flat Holm and the Welsh coast.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "The Magazine Explosion",
+  "era": "July 1900",
+  "theme": "Disaster",
+  "lat": 51.3281,
+  "lon": -3.035,
+  "text": "A catastrophic explosion destroyed part of the fort in July 1900 when a magazine containing several tons of gunpowder detonated. The blast wrecked gun positions and barracks and effectively ended the fort's military role.",
+  "source": "Victorian Forts (Brean Down Battery)",
+  "check": "Sources differ on the exact day in early July 1900."
+ },
+ {
+  "title": "Secret Weapons on the Down",
+  "era": "1940–1945",
+  "theme": "Experimental Warfare",
+  "lat": 51.329,
+  "lon": -3.031,
+  "text": "Brean Down was rearmed during the Second World War and became a testing ground for experimental weapons. Rail tracks and launch facilities used by Admiralty researchers remained visible long after the war ended. Wikipedia records that a version of the bouncing bomb was tested here, launched from rails at the fort.",
+  "source": "Victorian Forts (Brean Down Battery)"
+ },
+ {
+  "title": "The Great Panjandrum",
+  "era": "1943–1944",
+  "theme": "Experimental Warfare",
+  "lat": 51.3175,
+  "lon": -2.999,
+  "text": "A huge drum on two rocket-driven wheels, meant to roll up a defended beach and blast through the Atlantic Wall. It came from the Admiralty's Directorate of Miscellaneous Weapons Development, whose outstation was HMS Birnbeck in Weston. In trials it shed rockets and veered wildly; it was never used.",
+  "check": "As far as I know the trials were at Westward Ho! in Devon, not on Brean Sands; the scene here is staged as an illustration.",
+  "draft": true
+ }
+]

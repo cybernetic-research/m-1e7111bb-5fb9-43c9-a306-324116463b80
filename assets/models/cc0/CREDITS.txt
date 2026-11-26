@@ -1,0 +1,29 @@
+CC0 (public domain) models, downloaded from Poly Pizza (poly.pizza) on 2026-11-01.
+
+By Quaternius (quaternius.com), CC0:
+  chicken-a.glb, chicken-b.glb, chicken-d.glb  Chicken
+  sheep-a.glb, sheep-b.glb                     Sheep
+  cow.glb                                      Cow
+  horse-a.glb, horse-b.glb, horse-c.glb        Horse
+  horse-white.glb                              White Horse
+  farmer.glb                                   Farmer
+  cart.glb, cart-broken.glb                    Cart, Broken Cart
+  barrel-a.glb, barrel-b.glb                   Barrel
+  crate.glb, chest.glb                         Crate, Chest
+  well.glb                                     Well
+  fence-a.glb, fence-b.glb, fence-c.glb        Fence
+  bonfire-a.glb, bonfire-b.glb                 Bonfire
+  fish-a.glb, fish-b.glb, fish-c.glb           Fish
+  market-stand.glb, market-stalls.glb          Market Stand, Market Stalls
+  small-ship.glb                               Small Ship
+
+By Kay Lousberg (kaylousberg.com), CC0:
+  lantern-hanging.glb, lantern-post.glb        Hanging Lantern, Post Lantern
+
+No CC0 goat or bird was found; the goats are the sheep model tinted brown (a stand-in), and the birds are simple
+models made in src/townlife.js.
+
+Added 2026-11-01 from packs the user downloaded (all CC0, by Quaternius, quaternius.com):
+  ../megakit/   pieces of the Medieval Village MegaKit (Standard), textures reduced to 1024 px (colour and
+                normal maps only) for the Quest
+  ../ships/     Sail ship, Boat with sail, Boat from the Ships pack (OBJ)

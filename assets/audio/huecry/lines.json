@@ -1,0 +1,4202 @@
+[
+{
+"kind": "stall",
+"file": "stall-0-0.mp3",
+"female": false,
+"text": "Stop, thief! Stop, thief!",
+"speaker": "p232"
+},
+{
+"kind": "stall",
+"file": "stall-0-1.mp3",
+"female": true,
+"text": "Stop, thief! Stop, thief!",
+"speaker": "p239"
+},
+{
+"kind": "stall",
+"file": "stall-0-2.mp3",
+"female": false,
+"text": "Stop, thief! Stop, thief!",
+"speaker": "p243"
+},
+{
+"kind": "stall",
+"file": "stall-0-3.mp3",
+"female": true,
+"text": "Stop, thief! Stop, thief!",
+"speaker": "p240"
+},
+{
+"kind": "stall",
+"file": "stall-1-0.mp3",
+"female": false,
+"text": "Thief! Thief! My goods!",
+"speaker": "p232"
+},
+{
+"kind": "stall",
+"file": "stall-1-1.mp3",
+"female": true,
+"text": "Thief! Thief! My goods!",
+"speaker": "p239"
+},
+{
+"kind": "stall",
+"file": "stall-1-2.mp3",
+"female": false,
+"text": "Thief! Thief! My goods!",
+"speaker": "p243"
+},
+{
+"kind": "stall",
+"file": "stall-1-3.mp3",
+"female": true,
+"text": "Thief! Thief! My goods!",
+"speaker": "p240"
+},
+{
+"kind": "stall",
+"file": "stall-2-0.mp3",
+"female": false,
+"text": "Help! A thief!",
+"speaker": "p232"
+},
+{
+"kind": "stall",
+"file": "stall-2-1.mp3",
+"female": true,
+"text": "Help! A thief!",
+"speaker": "p239"
+},
+{
+"kind": "stall",
+"file": "stall-2-2.mp3",
+"female": false,
+"text": "Help! A thief!",
+"speaker": "p243"
+},
+{
+"kind": "stall",
+"file": "stall-2-3.mp3",
+"female": true,
+"text": "Help! A thief!",
+"speaker": "p240"
+},
+{
+"kind": "cry",
+"file": "cry-3-0.mp3",
+"female": false,
+"text": "Stop, thief!",
+"speaker": "p232"
+},
+{
+"kind": "cry",
+"file": "cry-3-1.mp3",
+"female": true,
+"text": "Stop, thief!",
+"speaker": "p239"
+},
+{
+"kind": "cry",
+"file": "cry-3-2.mp3",
+"female": false,
+"text": "Stop, thief!",
+"speaker": "p243"
+},
+{
+"kind": "cry",
+"file": "cry-3-3.mp3",
+"female": true,
+"text": "Stop, thief!",
+"speaker": "p240"
+},
+{
+"kind": "cry",
+"file": "cry-3-4.mp3",
+"female": false,
+"text": "Stop, thief!",
+"speaker": "p245"
+},
+{
+"kind": "cry",
+"file": "cry-3-5.mp3",
+"female": true,
+"text": "Stop, thief!",
+"speaker": "p250"
+},
+{
+"kind": "cry",
+"file": "cry-3-6.mp3",
+"female": false,
+"text": "Stop, thief!",
+"speaker": "p254"
+},
+{
+"kind": "cry",
+"file": "cry-3-7.mp3",
+"female": true,
+"text": "Stop, thief!",
+"speaker": "p253"
+},
+{
+"kind": "cry",
+"file": "cry-3-8.mp3",
+"female": false,
+"text": "Stop, thief!",
+"speaker": "p256"
+},
+{
+"kind": "cry",
+"file": "cry-3-9.mp3",
+"female": true,
+"text": "Stop, thief!",
+"speaker": "p257"
+},
+{
+"kind": "cry",
+"file": "cry-3-10.mp3",
+"female": false,
+"text": "Stop, thief!",
+"speaker": "p259"
+},
+{
+"kind": "cry",
+"file": "cry-3-11.mp3",
+"female": true,
+"text": "Stop, thief!",
+"speaker": "p267"
+},
+{
+"kind": "cry",
+"file": "cry-3-12.mp3",
+"female": false,
+"text": "Stop, thief!",
+"speaker": "p273"
+},
+{
+"kind": "cry",
+"file": "cry-3-13.mp3",
+"female": true,
+"text": "Stop, thief!",
+"speaker": "p268"
+},
+{
+"kind": "cry",
+"file": "cry-3-14.mp3",
+"female": false,
+"text": "Stop, thief!",
+"speaker": "p278"
+},
+{
+"kind": "cry",
+"file": "cry-3-15.mp3",
+"female": true,
+"text": "Stop, thief!",
+"speaker": "p269"
+},
+{
+"kind": "cry",
+"file": "cry-3-16.mp3",
+"female": false,
+"text": "Stop, thief!",
+"speaker": "p286"
+},
+{
+"kind": "cry",
+"file": "cry-4-0.mp3",
+"female": false,
+"text": "After the thief!",
+"speaker": "p232"
+},
+{
+"kind": "cry",
+"file": "cry-4-1.mp3",
+"female": true,
+"text": "After the thief!",
+"speaker": "p239"
+},
+{
+"kind": "cry",
+"file": "cry-4-2.mp3",
+"female": false,
+"text": "After the thief!",
+"speaker": "p243"
+},
+{
+"kind": "cry",
+"file": "cry-4-3.mp3",
+"female": true,
+"text": "After the thief!",
+"speaker": "p240"
+},
+{
+"kind": "cry",
+"file": "cry-4-4.mp3",
+"female": false,
+"text": "After the thief!",
+"speaker": "p245"
+},
+{
+"kind": "cry",
+"file": "cry-4-5.mp3",
+"female": true,
+"text": "After the thief!",
+"speaker": "p250"
+},
+{
+"kind": "cry",
+"file": "cry-4-6.mp3",
+"female": false,
+"text": "After the thief!",
+"speaker": "p254"
+},
+{
+"kind": "cry",
+"file": "cry-4-7.mp3",
+"female": true,
+"text": "After the thief!",
+"speaker": "p253"
+},
+{
+"kind": "cry",
+"file": "cry-4-8.mp3",
+"female": false,
+"text": "After the thief!",
+"speaker": "p256"
+},
+{
+"kind": "cry",
+"file": "cry-4-9.mp3",
+"female": true,
+"text": "After the thief!",
+"speaker": "p257"
+},
+{
+"kind": "cry",
+"file": "cry-4-10.mp3",
+"female": false,
+"text": "After the thief!",
+"speaker": "p259"
+},
+{
+"kind": "cry",
+"file": "cry-4-11.mp3",
+"female": true,
+"text": "After the thief!",
+"speaker": "p267"
+},
+{
+"kind": "cry",
+"file": "cry-4-12.mp3",
+"female": false,
+"text": "After the thief!",
+"speaker": "p273"
+},
+{
+"kind": "cry",
+"file": "cry-4-13.mp3",
+"female": true,
+"text": "After the thief!",
+"speaker": "p268"
+},
+{
+"kind": "cry",
+"file": "cry-4-14.mp3",
+"female": false,
+"text": "After the thief!",
+"speaker": "p278"
+},
+{
+"kind": "cry",
+"file": "cry-4-15.mp3",
+"female": true,
+"text": "After the thief!",
+"speaker": "p269"
+},
+{
+"kind": "cry",
+"file": "cry-4-16.mp3",
+"female": false,
+"text": "After the thief!",
+"speaker": "p286"
+},
+{
+"kind": "cry",
+"file": "cry-5-0.mp3",
+"female": false,
+"text": "Thief! Thief!",
+"speaker": "p232"
+},
+{
+"kind": "cry",
+"file": "cry-5-1.mp3",
+"female": true,
+"text": "Thief! Thief!",
+"speaker": "p239"
+},
+{
+"kind": "cry",
+"file": "cry-5-2.mp3",
+"female": false,
+"text": "Thief! Thief!",
+"speaker": "p243"
+},
+{
+"kind": "cry",
+"file": "cry-5-3.mp3",
+"female": true,
+"text": "Thief! Thief!",
+"speaker": "p240"
+},
+{
+"kind": "cry",
+"file": "cry-5-4.mp3",
+"female": false,
+"text": "Thief! Thief!",
+"speaker": "p245"
+},
+{
+"kind": "cry",
+"file": "cry-5-5.mp3",
+"female": true,
+"text": "Thief! Thief!",
+"speaker": "p250"
+},
+{
+"kind": "cry",
+"file": "cry-5-6.mp3",
+"female": false,
+"text": "Thief! Thief!",
+"speaker": "p254"
+},
+{
+"kind": "cry",
+"file": "cry-5-7.mp3",
+"female": true,
+"text": "Thief! Thief!",
+"speaker": "p253"
+},
+{
+"kind": "cry",
+"file": "cry-5-8.mp3",
+"female": false,
+"text": "Thief! Thief!",
+"speaker": "p256"
+},
+{
+"kind": "cry",
+"file": "cry-5-9.mp3",
+"female": true,
+"text": "Thief! Thief!",
+"speaker": "p257"
+},
+{
+"kind": "cry",
+"file": "cry-5-10.mp3",
+"female": false,
+"text": "Thief! Thief!",
+"speaker": "p259"
+},
+{
+"kind": "cry",
+"file": "cry-5-11.mp3",
+"female": true,
+"text": "Thief! Thief!",
+"speaker": "p267"
+},
+{
+"kind": "cry",
+"file": "cry-5-12.mp3",
+"female": false,
+"text": "Thief! Thief!",
+"speaker": "p273"
+},
+{
+"kind": "cry",
+"file": "cry-5-13.mp3",
+"female": true,
+"text": "Thief! Thief!",
+"speaker": "p268"
+},
+{
+"kind": "cry",
+"file": "cry-5-14.mp3",
+"female": false,
+"text": "Thief! Thief!",
+"speaker": "p278"
+},
+{
+"kind": "cry",
+"file": "cry-5-15.mp3",
+"female": true,
+"text": "Thief! Thief!",
+"speaker": "p269"
+},
+{
+"kind": "cry",
+"file": "cry-5-16.mp3",
+"female": false,
+"text": "Thief! Thief!",
+"speaker": "p286"
+},
+{
+"kind": "cry",
+"file": "cry-6-0.mp3",
+"female": false,
+"text": "Out, out! Harrow!",
+"speaker": "p232"
+},
+{
+"kind": "cry",
+"file": "cry-6-1.mp3",
+"female": true,
+"text": "Out, out! Harrow!",
+"speaker": "p239"
+},
+{
+"kind": "cry",
+"file": "cry-6-2.mp3",
+"female": false,
+"text": "Out, out! Harrow!",
+"speaker": "p243"
+},
+{
+"kind": "cry",
+"file": "cry-6-3.mp3",
+"female": true,
+"text": "Out, out! Harrow!",
+"speaker": "p240"
+},
+{
+"kind": "cry",
+"file": "cry-6-4.mp3",
+"female": false,
+"text": "Out, out! Harrow!",
+"speaker": "p245"
+},
+{
+"kind": "cry",
+"file": "cry-6-5.mp3",
+"female": true,
+"text": "Out, out! Harrow!",
+"speaker": "p250"
+},
+{
+"kind": "cry",
+"file": "cry-6-6.mp3",
+"female": false,
+"text": "Out, out! Harrow!",
+"speaker": "p254"
+},
+{
+"kind": "cry",
+"file": "cry-6-7.mp3",
+"female": true,
+"text": "Out, out! Harrow!",
+"speaker": "p253"
+},
+{
+"kind": "cry",
+"file": "cry-6-8.mp3",
+"female": false,
+"text": "Out, out! Harrow!",
+"speaker": "p256"
+},
+{
+"kind": "cry",
+"file": "cry-6-9.mp3",
+"female": true,
+"text": "Out, out! Harrow!",
+"speaker": "p257"
+},
+{
+"kind": "cry",
+"file": "cry-6-10.mp3",
+"female": false,
+"text": "Out, out! Harrow!",
+"speaker": "p259"
+},
+{
+"kind": "cry",
+"file": "cry-6-11.mp3",
+"female": true,
+"text": "Out, out! Harrow!",
+"speaker": "p267"
+},
+{
+"kind": "cry",
+"file": "cry-6-12.mp3",
+"female": false,
+"text": "Out, out! Harrow!",
+"speaker": "p273"
+},
+{
+"kind": "cry",
+"file": "cry-6-13.mp3",
+"female": true,
+"text": "Out, out! Harrow!",
+"speaker": "p268"
+},
+{
+"kind": "cry",
+"file": "cry-6-14.mp3",
+"female": false,
+"text": "Out, out! Harrow!",
+"speaker": "p278"
+},
+{
+"kind": "cry",
+"file": "cry-6-15.mp3",
+"female": true,
+"text": "Out, out! Harrow!",
+"speaker": "p269"
+},
+{
+"kind": "cry",
+"file": "cry-6-16.mp3",
+"female": false,
+"text": "Out, out! Harrow!",
+"speaker": "p286"
+},
+{
+"kind": "cry",
+"file": "cry-7-0.mp3",
+"female": false,
+"text": "Stop that thief!",
+"speaker": "p232"
+},
+{
+"kind": "cry",
+"file": "cry-7-1.mp3",
+"female": true,
+"text": "Stop that thief!",
+"speaker": "p239"
+},
+{
+"kind": "cry",
+"file": "cry-7-2.mp3",
+"female": false,
+"text": "Stop that thief!",
+"speaker": "p243"
+},
+{
+"kind": "cry",
+"file": "cry-7-3.mp3",
+"female": true,
+"text": "Stop that thief!",
+"speaker": "p240"
+},
+{
+"kind": "cry",
+"file": "cry-7-4.mp3",
+"female": false,
+"text": "Stop that thief!",
+"speaker": "p245"
+},
+{
+"kind": "cry",
+"file": "cry-7-5.mp3",
+"female": true,
+"text": "Stop that thief!",
+"speaker": "p250"
+},
+{
+"kind": "cry",
+"file": "cry-7-6.mp3",
+"female": false,
+"text": "Stop that thief!",
+"speaker": "p254"
+},
+{
+"kind": "cry",
+"file": "cry-7-7.mp3",
+"female": true,
+"text": "Stop that thief!",
+"speaker": "p253"
+},
+{
+"kind": "cry",
+"file": "cry-7-8.mp3",
+"female": false,
+"text": "Stop that thief!",
+"speaker": "p256"
+},
+{
+"kind": "cry",
+"file": "cry-7-9.mp3",
+"female": true,
+"text": "Stop that thief!",
+"speaker": "p257"
+},
+{
+"kind": "cry",
+"file": "cry-7-10.mp3",
+"female": false,
+"text": "Stop that thief!",
+"speaker": "p259"
+},
+{
+"kind": "cry",
+"file": "cry-7-11.mp3",
+"female": true,
+"text": "Stop that thief!",
+"speaker": "p267"
+},
+{
+"kind": "cry",
+"file": "cry-7-12.mp3",
+"female": false,
+"text": "Stop that thief!",
+"speaker": "p273"
+},
+{
+"kind": "cry",
+"file": "cry-7-13.mp3",
+"female": true,
+"text": "Stop that thief!",
+"speaker": "p268"
+},
+{
+"kind": "cry",
+"file": "cry-7-14.mp3",
+"female": false,
+"text": "Stop that thief!",
+"speaker": "p278"
+},
+{
+"kind": "cry",
+"file": "cry-7-15.mp3",
+"female": true,
+"text": "Stop that thief!",
+"speaker": "p269"
+},
+{
+"kind": "cry",
+"file": "cry-7-16.mp3",
+"female": false,
+"text": "Stop that thief!",
+"speaker": "p286"
+},
+{
+"kind": "cry",
+"file": "cry-8-0.mp3",
+"female": false,
+"text": "Catch the thief!",
+"speaker": "p232"
+},
+{
+"kind": "cry",
+"file": "cry-8-1.mp3",
+"female": true,
+"text": "Catch the thief!",
+"speaker": "p239"
+},
+{
+"kind": "cry",
+"file": "cry-8-2.mp3",
+"female": false,
+"text": "Catch the thief!",
+"speaker": "p243"
+},
+{
+"kind": "cry",
+"file": "cry-8-3.mp3",
+"female": true,
+"text": "Catch the thief!",
+"speaker": "p240"
+},
+{
+"kind": "cry",
+"file": "cry-8-4.mp3",
+"female": false,
+"text": "Catch the thief!",
+"speaker": "p245"
+},
+{
+"kind": "cry",
+"file": "cry-8-5.mp3",
+"female": true,
+"text": "Catch the thief!",
+"speaker": "p250"
+},
+{
+"kind": "cry",
+"file": "cry-8-6.mp3",
+"female": false,
+"text": "Catch the thief!",
+"speaker": "p254"
+},
+{
+"kind": "cry",
+"file": "cry-8-7.mp3",
+"female": true,
+"text": "Catch the thief!",
+"speaker": "p253"
+},
+{
+"kind": "cry",
+"file": "cry-8-8.mp3",
+"female": false,
+"text": "Catch the thief!",
+"speaker": "p256"
+},
+{
+"kind": "cry",
+"file": "cry-8-9.mp3",
+"female": true,
+"text": "Catch the thief!",
+"speaker": "p257"
+},
+{
+"kind": "cry",
+"file": "cry-8-10.mp3",
+"female": false,
+"text": "Catch the thief!",
+"speaker": "p259"
+},
+{
+"kind": "cry",
+"file": "cry-8-11.mp3",
+"female": true,
+"text": "Catch the thief!",
+"speaker": "p267"
+},
+{
+"kind": "cry",
+"file": "cry-8-12.mp3",
+"female": false,
+"text": "Catch the thief!",
+"speaker": "p273"
+},
+{
+"kind": "cry",
+"file": "cry-8-13.mp3",
+"female": true,
+"text": "Catch the thief!",
+"speaker": "p268"
+},
+{
+"kind": "cry",
+"file": "cry-8-14.mp3",
+"female": false,
+"text": "Catch the thief!",
+"speaker": "p278"
+},
+{
+"kind": "cry",
+"file": "cry-8-15.mp3",
+"female": true,
+"text": "Catch the thief!",
+"speaker": "p269"
+},
+{
+"kind": "cry",
+"file": "cry-8-16.mp3",
+"female": false,
+"text": "Catch the thief!",
+"speaker": "p286"
+},
+{
+"kind": "you",
+"file": "you-9-0.mp3",
+"female": false,
+"text": "Stop, thief! Out, out! Harrow!",
+"speaker": "p232"
+},
+{
+"kind": "watch",
+"file": "watch-10-0.mp3",
+"female": false,
+"text": "There! Down there!",
+"speaker": "p232"
+},
+{
+"kind": "watch",
+"file": "watch-10-1.mp3",
+"female": true,
+"text": "There! Down there!",
+"speaker": "p239"
+},
+{
+"kind": "watch",
+"file": "watch-10-2.mp3",
+"female": false,
+"text": "There! Down there!",
+"speaker": "p243"
+},
+{
+"kind": "watch",
+"file": "watch-10-3.mp3",
+"female": true,
+"text": "There! Down there!",
+"speaker": "p240"
+},
+{
+"kind": "watch",
+"file": "watch-10-4.mp3",
+"female": false,
+"text": "There! Down there!",
+"speaker": "p245"
+},
+{
+"kind": "watch",
+"file": "watch-10-5.mp3",
+"female": true,
+"text": "There! Down there!",
+"speaker": "p250"
+},
+{
+"kind": "watch",
+"file": "watch-10-6.mp3",
+"female": false,
+"text": "There! Down there!",
+"speaker": "p254"
+},
+{
+"kind": "watch",
+"file": "watch-10-7.mp3",
+"female": true,
+"text": "There! Down there!",
+"speaker": "p253"
+},
+{
+"kind": "watch",
+"file": "watch-10-8.mp3",
+"female": false,
+"text": "There! Down there!",
+"speaker": "p256"
+},
+{
+"kind": "watch",
+"file": "watch-10-9.mp3",
+"female": true,
+"text": "There! Down there!",
+"speaker": "p257"
+},
+{
+"kind": "watch",
+"file": "watch-10-10.mp3",
+"female": false,
+"text": "There! Down there!",
+"speaker": "p259"
+},
+{
+"kind": "watch",
+"file": "watch-10-11.mp3",
+"female": true,
+"text": "There! Down there!",
+"speaker": "p267"
+},
+{
+"kind": "watch",
+"file": "watch-10-12.mp3",
+"female": false,
+"text": "There! Down there!",
+"speaker": "p273"
+},
+{
+"kind": "watch",
+"file": "watch-10-13.mp3",
+"female": true,
+"text": "There! Down there!",
+"speaker": "p268"
+},
+{
+"kind": "watch",
+"file": "watch-10-14.mp3",
+"female": false,
+"text": "There! Down there!",
+"speaker": "p278"
+},
+{
+"kind": "watch",
+"file": "watch-10-15.mp3",
+"female": true,
+"text": "There! Down there!",
+"speaker": "p269"
+},
+{
+"kind": "watch",
+"file": "watch-10-16.mp3",
+"female": false,
+"text": "There! Down there!",
+"speaker": "p286"
+},
+{
+"kind": "watch",
+"file": "watch-11-0.mp3",
+"female": false,
+"text": "That way! The thief went that way!",
+"speaker": "p232"
+},
+{
+"kind": "watch",
+"file": "watch-11-1.mp3",
+"female": true,
+"text": "That way! The thief went that way!",
+"speaker": "p239"
+},
+{
+"kind": "watch",
+"file": "watch-11-2.mp3",
+"female": false,
+"text": "That way! The thief went that way!",
+"speaker": "p243"
+},
+{
+"kind": "watch",
+"file": "watch-11-3.mp3",
+"female": true,
+"text": "That way! The thief went that way!",
+"speaker": "p240"
+},
+{
+"kind": "watch",
+"file": "watch-11-4.mp3",
+"female": false,
+"text": "That way! The thief went that way!",
+"speaker": "p245"
+},
+{
+"kind": "watch",
+"file": "watch-11-5.mp3",
+"female": true,
+"text": "That way! The thief went that way!",
+"speaker": "p250"
+},
+{
+"kind": "watch",
+"file": "watch-11-6.mp3",
+"female": false,
+"text": "That way! The thief went that way!",
+"speaker": "p254"
+},
+{
+"kind": "watch",
+"file": "watch-11-7.mp3",
+"female": true,
+"text": "That way! The thief went that way!",
+"speaker": "p253"
+},
+{
+"kind": "watch",
+"file": "watch-11-8.mp3",
+"female": false,
+"text": "That way! The thief went that way!",
+"speaker": "p256"
+},
+{
+"kind": "watch",
+"file": "watch-11-9.mp3",
+"female": true,
+"text": "That way! The thief went that way!",
+"speaker": "p257"
+},
+{
+"kind": "watch",
+"file": "watch-11-10.mp3",
+"female": false,
+"text": "That way! The thief went that way!",
+"speaker": "p259"
+},
+{
+"kind": "watch",
+"file": "watch-11-11.mp3",
+"female": true,
+"text": "That way! The thief went that way!",
+"speaker": "p267"
+},
+{
+"kind": "watch",
+"file": "watch-11-12.mp3",
+"female": false,
+"text": "That way! The thief went that way!",
+"speaker": "p273"
+},
+{
+"kind": "watch",
+"file": "watch-11-13.mp3",
+"female": true,
+"text": "That way! The thief went that way!",
+"speaker": "p268"
+},
+{
+"kind": "watch",
+"file": "watch-11-14.mp3",
+"female": false,
+"text": "That way! The thief went that way!",
+"speaker": "p278"
+},
+{
+"kind": "watch",
+"file": "watch-11-15.mp3",
+"female": true,
+"text": "That way! The thief went that way!",
+"speaker": "p269"
+},
+{
+"kind": "watch",
+"file": "watch-11-16.mp3",
+"female": false,
+"text": "That way! The thief went that way!",
+"speaker": "p286"
+},
+{
+"kind": "watch",
+"file": "watch-12-0.mp3",
+"female": false,
+"text": "Yonder! By the wall!",
+"speaker": "p232"
+},
+{
+"kind": "watch",
+"file": "watch-12-1.mp3",
+"female": true,
+"text": "Yonder! By the wall!",
+"speaker": "p239"
+},
+{
+"kind": "watch",
+"file": "watch-12-2.mp3",
+"female": false,
+"text": "Yonder! By the wall!",
+"speaker": "p243"
+},
+{
+"kind": "watch",
+"file": "watch-12-3.mp3",
+"female": true,
+"text": "Yonder! By the wall!",
+"speaker": "p240"
+},
+{
+"kind": "watch",
+"file": "watch-12-4.mp3",
+"female": false,
+"text": "Yonder! By the wall!",
+"speaker": "p245"
+},
+{
+"kind": "watch",
+"file": "watch-12-5.mp3",
+"female": true,
+"text": "Yonder! By the wall!",
+"speaker": "p250"
+},
+{
+"kind": "watch",
+"file": "watch-12-6.mp3",
+"female": false,
+"text": "Yonder! By the wall!",
+"speaker": "p254"
+},
+{
+"kind": "watch",
+"file": "watch-12-7.mp3",
+"female": true,
+"text": "Yonder! By the wall!",
+"speaker": "p253"
+},
+{
+"kind": "watch",
+"file": "watch-12-8.mp3",
+"female": false,
+"text": "Yonder! By the wall!",
+"speaker": "p256"
+},
+{
+"kind": "watch",
+"file": "watch-12-9.mp3",
+"female": true,
+"text": "Yonder! By the wall!",
+"speaker": "p257"
+},
+{
+"kind": "watch",
+"file": "watch-12-10.mp3",
+"female": false,
+"text": "Yonder! By the wall!",
+"speaker": "p259"
+},
+{
+"kind": "watch",
+"file": "watch-12-11.mp3",
+"female": true,
+"text": "Yonder! By the wall!",
+"speaker": "p267"
+},
+{
+"kind": "watch",
+"file": "watch-12-12.mp3",
+"female": false,
+"text": "Yonder! By the wall!",
+"speaker": "p273"
+},
+{
+"kind": "watch",
+"file": "watch-12-13.mp3",
+"female": true,
+"text": "Yonder! By the wall!",
+"speaker": "p268"
+},
+{
+"kind": "watch",
+"file": "watch-12-14.mp3",
+"female": false,
+"text": "Yonder! By the wall!",
+"speaker": "p278"
+},
+{
+"kind": "watch",
+"file": "watch-12-15.mp3",
+"female": true,
+"text": "Yonder! By the wall!",
+"speaker": "p269"
+},
+{
+"kind": "watch",
+"file": "watch-12-16.mp3",
+"female": false,
+"text": "Yonder! By the wall!",
+"speaker": "p286"
+},
+{
+"kind": "watch",
+"file": "watch-13-0.mp3",
+"female": false,
+"text": "Look, there! There they go!",
+"speaker": "p232"
+},
+{
+"kind": "watch",
+"file": "watch-13-1.mp3",
+"female": true,
+"text": "Look, there! There they go!",
+"speaker": "p239"
+},
+{
+"kind": "watch",
+"file": "watch-13-2.mp3",
+"female": false,
+"text": "Look, there! There they go!",
+"speaker": "p243"
+},
+{
+"kind": "watch",
+"file": "watch-13-3.mp3",
+"female": true,
+"text": "Look, there! There they go!",
+"speaker": "p240"
+},
+{
+"kind": "watch",
+"file": "watch-13-4.mp3",
+"female": false,
+"text": "Look, there! There they go!",
+"speaker": "p245"
+},
+{
+"kind": "watch",
+"file": "watch-13-5.mp3",
+"female": true,
+"text": "Look, there! There they go!",
+"speaker": "p250"
+},
+{
+"kind": "watch",
+"file": "watch-13-6.mp3",
+"female": false,
+"text": "Look, there! There they go!",
+"speaker": "p254"
+},
+{
+"kind": "watch",
+"file": "watch-13-7.mp3",
+"female": true,
+"text": "Look, there! There they go!",
+"speaker": "p253"
+},
+{
+"kind": "watch",
+"file": "watch-13-8.mp3",
+"female": false,
+"text": "Look, there! There they go!",
+"speaker": "p256"
+},
+{
+"kind": "watch",
+"file": "watch-13-9.mp3",
+"female": true,
+"text": "Look, there! There they go!",
+"speaker": "p257"
+},
+{
+"kind": "watch",
+"file": "watch-13-10.mp3",
+"female": false,
+"text": "Look, there! There they go!",
+"speaker": "p259"
+},
+{
+"kind": "watch",
+"file": "watch-13-11.mp3",
+"female": true,
+"text": "Look, there! There they go!",
+"speaker": "p267"
+},
+{
+"kind": "watch",
+"file": "watch-13-12.mp3",
+"female": false,
+"text": "Look, there! There they go!",
+"speaker": "p273"
+},
+{
+"kind": "watch",
+"file": "watch-13-13.mp3",
+"female": true,
+"text": "Look, there! There they go!",
+"speaker": "p268"
+},
+{
+"kind": "watch",
+"file": "watch-13-14.mp3",
+"female": false,
+"text": "Look, there! There they go!",
+"speaker": "p278"
+},
+{
+"kind": "watch",
+"file": "watch-13-15.mp3",
+"female": true,
+"text": "Look, there! There they go!",
+"speaker": "p269"
+},
+{
+"kind": "watch",
+"file": "watch-13-16.mp3",
+"female": false,
+"text": "Look, there! There they go!",
+"speaker": "p286"
+},
+{
+"kind": "caught",
+"file": "caught-14-0.mp3",
+"female": false,
+"text": "Hold fast! We have the thief!",
+"speaker": "p232"
+},
+{
+"kind": "caught",
+"file": "caught-14-1.mp3",
+"female": true,
+"text": "Hold fast! We have the thief!",
+"speaker": "p239"
+},
+{
+"kind": "caught",
+"file": "caught-14-2.mp3",
+"female": false,
+"text": "Hold fast! We have the thief!",
+"speaker": "p243"
+},
+{
+"kind": "caught",
+"file": "caught-14-3.mp3",
+"female": true,
+"text": "Hold fast! We have the thief!",
+"speaker": "p240"
+},
+{
+"kind": "caught",
+"file": "caught-15-0.mp3",
+"female": false,
+"text": "Got the thief! Hold fast!",
+"speaker": "p232"
+},
+{
+"kind": "caught",
+"file": "caught-15-1.mp3",
+"female": true,
+"text": "Got the thief! Hold fast!",
+"speaker": "p239"
+},
+{
+"kind": "caught",
+"file": "caught-15-2.mp3",
+"female": false,
+"text": "Got the thief! Hold fast!",
+"speaker": "p243"
+},
+{
+"kind": "caught",
+"file": "caught-15-3.mp3",
+"female": true,
+"text": "Got the thief! Hold fast!",
+"speaker": "p240"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-0.mp3",
+"female": false,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p232"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-1.mp3",
+"female": true,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p239"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-2.mp3",
+"female": false,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p243"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-3.mp3",
+"female": true,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p240"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-4.mp3",
+"female": false,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p245"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-5.mp3",
+"female": true,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p250"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-6.mp3",
+"female": false,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p254"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-7.mp3",
+"female": true,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p253"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-8.mp3",
+"female": false,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p256"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-9.mp3",
+"female": true,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p257"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-10.mp3",
+"female": false,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p259"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-11.mp3",
+"female": true,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p267"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-12.mp3",
+"female": false,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p273"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-13.mp3",
+"female": true,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p268"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-14.mp3",
+"female": false,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p278"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-15.mp3",
+"female": true,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p269"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-16-16.mp3",
+"female": false,
+"text": "Mercy! Mercy, good people!",
+"speaker": "p286"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-0.mp3",
+"female": false,
+"text": "No! No! Don't hurt me!",
+"speaker": "p232"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-1.mp3",
+"female": true,
+"text": "No! No! Don't hurt me!",
+"speaker": "p239"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-2.mp3",
+"female": false,
+"text": "No! No! Don't hurt me!",
+"speaker": "p243"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-3.mp3",
+"female": true,
+"text": "No! No! Don't hurt me!",
+"speaker": "p240"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-4.mp3",
+"female": false,
+"text": "No! No! Don't hurt me!",
+"speaker": "p245"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-5.mp3",
+"female": true,
+"text": "No! No! Don't hurt me!",
+"speaker": "p250"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-6.mp3",
+"female": false,
+"text": "No! No! Don't hurt me!",
+"speaker": "p254"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-7.mp3",
+"female": true,
+"text": "No! No! Don't hurt me!",
+"speaker": "p253"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-8.mp3",
+"female": false,
+"text": "No! No! Don't hurt me!",
+"speaker": "p256"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-9.mp3",
+"female": true,
+"text": "No! No! Don't hurt me!",
+"speaker": "p257"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-10.mp3",
+"female": false,
+"text": "No! No! Don't hurt me!",
+"speaker": "p259"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-11.mp3",
+"female": true,
+"text": "No! No! Don't hurt me!",
+"speaker": "p267"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-12.mp3",
+"female": false,
+"text": "No! No! Don't hurt me!",
+"speaker": "p273"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-13.mp3",
+"female": true,
+"text": "No! No! Don't hurt me!",
+"speaker": "p268"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-14.mp3",
+"female": false,
+"text": "No! No! Don't hurt me!",
+"speaker": "p278"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-15.mp3",
+"female": true,
+"text": "No! No! Don't hurt me!",
+"speaker": "p269"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-17-16.mp3",
+"female": false,
+"text": "No! No! Don't hurt me!",
+"speaker": "p286"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-0.mp3",
+"female": false,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p232"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-1.mp3",
+"female": true,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p239"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-2.mp3",
+"female": false,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p243"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-3.mp3",
+"female": true,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p240"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-4.mp3",
+"female": false,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p245"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-5.mp3",
+"female": true,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p250"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-6.mp3",
+"female": false,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p254"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-7.mp3",
+"female": true,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p253"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-8.mp3",
+"female": false,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p256"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-9.mp3",
+"female": true,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p257"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-10.mp3",
+"female": false,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p259"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-11.mp3",
+"female": true,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p267"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-12.mp3",
+"female": false,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p273"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-13.mp3",
+"female": true,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p268"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-14.mp3",
+"female": false,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p278"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-15.mp3",
+"female": true,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p269"
+},
+{
+"kind": "thief_cower",
+"file": "thief_cower-18-16.mp3",
+"female": false,
+"text": "Aaah! Let me be! Mercy!",
+"speaker": "p286"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-0.mp3",
+"female": false,
+"text": "Get off me! Let me go!",
+"speaker": "p232"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-1.mp3",
+"female": true,
+"text": "Get off me! Let me go!",
+"speaker": "p239"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-2.mp3",
+"female": false,
+"text": "Get off me! Let me go!",
+"speaker": "p243"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-3.mp3",
+"female": true,
+"text": "Get off me! Let me go!",
+"speaker": "p240"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-4.mp3",
+"female": false,
+"text": "Get off me! Let me go!",
+"speaker": "p245"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-5.mp3",
+"female": true,
+"text": "Get off me! Let me go!",
+"speaker": "p250"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-6.mp3",
+"female": false,
+"text": "Get off me! Let me go!",
+"speaker": "p254"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-7.mp3",
+"female": true,
+"text": "Get off me! Let me go!",
+"speaker": "p253"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-8.mp3",
+"female": false,
+"text": "Get off me! Let me go!",
+"speaker": "p256"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-9.mp3",
+"female": true,
+"text": "Get off me! Let me go!",
+"speaker": "p257"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-10.mp3",
+"female": false,
+"text": "Get off me! Let me go!",
+"speaker": "p259"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-11.mp3",
+"female": true,
+"text": "Get off me! Let me go!",
+"speaker": "p267"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-12.mp3",
+"female": false,
+"text": "Get off me! Let me go!",
+"speaker": "p273"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-13.mp3",
+"female": true,
+"text": "Get off me! Let me go!",
+"speaker": "p268"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-14.mp3",
+"female": false,
+"text": "Get off me! Let me go!",
+"speaker": "p278"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-15.mp3",
+"female": true,
+"text": "Get off me! Let me go!",
+"speaker": "p269"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-19-16.mp3",
+"female": false,
+"text": "Get off me! Let me go!",
+"speaker": "p286"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-0.mp3",
+"female": false,
+"text": "Unhand me! Get away from me!",
+"speaker": "p232"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-1.mp3",
+"female": true,
+"text": "Unhand me! Get away from me!",
+"speaker": "p239"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-2.mp3",
+"female": false,
+"text": "Unhand me! Get away from me!",
+"speaker": "p243"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-3.mp3",
+"female": true,
+"text": "Unhand me! Get away from me!",
+"speaker": "p240"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-4.mp3",
+"female": false,
+"text": "Unhand me! Get away from me!",
+"speaker": "p245"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-5.mp3",
+"female": true,
+"text": "Unhand me! Get away from me!",
+"speaker": "p250"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-6.mp3",
+"female": false,
+"text": "Unhand me! Get away from me!",
+"speaker": "p254"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-7.mp3",
+"female": true,
+"text": "Unhand me! Get away from me!",
+"speaker": "p253"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-8.mp3",
+"female": false,
+"text": "Unhand me! Get away from me!",
+"speaker": "p256"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-9.mp3",
+"female": true,
+"text": "Unhand me! Get away from me!",
+"speaker": "p257"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-10.mp3",
+"female": false,
+"text": "Unhand me! Get away from me!",
+"speaker": "p259"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-11.mp3",
+"female": true,
+"text": "Unhand me! Get away from me!",
+"speaker": "p267"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-12.mp3",
+"female": false,
+"text": "Unhand me! Get away from me!",
+"speaker": "p273"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-13.mp3",
+"female": true,
+"text": "Unhand me! Get away from me!",
+"speaker": "p268"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-14.mp3",
+"female": false,
+"text": "Unhand me! Get away from me!",
+"speaker": "p278"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-15.mp3",
+"female": true,
+"text": "Unhand me! Get away from me!",
+"speaker": "p269"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-20-16.mp3",
+"female": false,
+"text": "Unhand me! Get away from me!",
+"speaker": "p286"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-0.mp3",
+"female": false,
+"text": "Let go! Let go of me!",
+"speaker": "p232"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-1.mp3",
+"female": true,
+"text": "Let go! Let go of me!",
+"speaker": "p239"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-2.mp3",
+"female": false,
+"text": "Let go! Let go of me!",
+"speaker": "p243"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-3.mp3",
+"female": true,
+"text": "Let go! Let go of me!",
+"speaker": "p240"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-4.mp3",
+"female": false,
+"text": "Let go! Let go of me!",
+"speaker": "p245"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-5.mp3",
+"female": true,
+"text": "Let go! Let go of me!",
+"speaker": "p250"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-6.mp3",
+"female": false,
+"text": "Let go! Let go of me!",
+"speaker": "p254"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-7.mp3",
+"female": true,
+"text": "Let go! Let go of me!",
+"speaker": "p253"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-8.mp3",
+"female": false,
+"text": "Let go! Let go of me!",
+"speaker": "p256"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-9.mp3",
+"female": true,
+"text": "Let go! Let go of me!",
+"speaker": "p257"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-10.mp3",
+"female": false,
+"text": "Let go! Let go of me!",
+"speaker": "p259"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-11.mp3",
+"female": true,
+"text": "Let go! Let go of me!",
+"speaker": "p267"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-12.mp3",
+"female": false,
+"text": "Let go! Let go of me!",
+"speaker": "p273"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-13.mp3",
+"female": true,
+"text": "Let go! Let go of me!",
+"speaker": "p268"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-14.mp3",
+"female": false,
+"text": "Let go! Let go of me!",
+"speaker": "p278"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-15.mp3",
+"female": true,
+"text": "Let go! Let go of me!",
+"speaker": "p269"
+},
+{
+"kind": "thief_lash",
+"file": "thief_lash-21-16.mp3",
+"female": false,
+"text": "Let go! Let go of me!",
+"speaker": "p286"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-0.mp3",
+"female": false,
+"text": "Fetch the sergeants!",
+"speaker": "p232"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-1.mp3",
+"female": true,
+"text": "Fetch the sergeants!",
+"speaker": "p239"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-2.mp3",
+"female": false,
+"text": "Fetch the sergeants!",
+"speaker": "p243"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-3.mp3",
+"female": true,
+"text": "Fetch the sergeants!",
+"speaker": "p240"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-4.mp3",
+"female": false,
+"text": "Fetch the sergeants!",
+"speaker": "p245"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-5.mp3",
+"female": true,
+"text": "Fetch the sergeants!",
+"speaker": "p250"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-6.mp3",
+"female": false,
+"text": "Fetch the sergeants!",
+"speaker": "p254"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-7.mp3",
+"female": true,
+"text": "Fetch the sergeants!",
+"speaker": "p253"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-8.mp3",
+"female": false,
+"text": "Fetch the sergeants!",
+"speaker": "p256"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-9.mp3",
+"female": true,
+"text": "Fetch the sergeants!",
+"speaker": "p257"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-10.mp3",
+"female": false,
+"text": "Fetch the sergeants!",
+"speaker": "p259"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-11.mp3",
+"female": true,
+"text": "Fetch the sergeants!",
+"speaker": "p267"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-12.mp3",
+"female": false,
+"text": "Fetch the sergeants!",
+"speaker": "p273"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-13.mp3",
+"female": true,
+"text": "Fetch the sergeants!",
+"speaker": "p268"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-14.mp3",
+"female": false,
+"text": "Fetch the sergeants!",
+"speaker": "p278"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-15.mp3",
+"female": true,
+"text": "Fetch the sergeants!",
+"speaker": "p269"
+},
+{
+"kind": "crowd",
+"file": "crowd-22-16.mp3",
+"female": false,
+"text": "Fetch the sergeants!",
+"speaker": "p286"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-0.mp3",
+"female": false,
+"text": "Hold the thief fast!",
+"speaker": "p232"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-1.mp3",
+"female": true,
+"text": "Hold the thief fast!",
+"speaker": "p239"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-2.mp3",
+"female": false,
+"text": "Hold the thief fast!",
+"speaker": "p243"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-3.mp3",
+"female": true,
+"text": "Hold the thief fast!",
+"speaker": "p240"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-4.mp3",
+"female": false,
+"text": "Hold the thief fast!",
+"speaker": "p245"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-5.mp3",
+"female": true,
+"text": "Hold the thief fast!",
+"speaker": "p250"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-6.mp3",
+"female": false,
+"text": "Hold the thief fast!",
+"speaker": "p254"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-7.mp3",
+"female": true,
+"text": "Hold the thief fast!",
+"speaker": "p253"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-8.mp3",
+"female": false,
+"text": "Hold the thief fast!",
+"speaker": "p256"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-9.mp3",
+"female": true,
+"text": "Hold the thief fast!",
+"speaker": "p257"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-10.mp3",
+"female": false,
+"text": "Hold the thief fast!",
+"speaker": "p259"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-11.mp3",
+"female": true,
+"text": "Hold the thief fast!",
+"speaker": "p267"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-12.mp3",
+"female": false,
+"text": "Hold the thief fast!",
+"speaker": "p273"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-13.mp3",
+"female": true,
+"text": "Hold the thief fast!",
+"speaker": "p268"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-14.mp3",
+"female": false,
+"text": "Hold the thief fast!",
+"speaker": "p278"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-15.mp3",
+"female": true,
+"text": "Hold the thief fast!",
+"speaker": "p269"
+},
+{
+"kind": "crowd",
+"file": "crowd-23-16.mp3",
+"female": false,
+"text": "Hold the thief fast!",
+"speaker": "p286"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-0.mp3",
+"female": false,
+"text": "To Newgate with the thief!",
+"speaker": "p232"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-1.mp3",
+"female": true,
+"text": "To Newgate with the thief!",
+"speaker": "p239"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-2.mp3",
+"female": false,
+"text": "To Newgate with the thief!",
+"speaker": "p243"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-3.mp3",
+"female": true,
+"text": "To Newgate with the thief!",
+"speaker": "p240"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-4.mp3",
+"female": false,
+"text": "To Newgate with the thief!",
+"speaker": "p245"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-5.mp3",
+"female": true,
+"text": "To Newgate with the thief!",
+"speaker": "p250"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-6.mp3",
+"female": false,
+"text": "To Newgate with the thief!",
+"speaker": "p254"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-7.mp3",
+"female": true,
+"text": "To Newgate with the thief!",
+"speaker": "p253"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-8.mp3",
+"female": false,
+"text": "To Newgate with the thief!",
+"speaker": "p256"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-9.mp3",
+"female": true,
+"text": "To Newgate with the thief!",
+"speaker": "p257"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-10.mp3",
+"female": false,
+"text": "To Newgate with the thief!",
+"speaker": "p259"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-11.mp3",
+"female": true,
+"text": "To Newgate with the thief!",
+"speaker": "p267"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-12.mp3",
+"female": false,
+"text": "To Newgate with the thief!",
+"speaker": "p273"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-13.mp3",
+"female": true,
+"text": "To Newgate with the thief!",
+"speaker": "p268"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-14.mp3",
+"female": false,
+"text": "To Newgate with the thief!",
+"speaker": "p278"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-15.mp3",
+"female": true,
+"text": "To Newgate with the thief!",
+"speaker": "p269"
+},
+{
+"kind": "crowd",
+"file": "crowd-24-16.mp3",
+"female": false,
+"text": "To Newgate with the thief!",
+"speaker": "p286"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-0.mp3",
+"female": false,
+"text": "Run for the sergeants!",
+"speaker": "p232"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-1.mp3",
+"female": true,
+"text": "Run for the sergeants!",
+"speaker": "p239"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-2.mp3",
+"female": false,
+"text": "Run for the sergeants!",
+"speaker": "p243"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-3.mp3",
+"female": true,
+"text": "Run for the sergeants!",
+"speaker": "p240"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-4.mp3",
+"female": false,
+"text": "Run for the sergeants!",
+"speaker": "p245"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-5.mp3",
+"female": true,
+"text": "Run for the sergeants!",
+"speaker": "p250"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-6.mp3",
+"female": false,
+"text": "Run for the sergeants!",
+"speaker": "p254"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-7.mp3",
+"female": true,
+"text": "Run for the sergeants!",
+"speaker": "p253"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-8.mp3",
+"female": false,
+"text": "Run for the sergeants!",
+"speaker": "p256"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-9.mp3",
+"female": true,
+"text": "Run for the sergeants!",
+"speaker": "p257"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-10.mp3",
+"female": false,
+"text": "Run for the sergeants!",
+"speaker": "p259"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-11.mp3",
+"female": true,
+"text": "Run for the sergeants!",
+"speaker": "p267"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-12.mp3",
+"female": false,
+"text": "Run for the sergeants!",
+"speaker": "p273"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-13.mp3",
+"female": true,
+"text": "Run for the sergeants!",
+"speaker": "p268"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-14.mp3",
+"female": false,
+"text": "Run for the sergeants!",
+"speaker": "p278"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-15.mp3",
+"female": true,
+"text": "Run for the sergeants!",
+"speaker": "p269"
+},
+{
+"kind": "crowd",
+"file": "crowd-25-16.mp3",
+"female": false,
+"text": "Run for the sergeants!",
+"speaker": "p286"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-0.mp3",
+"female": false,
+"text": "Shame on you, thief!",
+"speaker": "p232"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-1.mp3",
+"female": true,
+"text": "Shame on you, thief!",
+"speaker": "p239"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-2.mp3",
+"female": false,
+"text": "Shame on you, thief!",
+"speaker": "p243"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-3.mp3",
+"female": true,
+"text": "Shame on you, thief!",
+"speaker": "p240"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-4.mp3",
+"female": false,
+"text": "Shame on you, thief!",
+"speaker": "p245"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-5.mp3",
+"female": true,
+"text": "Shame on you, thief!",
+"speaker": "p250"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-6.mp3",
+"female": false,
+"text": "Shame on you, thief!",
+"speaker": "p254"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-7.mp3",
+"female": true,
+"text": "Shame on you, thief!",
+"speaker": "p253"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-8.mp3",
+"female": false,
+"text": "Shame on you, thief!",
+"speaker": "p256"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-9.mp3",
+"female": true,
+"text": "Shame on you, thief!",
+"speaker": "p257"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-10.mp3",
+"female": false,
+"text": "Shame on you, thief!",
+"speaker": "p259"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-11.mp3",
+"female": true,
+"text": "Shame on you, thief!",
+"speaker": "p267"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-12.mp3",
+"female": false,
+"text": "Shame on you, thief!",
+"speaker": "p273"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-13.mp3",
+"female": true,
+"text": "Shame on you, thief!",
+"speaker": "p268"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-14.mp3",
+"female": false,
+"text": "Shame on you, thief!",
+"speaker": "p278"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-15.mp3",
+"female": true,
+"text": "Shame on you, thief!",
+"speaker": "p269"
+},
+{
+"kind": "crowd",
+"file": "crowd-26-16.mp3",
+"female": false,
+"text": "Shame on you, thief!",
+"speaker": "p286"
+},
+{
+"kind": "guard",
+"file": "guard-27-0.mp3",
+"female": false,
+"text": "Make way! Make way, in the mayor's name!",
+"speaker": "p232"
+},
+{
+"kind": "guard",
+"file": "guard-27-1.mp3",
+"female": false,
+"text": "Make way! Make way, in the mayor's name!",
+"speaker": "p243"
+},
+{
+"kind": "guard",
+"file": "guard-27-2.mp3",
+"female": false,
+"text": "Make way! Make way, in the mayor's name!",
+"speaker": "p245"
+},
+{
+"kind": "guard",
+"file": "guard-27-3.mp3",
+"female": false,
+"text": "Make way! Make way, in the mayor's name!",
+"speaker": "p254"
+},
+{
+"kind": "guard",
+"file": "guard-27-4.mp3",
+"female": false,
+"text": "Make way! Make way, in the mayor's name!",
+"speaker": "p256"
+},
+{
+"kind": "guard",
+"file": "guard-27-5.mp3",
+"female": false,
+"text": "Make way! Make way, in the mayor's name!",
+"speaker": "p259"
+},
+{
+"kind": "guard",
+"file": "guard-27-6.mp3",
+"female": false,
+"text": "Make way! Make way, in the mayor's name!",
+"speaker": "p273"
+},
+{
+"kind": "guard",
+"file": "guard-27-7.mp3",
+"female": false,
+"text": "Make way! Make way, in the mayor's name!",
+"speaker": "p278"
+},
+{
+"kind": "guard",
+"file": "guard-27-8.mp3",
+"female": false,
+"text": "Make way! Make way, in the mayor's name!",
+"speaker": "p286"
+},
+{
+"kind": "guard",
+"file": "guard-28-0.mp3",
+"female": false,
+"text": "Stand aside! Stand aside there!",
+"speaker": "p232"
+},
+{
+"kind": "guard",
+"file": "guard-28-1.mp3",
+"female": false,
+"text": "Stand aside! Stand aside there!",
+"speaker": "p243"
+},
+{
+"kind": "guard",
+"file": "guard-28-2.mp3",
+"female": false,
+"text": "Stand aside! Stand aside there!",
+"speaker": "p245"
+},
+{
+"kind": "guard",
+"file": "guard-28-3.mp3",
+"female": false,
+"text": "Stand aside! Stand aside there!",
+"speaker": "p254"
+},
+{
+"kind": "guard",
+"file": "guard-28-4.mp3",
+"female": false,
+"text": "Stand aside! Stand aside there!",
+"speaker": "p256"
+},
+{
+"kind": "guard",
+"file": "guard-28-5.mp3",
+"female": false,
+"text": "Stand aside! Stand aside there!",
+"speaker": "p259"
+},
+{
+"kind": "guard",
+"file": "guard-28-6.mp3",
+"female": false,
+"text": "Stand aside! Stand aside there!",
+"speaker": "p273"
+},
+{
+"kind": "guard",
+"file": "guard-28-7.mp3",
+"female": false,
+"text": "Stand aside! Stand aside there!",
+"speaker": "p278"
+},
+{
+"kind": "guard",
+"file": "guard-28-8.mp3",
+"female": false,
+"text": "Stand aside! Stand aside there!",
+"speaker": "p286"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-29-0.mp3",
+"female": false,
+"text": "Come along, you. You will answer to the mayor.",
+"speaker": "p232"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-29-1.mp3",
+"female": false,
+"text": "Come along, you. You will answer to the mayor.",
+"speaker": "p243"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-29-2.mp3",
+"female": false,
+"text": "Come along, you. You will answer to the mayor.",
+"speaker": "p245"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-29-3.mp3",
+"female": false,
+"text": "Come along, you. You will answer to the mayor.",
+"speaker": "p254"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-29-4.mp3",
+"female": false,
+"text": "Come along, you. You will answer to the mayor.",
+"speaker": "p256"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-29-5.mp3",
+"female": false,
+"text": "Come along, you. You will answer to the mayor.",
+"speaker": "p259"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-29-6.mp3",
+"female": false,
+"text": "Come along, you. You will answer to the mayor.",
+"speaker": "p273"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-29-7.mp3",
+"female": false,
+"text": "Come along, you. You will answer to the mayor.",
+"speaker": "p278"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-29-8.mp3",
+"female": false,
+"text": "Come along, you. You will answer to the mayor.",
+"speaker": "p286"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-30-0.mp3",
+"female": false,
+"text": "To Newgate with you.",
+"speaker": "p232"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-30-1.mp3",
+"female": false,
+"text": "To Newgate with you.",
+"speaker": "p243"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-30-2.mp3",
+"female": false,
+"text": "To Newgate with you.",
+"speaker": "p245"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-30-3.mp3",
+"female": false,
+"text": "To Newgate with you.",
+"speaker": "p254"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-30-4.mp3",
+"female": false,
+"text": "To Newgate with you.",
+"speaker": "p256"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-30-5.mp3",
+"female": false,
+"text": "To Newgate with you.",
+"speaker": "p259"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-30-6.mp3",
+"female": false,
+"text": "To Newgate with you.",
+"speaker": "p273"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-30-7.mp3",
+"female": false,
+"text": "To Newgate with you.",
+"speaker": "p278"
+},
+{
+"kind": "guard_arrest",
+"file": "guard_arrest-30-8.mp3",
+"female": false,
+"text": "To Newgate with you.",
+"speaker": "p286"
+},
+{
+"kind": "gate",
+"file": "gate-0-0.mp3",
+"female": false,
+"text": "The gates are shut. Be on your way.",
+"speaker": "p232"
+},
+{
+"kind": "gate",
+"file": "gate-0-1.mp3",
+"female": false,
+"text": "The gates are shut. Be on your way.",
+"speaker": "p243"
+},
+{
+"kind": "gate",
+"file": "gate-0-2.mp3",
+"female": false,
+"text": "The gates are shut. Be on your way.",
+"speaker": "p245"
+},
+{
+"kind": "gate",
+"file": "gate-0-3.mp3",
+"female": false,
+"text": "The gates are shut. Be on your way.",
+"speaker": "p254"
+},
+{
+"kind": "gate",
+"file": "gate-0-4.mp3",
+"female": false,
+"text": "The gates are shut. Be on your way.",
+"speaker": "p256"
+},
+{
+"kind": "gate",
+"file": "gate-0-5.mp3",
+"female": false,
+"text": "The gates are shut. Be on your way.",
+"speaker": "p259"
+},
+{
+"kind": "gate",
+"file": "gate-0-6.mp3",
+"female": false,
+"text": "The gates are shut. Be on your way.",
+"speaker": "p273"
+},
+{
+"kind": "gate",
+"file": "gate-0-7.mp3",
+"female": false,
+"text": "The gates are shut. Be on your way.",
+"speaker": "p278"
+},
+{
+"kind": "gate",
+"file": "gate-0-8.mp3",
+"female": false,
+"text": "The gates are shut. Be on your way.",
+"speaker": "p286"
+},
+{
+"kind": "gate",
+"file": "gate-1-0.mp3",
+"female": false,
+"text": "Town is closed till morning. Go home.",
+"speaker": "p232"
+},
+{
+"kind": "gate",
+"file": "gate-1-1.mp3",
+"female": false,
+"text": "Town is closed till morning. Go home.",
+"speaker": "p243"
+},
+{
+"kind": "gate",
+"file": "gate-1-2.mp3",
+"female": false,
+"text": "Town is closed till morning. Go home.",
+"speaker": "p245"
+},
+{
+"kind": "gate",
+"file": "gate-1-3.mp3",
+"female": false,
+"text": "Town is closed till morning. Go home.",
+"speaker": "p254"
+},
+{
+"kind": "gate",
+"file": "gate-1-4.mp3",
+"female": false,
+"text": "Town is closed till morning. Go home.",
+"speaker": "p256"
+},
+{
+"kind": "gate",
+"file": "gate-1-5.mp3",
+"female": false,
+"text": "Town is closed till morning. Go home.",
+"speaker": "p259"
+},
+{
+"kind": "gate",
+"file": "gate-1-6.mp3",
+"female": false,
+"text": "Town is closed till morning. Go home.",
+"speaker": "p273"
+},
+{
+"kind": "gate",
+"file": "gate-1-7.mp3",
+"female": false,
+"text": "Town is closed till morning. Go home.",
+"speaker": "p278"
+},
+{
+"kind": "gate",
+"file": "gate-1-8.mp3",
+"female": false,
+"text": "Town is closed till morning. Go home.",
+"speaker": "p286"
+},
+{
+"kind": "gate",
+"file": "gate-2-0.mp3",
+"female": false,
+"text": "No one passes after curfew. Off with you.",
+"speaker": "p232"
+},
+{
+"kind": "gate",
+"file": "gate-2-1.mp3",
+"female": false,
+"text": "No one passes after curfew. Off with you.",
+"speaker": "p243"
+},
+{
+"kind": "gate",
+"file": "gate-2-2.mp3",
+"female": false,
+"text": "No one passes after curfew. Off with you.",
+"speaker": "p245"
+},
+{
+"kind": "gate",
+"file": "gate-2-3.mp3",
+"female": false,
+"text": "No one passes after curfew. Off with you.",
+"speaker": "p254"
+},
+{
+"kind": "gate",
+"file": "gate-2-4.mp3",
+"female": false,
+"text": "No one passes after curfew. Off with you.",
+"speaker": "p256"
+},
+{
+"kind": "gate",
+"file": "gate-2-5.mp3",
+"female": false,
+"text": "No one passes after curfew. Off with you.",
+"speaker": "p259"
+},
+{
+"kind": "gate",
+"file": "gate-2-6.mp3",
+"female": false,
+"text": "No one passes after curfew. Off with you.",
+"speaker": "p273"
+},
+{
+"kind": "gate",
+"file": "gate-2-7.mp3",
+"female": false,
+"text": "No one passes after curfew. Off with you.",
+"speaker": "p278"
+},
+{
+"kind": "gate",
+"file": "gate-2-8.mp3",
+"female": false,
+"text": "No one passes after curfew. Off with you.",
+"speaker": "p286"
+},
+{
+"kind": "gate",
+"file": "gate-3-0.mp3",
+"female": false,
+"text": "The gate is barred for the night. Be on your way, friend.",
+"speaker": "p232"
+},
+{
+"kind": "gate",
+"file": "gate-3-1.mp3",
+"female": false,
+"text": "The gate is barred for the night. Be on your way, friend.",
+"speaker": "p243"
+},
+{
+"kind": "gate",
+"file": "gate-3-2.mp3",
+"female": false,
+"text": "The gate is barred for the night. Be on your way, friend.",
+"speaker": "p245"
+},
+{
+"kind": "gate",
+"file": "gate-3-3.mp3",
+"female": false,
+"text": "The gate is barred for the night. Be on your way, friend.",
+"speaker": "p254"
+},
+{
+"kind": "gate",
+"file": "gate-3-4.mp3",
+"female": false,
+"text": "The gate is barred for the night. Be on your way, friend.",
+"speaker": "p256"
+},
+{
+"kind": "gate",
+"file": "gate-3-5.mp3",
+"female": false,
+"text": "The gate is barred for the night. Be on your way, friend.",
+"speaker": "p259"
+},
+{
+"kind": "gate",
+"file": "gate-3-6.mp3",
+"female": false,
+"text": "The gate is barred for the night. Be on your way, friend.",
+"speaker": "p273"
+},
+{
+"kind": "gate",
+"file": "gate-3-7.mp3",
+"female": false,
+"text": "The gate is barred for the night. Be on your way, friend.",
+"speaker": "p278"
+},
+{
+"kind": "gate",
+"file": "gate-3-8.mp3",
+"female": false,
+"text": "The gate is barred for the night. Be on your way, friend.",
+"speaker": "p286"
+},
+{
+"kind": "gate",
+"file": "gate-4-0.mp3",
+"female": false,
+"text": "You heard the bell. Gates open at sunrise, not before.",
+"speaker": "p232"
+},
+{
+"kind": "gate",
+"file": "gate-4-1.mp3",
+"female": false,
+"text": "You heard the bell. Gates open at sunrise, not before.",
+"speaker": "p243"
+},
+{
+"kind": "gate",
+"file": "gate-4-2.mp3",
+"female": false,
+"text": "You heard the bell. Gates open at sunrise, not before.",
+"speaker": "p245"
+},
+{
+"kind": "gate",
+"file": "gate-4-3.mp3",
+"female": false,
+"text": "You heard the bell. Gates open at sunrise, not before.",
+"speaker": "p254"
+},
+{
+"kind": "gate",
+"file": "gate-4-4.mp3",
+"female": false,
+"text": "You heard the bell. Gates open at sunrise, not before.",
+"speaker": "p256"
+},
+{
+"kind": "gate",
+"file": "gate-4-5.mp3",
+"female": false,
+"text": "You heard the bell. Gates open at sunrise, not before.",
+"speaker": "p259"
+},
+{
+"kind": "gate",
+"file": "gate-4-6.mp3",
+"female": false,
+"text": "You heard the bell. Gates open at sunrise, not before.",
+"speaker": "p273"
+},
+{
+"kind": "gate",
+"file": "gate-4-7.mp3",
+"female": false,
+"text": "You heard the bell. Gates open at sunrise, not before.",
+"speaker": "p278"
+},
+{
+"kind": "gate",
+"file": "gate-4-8.mp3",
+"female": false,
+"text": "You heard the bell. Gates open at sunrise, not before.",
+"speaker": "p286"
+},
+{
+"kind": "gate",
+"file": "gate-5-0.mp3",
+"female": false,
+"text": "Get you home. There is no way through tonight.",
+"speaker": "p232"
+},
+{
+"kind": "gate",
+"file": "gate-5-1.mp3",
+"female": false,
+"text": "Get you home. There is no way through tonight.",
+"speaker": "p243"
+},
+{
+"kind": "gate",
+"file": "gate-5-2.mp3",
+"female": false,
+"text": "Get you home. There is no way through tonight.",
+"speaker": "p245"
+},
+{
+"kind": "gate",
+"file": "gate-5-3.mp3",
+"female": false,
+"text": "Get you home. There is no way through tonight.",
+"speaker": "p254"
+},
+{
+"kind": "gate",
+"file": "gate-5-4.mp3",
+"female": false,
+"text": "Get you home. There is no way through tonight.",
+"speaker": "p256"
+},
+{
+"kind": "gate",
+"file": "gate-5-5.mp3",
+"female": false,
+"text": "Get you home. There is no way through tonight.",
+"speaker": "p259"
+},
+{
+"kind": "gate",
+"file": "gate-5-6.mp3",
+"female": false,
+"text": "Get you home. There is no way through tonight.",
+"speaker": "p273"
+},
+{
+"kind": "gate",
+"file": "gate-5-7.mp3",
+"female": false,
+"text": "Get you home. There is no way through tonight.",
+"speaker": "p278"
+},
+{
+"kind": "gate",
+"file": "gate-5-8.mp3",
+"female": false,
+"text": "Get you home. There is no way through tonight.",
+"speaker": "p286"
+},
+{
+"kind": "bump",
+"file": "bump-0-0.mp3",
+"female": false,
+"text": "Oi! Watch where you are going!",
+"speaker": "p232"
+},
+{
+"kind": "bump",
+"file": "bump-0-1.mp3",
+"female": false,
+"text": "Oi! Watch where you are going!",
+"speaker": "p243"
+},
+{
+"kind": "bump",
+"file": "bump-0-2.mp3",
+"female": false,
+"text": "Oi! Watch where you are going!",
+"speaker": "p245"
+},
+{
+"kind": "bump",
+"file": "bump-0-3.mp3",
+"female": true,
+"text": "Oi! Watch where you are going!",
+"speaker": "p239"
+},
+{
+"kind": "bump",
+"file": "bump-0-4.mp3",
+"female": true,
+"text": "Oi! Watch where you are going!",
+"speaker": "p240"
+},
+{
+"kind": "bump",
+"file": "bump-0-5.mp3",
+"female": true,
+"text": "Oi! Watch where you are going!",
+"speaker": "p250"
+},
+{
+"kind": "bump",
+"file": "bump-1-0.mp3",
+"female": false,
+"text": "Excuse me!",
+"speaker": "p232"
+},
+{
+"kind": "bump",
+"file": "bump-1-1.mp3",
+"female": false,
+"text": "Excuse me!",
+"speaker": "p243"
+},
+{
+"kind": "bump",
+"file": "bump-1-2.mp3",
+"female": false,
+"text": "Excuse me!",
+"speaker": "p245"
+},
+{
+"kind": "bump",
+"file": "bump-1-3.mp3",
+"female": true,
+"text": "Excuse me!",
+"speaker": "p239"
+},
+{
+"kind": "bump",
+"file": "bump-1-4.mp3",
+"female": true,
+"text": "Excuse me!",
+"speaker": "p240"
+},
+{
+"kind": "bump",
+"file": "bump-1-5.mp3",
+"female": true,
+"text": "Excuse me!",
+"speaker": "p250"
+},
+{
+"kind": "bump",
+"file": "bump-2-0.mp3",
+"female": false,
+"text": "Mind yourself!",
+"speaker": "p232"
+},
+{
+"kind": "bump",
+"file": "bump-2-1.mp3",
+"female": false,
+"text": "Mind yourself!",
+"speaker": "p243"
+},
+{
+"kind": "bump",
+"file": "bump-2-2.mp3",
+"female": false,
+"text": "Mind yourself!",
+"speaker": "p245"
+},
+{
+"kind": "bump",
+"file": "bump-2-3.mp3",
+"female": true,
+"text": "Mind yourself!",
+"speaker": "p239"
+},
+{
+"kind": "bump",
+"file": "bump-2-4.mp3",
+"female": true,
+"text": "Mind yourself!",
+"speaker": "p240"
+},
+{
+"kind": "bump",
+"file": "bump-2-5.mp3",
+"female": true,
+"text": "Mind yourself!",
+"speaker": "p250"
+},
+{
+"kind": "bump",
+"file": "bump-3-0.mp3",
+"female": false,
+"text": "Look where you are walking!",
+"speaker": "p232"
+},
+{
+"kind": "bump",
+"file": "bump-3-1.mp3",
+"female": false,
+"text": "Look where you are walking!",
+"speaker": "p243"
+},
+{
+"kind": "bump",
+"file": "bump-3-2.mp3",
+"female": false,
+"text": "Look where you are walking!",
+"speaker": "p245"
+},
+{
+"kind": "bump",
+"file": "bump-3-3.mp3",
+"female": true,
+"text": "Look where you are walking!",
+"speaker": "p239"
+},
+{
+"kind": "bump",
+"file": "bump-3-4.mp3",
+"female": true,
+"text": "Look where you are walking!",
+"speaker": "p240"
+},
+{
+"kind": "bump",
+"file": "bump-3-5.mp3",
+"female": true,
+"text": "Look where you are walking!",
+"speaker": "p250"
+},
+{
+"kind": "bump",
+"file": "bump-4-0.mp3",
+"female": false,
+"text": "Careful there!",
+"speaker": "p232"
+},
+{
+"kind": "bump",
+"file": "bump-4-1.mp3",
+"female": false,
+"text": "Careful there!",
+"speaker": "p243"
+},
+{
+"kind": "bump",
+"file": "bump-4-2.mp3",
+"female": false,
+"text": "Careful there!",
+"speaker": "p245"
+},
+{
+"kind": "bump",
+"file": "bump-4-3.mp3",
+"female": true,
+"text": "Careful there!",
+"speaker": "p239"
+},
+{
+"kind": "bump",
+"file": "bump-4-4.mp3",
+"female": true,
+"text": "Careful there!",
+"speaker": "p240"
+},
+{
+"kind": "bump",
+"file": "bump-4-5.mp3",
+"female": true,
+"text": "Careful there!",
+"speaker": "p250"
+},
+{
+"kind": "bump",
+"file": "bump-5-0.mp3",
+"female": false,
+"text": "Pardon me, friend.",
+"speaker": "p232"
+},
+{
+"kind": "bump",
+"file": "bump-5-1.mp3",
+"female": false,
+"text": "Pardon me, friend.",
+"speaker": "p243"
+},
+{
+"kind": "bump",
+"file": "bump-5-2.mp3",
+"female": false,
+"text": "Pardon me, friend.",
+"speaker": "p245"
+},
+{
+"kind": "bump",
+"file": "bump-5-3.mp3",
+"female": true,
+"text": "Pardon me, friend.",
+"speaker": "p239"
+},
+{
+"kind": "bump",
+"file": "bump-5-4.mp3",
+"female": true,
+"text": "Pardon me, friend.",
+"speaker": "p240"
+},
+{
+"kind": "bump",
+"file": "bump-5-5.mp3",
+"female": true,
+"text": "Pardon me, friend.",
+"speaker": "p250"
+},
+{
+"kind": "crier",
+"file": "crier-0-0.mp3",
+"female": false,
+"text": "Oyez! Oyez! Oyez! This man was taken thieving in the market, and the town has judged him. Let all who pass see what becomes of a thief in Bristol!",
+"speaker": "p243"
+},
+{
+"kind": "jeer",
+"file": "jeer-1-0.mp3",
+"female": false,
+"text": "Thief!",
+"speaker": "p232"
+},
+{
+"kind": "jeer",
+"file": "jeer-1-1.mp3",
+"female": false,
+"text": "Thief!",
+"speaker": "p243"
+},
+{
+"kind": "jeer",
+"file": "jeer-1-2.mp3",
+"female": false,
+"text": "Thief!",
+"speaker": "p245"
+},
+{
+"kind": "jeer",
+"file": "jeer-1-3.mp3",
+"female": true,
+"text": "Thief!",
+"speaker": "p239"
+},
+{
+"kind": "jeer",
+"file": "jeer-1-4.mp3",
+"female": true,
+"text": "Thief!",
+"speaker": "p240"
+},
+{
+"kind": "jeer",
+"file": "jeer-1-5.mp3",
+"female": true,
+"text": "Thief!",
+"speaker": "p250"
+},
+{
+"kind": "jeer",
+"file": "jeer-2-0.mp3",
+"female": false,
+"text": "Shame on you!",
+"speaker": "p232"
+},
+{
+"kind": "jeer",
+"file": "jeer-2-1.mp3",
+"female": false,
+"text": "Shame on you!",
+"speaker": "p243"
+},
+{
+"kind": "jeer",
+"file": "jeer-2-2.mp3",
+"female": false,
+"text": "Shame on you!",
+"speaker": "p245"
+},
+{
+"kind": "jeer",
+"file": "jeer-2-3.mp3",
+"female": true,
+"text": "Shame on you!",
+"speaker": "p239"
+},
+{
+"kind": "jeer",
+"file": "jeer-2-4.mp3",
+"female": true,
+"text": "Shame on you!",
+"speaker": "p240"
+},
+{
+"kind": "jeer",
+"file": "jeer-2-5.mp3",
+"female": true,
+"text": "Shame on you!",
+"speaker": "p250"
+},
+{
+"kind": "jeer",
+"file": "jeer-3-0.mp3",
+"female": false,
+"text": "Serves you right!",
+"speaker": "p232"
+},
+{
+"kind": "jeer",
+"file": "jeer-3-1.mp3",
+"female": false,
+"text": "Serves you right!",
+"speaker": "p243"
+},
+{
+"kind": "jeer",
+"file": "jeer-3-2.mp3",
+"female": false,
+"text": "Serves you right!",
+"speaker": "p245"
+},
+{
+"kind": "jeer",
+"file": "jeer-3-3.mp3",
+"female": true,
+"text": "Serves you right!",
+"speaker": "p239"
+},
+{
+"kind": "jeer",
+"file": "jeer-3-4.mp3",
+"female": true,
+"text": "Serves you right!",
+"speaker": "p240"
+},
+{
+"kind": "jeer",
+"file": "jeer-3-5.mp3",
+"female": true,
+"text": "Serves you right!",
+"speaker": "p250"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-0.mp3",
+"female": false,
+"text": "Hooray!",
+"speaker": "p232"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-1.mp3",
+"female": false,
+"text": "Hooray!",
+"speaker": "p243"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-2.mp3",
+"female": false,
+"text": "Hooray!",
+"speaker": "p245"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-3.mp3",
+"female": false,
+"text": "Hooray!",
+"speaker": "p254"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-4.mp3",
+"female": false,
+"text": "Hooray!",
+"speaker": "p256"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-5.mp3",
+"female": false,
+"text": "Hooray!",
+"speaker": "p259"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-6.mp3",
+"female": false,
+"text": "Hooray!",
+"speaker": "p273"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-7.mp3",
+"female": false,
+"text": "Hooray!",
+"speaker": "p278"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-8.mp3",
+"female": false,
+"text": "Hooray!",
+"speaker": "p286"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-9.mp3",
+"female": true,
+"text": "Hooray!",
+"speaker": "p239"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-10.mp3",
+"female": true,
+"text": "Hooray!",
+"speaker": "p240"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-11.mp3",
+"female": true,
+"text": "Hooray!",
+"speaker": "p250"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-12.mp3",
+"female": true,
+"text": "Hooray!",
+"speaker": "p253"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-13.mp3",
+"female": true,
+"text": "Hooray!",
+"speaker": "p257"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-14.mp3",
+"female": true,
+"text": "Hooray!",
+"speaker": "p267"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-15.mp3",
+"female": true,
+"text": "Hooray!",
+"speaker": "p268"
+},
+{
+"kind": "jeer",
+"file": "jeer-4-16.mp3",
+"female": true,
+"text": "Hooray!",
+"speaker": "p269"
+},
+{
+"kind": "jeer",
+"file": "jeer-5-0.mp3",
+"female": false,
+"text": "Out upon you, thief!",
+"speaker": "p232"
+},
+{
+"kind": "jeer",
+"file": "jeer-5-1.mp3",
+"female": false,
+"text": "Out upon you, thief!",
+"speaker": "p243"
+},
+{
+"kind": "jeer",
+"file": "jeer-5-2.mp3",
+"female": false,
+"text": "Out upon you, thief!",
+"speaker": "p245"
+},
+{
+"kind": "jeer",
+"file": "jeer-5-3.mp3",
+"female": true,
+"text": "Out upon you, thief!",
+"speaker": "p239"
+},
+{
+"kind": "jeer",
+"file": "jeer-5-4.mp3",
+"female": true,
+"text": "Out upon you, thief!",
+"speaker": "p240"
+},
+{
+"kind": "toast",
+"file": "toast-0-0.mp3",
+"female": false,
+"text": "God save the king!",
+"speaker": "p232"
+},
+{
+"kind": "toast",
+"file": "toast-0-1.mp3",
+"female": false,
+"text": "God save the king!",
+"speaker": "p243"
+},
+{
+"kind": "toast",
+"file": "toast-0-2.mp3",
+"female": false,
+"text": "God save the king!",
+"speaker": "p245"
+},
+{
+"kind": "toast",
+"file": "toast-0-3.mp3",
+"female": false,
+"text": "God save the king!",
+"speaker": "p254"
+},
+{
+"kind": "toast",
+"file": "toast-0-4.mp3",
+"female": false,
+"text": "God save the king!",
+"speaker": "p256"
+},
+{
+"kind": "toast",
+"file": "toast-0-5.mp3",
+"female": false,
+"text": "God save the king!",
+"speaker": "p259"
+},
+{
+"kind": "toast",
+"file": "toast-0-6.mp3",
+"female": false,
+"text": "God save the king!",
+"speaker": "p273"
+},
+{
+"kind": "toast",
+"file": "toast-0-7.mp3",
+"female": false,
+"text": "God save the king!",
+"speaker": "p278"
+},
+{
+"kind": "toast",
+"file": "toast-0-8.mp3",
+"female": false,
+"text": "God save the king!",
+"speaker": "p286"
+},
+{
+"kind": "toast",
+"file": "toast-0-9.mp3",
+"female": true,
+"text": "God save the king!",
+"speaker": "p239"
+},
+{
+"kind": "toast",
+"file": "toast-0-10.mp3",
+"female": true,
+"text": "God save the king!",
+"speaker": "p240"
+},
+{
+"kind": "toast",
+"file": "toast-0-11.mp3",
+"female": true,
+"text": "God save the king!",
+"speaker": "p250"
+},
+{
+"kind": "toast",
+"file": "toast-0-12.mp3",
+"female": true,
+"text": "God save the king!",
+"speaker": "p253"
+},
+{
+"kind": "toast",
+"file": "toast-1-0.mp3",
+"female": false,
+"text": "The king! The king!",
+"speaker": "p232"
+},
+{
+"kind": "toast",
+"file": "toast-1-1.mp3",
+"female": false,
+"text": "The king! The king!",
+"speaker": "p243"
+},
+{
+"kind": "toast",
+"file": "toast-1-2.mp3",
+"female": false,
+"text": "The king! The king!",
+"speaker": "p245"
+},
+{
+"kind": "toast",
+"file": "toast-1-3.mp3",
+"female": false,
+"text": "The king! The king!",
+"speaker": "p254"
+},
+{
+"kind": "toast",
+"file": "toast-1-4.mp3",
+"female": false,
+"text": "The king! The king!",
+"speaker": "p256"
+},
+{
+"kind": "toast",
+"file": "toast-1-5.mp3",
+"female": true,
+"text": "The king! The king!",
+"speaker": "p239"
+},
+{
+"kind": "toast",
+"file": "toast-1-6.mp3",
+"female": true,
+"text": "The king! The king!",
+"speaker": "p240"
+},
+{
+"kind": "toast",
+"file": "toast-1-7.mp3",
+"female": true,
+"text": "The king! The king!",
+"speaker": "p250"
+},
+{
+"kind": "toast",
+"file": "toast-2-0.mp3",
+"female": false,
+"text": "Long live King Edward!",
+"speaker": "p232"
+},
+{
+"kind": "toast",
+"file": "toast-2-1.mp3",
+"female": false,
+"text": "Long live King Edward!",
+"speaker": "p243"
+},
+{
+"kind": "toast",
+"file": "toast-2-2.mp3",
+"female": false,
+"text": "Long live King Edward!",
+"speaker": "p245"
+},
+{
+"kind": "toast",
+"file": "toast-2-3.mp3",
+"female": false,
+"text": "Long live King Edward!",
+"speaker": "p254"
+},
+{
+"kind": "toast",
+"file": "toast-2-4.mp3",
+"female": false,
+"text": "Long live King Edward!",
+"speaker": "p256"
+},
+{
+"kind": "toast",
+"file": "toast-2-5.mp3",
+"female": true,
+"text": "Long live King Edward!",
+"speaker": "p239"
+},
+{
+"kind": "toast",
+"file": "toast-2-6.mp3",
+"female": true,
+"text": "Long live King Edward!",
+"speaker": "p240"
+},
+{
+"kind": "toast",
+"file": "toast-2-7.mp3",
+"female": true,
+"text": "Long live King Edward!",
+"speaker": "p250"
+},
+{
+"kind": "mutter",
+"file": "mutter-3-0.mp3",
+"female": false,
+"text": "God save him. And send the queen soon.",
+"speaker": "p232"
+},
+{
+"kind": "mutter",
+"file": "mutter-3-1.mp3",
+"female": false,
+"text": "God save him. And send the queen soon.",
+"speaker": "p243"
+},
+{
+"kind": "mutter",
+"file": "mutter-3-2.mp3",
+"female": false,
+"text": "God save him. And send the queen soon.",
+"speaker": "p245"
+},
+{
+"kind": "mutter",
+"file": "mutter-3-3.mp3",
+"female": false,
+"text": "God save him. And send the queen soon.",
+"speaker": "p254"
+},
+{
+"kind": "mutter",
+"file": "mutter-3-4.mp3",
+"female": true,
+"text": "God save him. And send the queen soon.",
+"speaker": "p239"
+},
+{
+"kind": "mutter",
+"file": "mutter-3-5.mp3",
+"female": true,
+"text": "God save him. And send the queen soon.",
+"speaker": "p240"
+},
+{
+"kind": "mutter",
+"file": "mutter-3-6.mp3",
+"female": true,
+"text": "God save him. And send the queen soon.",
+"speaker": "p250"
+},
+{
+"kind": "mutter",
+"file": "mutter-4-0.mp3",
+"female": false,
+"text": "The king, aye. Not his friends.",
+"speaker": "p232"
+},
+{
+"kind": "mutter",
+"file": "mutter-4-1.mp3",
+"female": false,
+"text": "The king, aye. Not his friends.",
+"speaker": "p243"
+},
+{
+"kind": "mutter",
+"file": "mutter-4-2.mp3",
+"female": false,
+"text": "The king, aye. Not his friends.",
+"speaker": "p245"
+},
+{
+"kind": "mutter",
+"file": "mutter-4-3.mp3",
+"female": false,
+"text": "The king, aye. Not his friends.",
+"speaker": "p254"
+},
+{
+"kind": "mutter",
+"file": "mutter-4-4.mp3",
+"female": true,
+"text": "The king, aye. Not his friends.",
+"speaker": "p239"
+},
+{
+"kind": "mutter",
+"file": "mutter-4-5.mp3",
+"female": true,
+"text": "The king, aye. Not his friends.",
+"speaker": "p240"
+},
+{
+"kind": "mutter",
+"file": "mutter-5-0.mp3",
+"female": false,
+"text": "Keep your voice down. The earl has men in here.",
+"speaker": "p232"
+},
+{
+"kind": "mutter",
+"file": "mutter-5-1.mp3",
+"female": false,
+"text": "Keep your voice down. The earl has men in here.",
+"speaker": "p243"
+},
+{
+"kind": "mutter",
+"file": "mutter-5-2.mp3",
+"female": false,
+"text": "Keep your voice down. The earl has men in here.",
+"speaker": "p245"
+},
+{
+"kind": "mutter",
+"file": "mutter-5-3.mp3",
+"female": false,
+"text": "Keep your voice down. The earl has men in here.",
+"speaker": "p254"
+},
+{
+"kind": "mutter",
+"file": "mutter-5-4.mp3",
+"female": true,
+"text": "Keep your voice down. The earl has men in here.",
+"speaker": "p239"
+},
+{
+"kind": "mutter",
+"file": "mutter-5-5.mp3",
+"female": true,
+"text": "Keep your voice down. The earl has men in here.",
+"speaker": "p240"
+},
+{
+"kind": "mutter",
+"file": "mutter-5-6.mp3",
+"female": true,
+"text": "Keep your voice down. The earl has men in here.",
+"speaker": "p250"
+},
+{
+"kind": "mutter",
+"file": "mutter-6-0.mp3",
+"female": false,
+"text": "Another cup. It may be our last for a while.",
+"speaker": "p232"
+},
+{
+"kind": "mutter",
+"file": "mutter-6-1.mp3",
+"female": false,
+"text": "Another cup. It may be our last for a while.",
+"speaker": "p243"
+},
+{
+"kind": "mutter",
+"file": "mutter-6-2.mp3",
+"female": false,
+"text": "Another cup. It may be our last for a while.",
+"speaker": "p245"
+},
+{
+"kind": "mutter",
+"file": "mutter-6-3.mp3",
+"female": true,
+"text": "Another cup. It may be our last for a while.",
+"speaker": "p239"
+},
+{
+"kind": "mutter",
+"file": "mutter-6-4.mp3",
+"female": true,
+"text": "Another cup. It may be our last for a while.",
+"speaker": "p240"
+},
+{
+"kind": "mutter",
+"file": "mutter-6-5.mp3",
+"female": true,
+"text": "Another cup. It may be our last for a while.",
+"speaker": "p250"
+}
+]

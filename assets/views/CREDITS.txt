@@ -1,0 +1,92 @@
+Pictures on the viewpoints' cards in the medieval periods (src/viewnotes.js), 2026-11-22. All public domain, from
+Wikimedia Commons; resized and cropped for the game.
+
+millerd-*.jpg            Details of James Millerd, "The City of Bristoll" (prospect), 1673. Public domain.
+                         https://commons.wikimedia.org/wiki/File:Millerd-prospect-1673-stitch.jpg
+ricart-1478.jpg          Robert Ricart's plan of Bristol, 1478, from the Maire of Bristowe is Kalendar. Public domain.
+                         https://commons.wikimedia.org/wiki/File:1478_Robert_Ricart_map_of_Bristol,_England.png
+castle-1882.jpg          Bristol Castle, the south prospect, in J.F. Nicholls and J. Taylor, Bristol Past and Present (1882). PD.
+                         https://commons.wikimedia.org/wiki/File:Bristol_Castle_South_Prospect.jpg
+st-mary-redcliffe-1882.jpg  St Mary Redcliffe, engraving in Bristol Past and Present (1882). PD.
+                         https://commons.wikimedia.org/wiki/File:St_Mary_Redcliffe_Bristol_engraving.jpg
+christmas-steps-1903.jpg Christmas Steps, Samuel Loxton, 1903. PD.
+                         https://commons.wikimedia.org/wiki/File:Christmas_Steps_1903.jpg
+bristol-bridge-old.jpg   Bristol Bridge, old print (Samuel Loxton). PD.
+                         https://commons.wikimedia.org/wiki/File:Bristol_Bridge_Old_Print.jpg
+lawfords-gate-1673.jpg   Lawford's Gate, from James Millerd's map, 1673. PD.
+                         https://commons.wikimedia.org/wiki/File:Lawfords_Gate_Bristol_1673jpeg.jpg
+cheddar-cliffs-19c.jpg   Cheddar Cliffs, 19th-century photograph, unknown author. PD.
+                         https://commons.wikimedia.org/wiki/File:Cheddar_Cliffs_and_people.jpg
+glastonbury-tor-c1895.jpg  Tor (Hill), Glastonbury, photochrom, 1890s (Library of Congress). PD.
+                         https://commons.wikimedia.org/wiki/File:Tor_-Hill-,_Glastonbury,_England-LCCN2002696761.jpg
+glastonbury-abbey-c1900.jpg  Glastonbury Abbey ruins, c.1900. PD.
+                         https://commons.wikimedia.org/wiki/File:Glastonbury_Abbey_ruins_c1900.jpg
+bath-abbey-c1900.jpg     Bath Abbey, c.1900. PD.
+                         https://commons.wikimedia.org/wiki/File:Bath_Abbey_c1900.jpg
+speed-bath-1610.jpg      The baths of Bath, from John Speed's map of Somerset, 1610. PD.
+                         https://commons.wikimedia.org/wiki/File:Speed_baths.jpg
+weston-sands-c1900.jpg   Weston-super-Mare, the sands, c.1890-1905. PD.
+                         https://commons.wikimedia.org/wiki/File:Weston-Super-Mare_The_Sands.jpg
+luttrell-sheepfold-c1325.jpg  Sheep pen, the Luttrell Psalter, c.1325-1340 (British Library Add MS 42130). PD. (Brean's market card)
+                         https://commons.wikimedia.org/wiki/File:Sheep_pen_(Luttrell_Psalter).png
+fishmonger-c1025.jpg     A fishmonger, Rabanus Maurus, De rerum naturis, Monte Cassino MS Casin. 132, c.1025. PD. (Clevedon's)
+                         https://commons.wikimedia.org/wiki/File:Fish_monger,_from_the_manuscript_De_Universo_or_%22De_rerum_naturis%22,_Monte_Cassino_MS_Casin_132.jpg
+tacuinum-fishing-c1390.jpg  Fishing for lampreys, Tacuinum Sanitatis, late 14th century. PD. (Weston's)
+                         https://commons.wikimedia.org/wiki/File:Tacuinum_Sanitatis-fishing_lamprey.jpg
+abona-remains.jpg        Roman ruin at Sea Mills nr Bristol, Michael Murray, geograph.org.uk 936274. CC BY-SA 2.0. (Abona's card)
+                         https://commons.wikimedia.org/wiki/File:Roman_ruin_at_Sea_Mills_nr_Bristol._-_geograph.org.uk_-_936274.jpg
+edward3-charter-roll-c1372.jpg  Edward III on his throne, the Waterford Charter Roll, about 1372. PD. (1373 tour: the charter)
+                         https://commons.wikimedia.org/wiki/File:Waterford_Charter_Roll_-_Edward_III_on_throne.jpg
+plague-tournai-1349.jpg  Burying plague victims at Tournai, 1349, Gilles Li Muisis's chronicle. PD. (1373 tour: the plague)
+                         https://commons.wikimedia.org/wiki/File:Burying_Plague_Victims_of_Tournai.jpg
+high-cross-stourhead.jpg The Bristol High Cross, Stourhead, Derek Voller, geograph.org.uk 4727344. CC BY-SA 2.0. (1373 tour: the cross)
+                         https://commons.wikimedia.org/wiki/File:The_Bristol_High_Cross,_Stourhead_-_geograph.org.uk_-_4727344.jpg
+becket-murder-c1200.jpg  The murder of Thomas Becket, the earliest known picture of it, about 1200. PD. (the timeline: 1170)
+                         https://commons.wikimedia.org/wiki/File:Thomas_Becket_Murder.JPG
+edward1-eleanor-c1300.jpg  Edward I and Eleanor of Castile, an early 14th-century manuscript initial. PD. (the timeline: 1275)
+                         https://commons.wikimedia.org/wiki/File:Edward_I_and_Eleanor.jpg
+expulsion-1290-rochester.jpg  Jews driven out, the Rochester Chronicle, BL Cotton Nero D II f.183v, 14th century. PD. (the timeline: 1290)
+                         https://commons.wikimedia.org/wiki/File:BritLib_Cotton_Nero_DiiFol183v_Persecuted_Jews_(cropped).jpg
+great-famine-erfurt.jpg  Death and Famine, from an Apocalypse painted at Erfurt about 1315-17. PD. (the timeline: the Great Famine)
+                         https://commons.wikimedia.org/wiki/File:Great_famine.jpg
+richard2-bolingbroke-harley1319.jpg  Richard II and Bolingbroke at Flint, Jean Creton's history, BL Harley 1319, about 1401-05. PD. (the timeline: 1399)
+                         https://commons.wikimedia.org/wiki/File:Bolingbroke-richard-flint-castle-harley-ms-1319_(cropped).png
+edward4-npg.jpg          Edward IV, unknown artist, National Portrait Gallery, London. PD. (the timeline: 1461)
+                         https://commons.wikimedia.org/wiki/File:King_Edward_IV_from_NPG_(2).jpg
+henry4-portrait.jpg      Henry IV, British School, before 1626 (Google Art Project). PD. (the timeline: 1399's loading card)
+                         https://commons.wikimedia.org/wiki/File:British_-_Henry_IV_-_Google_Art_Project.jpg
+roses-payne-1908.jpg     Choosing the Red and White Roses in the Temple Garden, Henry Arthur Payne, 1908-10. PD. (the timeline: 1461's loading card)
+                         https://commons.wikimedia.org/wiki/File:Choosing_the_Red_and_White_Roses.jpg
+toscanelli-1474.jpg      Toscanelli's map of 1474, reconstruction by H. Wagner (1894), W. R. Shepherd's atlas. PD. (the timeline: 1480's loading card)
+                         https://commons.wikimedia.org/wiki/File:Toscanelli%27s_Map_1474_AD.jpg
+ortelius-1572-brasil.jpg Ireland and the Isle of Brasil, detail of Abraham Ortelius's map of Europe, 1572. PD. (the timeline: 1480)
+                         https://commons.wikimedia.org/wiki/File:Ortelius_1572_Ireland_Map_2.jpg
+ricart-you-are-here.jpg  Ricart's plan (as ricart-1478.jpg) with where you stand at the High Cross marked by us. PD. (the timeline: 1479)
+
+-- The Saxons and Vikings at a glance (2026-11-25; src/timelineSaxon.js) --
+chronicle-c-871.jpg      Anglo-Saxon Chronicle, C text, a page (11th century). PD.
+                         https://commons.wikimedia.org/wiki/File:Anglo-Saxon_Chronicle_-_C_-_871.jpg
+cadbury-stukeley-1723.jpg Cadbury Castle, William Stukeley, 1723. PD.
+                         https://commons.wikimedia.org/wiki/File:Cadbury_Castle_Stukeley.jpg
+alfred-neatherd-doyle-1864.jpg Alfred in the Neatherd's Cottage, James Doyle / Edmund Evans, A Chronicle of England (1864). PD.
+                         https://commons.wikimedia.org/wiki/File:A_Chronicle_of_England_-_Page_050_-_Alfred_in_the_Neatherd%27s_Cottage.jpg
+danes-ships-m736.jpg     Danes by ship, Miscellany on the Life of St Edmund, Morgan Library MS M.736 fol. 9v (about 1130). PD.
+                         https://commons.wikimedia.org/wiki/File:Miscellany_on_the_Life_of_St._Edmund_-_MS_M.736_fol._9v.jpg
+edmund1-royal14bvi.jpg   King Edmund I, British Library Royal 14 B VI. PD.
+                         https://commons.wikimedia.org/wiki/File:Edmund_I_-_MS_Royal_14_B_VI.jpg
+dunstan-classbook.jpg    Dunstan at Christ's feet, St Dunstan's Classbook (Bodleian Auct. F.4.32). PD.
+                         https://commons.wikimedia.org/wiki/File:DunstanLarge.jpg
+edgar-new-minster-966.jpg King Edgar, the New Minster Charter (966), BL Cotton Vespasian A VIII. PD.
+                         https://commons.wikimedia.org/wiki/File:New_Minster_Charter_966_detail_Edgar.jpg
+aethelred2-penny.jpg     Penny of Æthelred II, Numisantica. CC BY-SA 3.0 NL.
+                         https://commons.wikimedia.org/wiki/File:King_Aethelred_II_Penny_struck_London.jpg
+bayeux-harold-sails.jpg  Bayeux Tapestry scene 5 (Harold sails), photo Université de Caen Normandie, CNRS. PD.
+                         https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_Scene_05_(cropped).png
+bayeux-ships.jpg         Bayeux Tapestry scene 39 (ships), photo Université de Caen Normandie, CNRS. PD.
+                         https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_Scene_39_(cropped).png
+wulfstan-glass.jpg       St Wulfstan, window at Holy Trinity, Long Itchington, Amanda Slater. CC BY-SA 2.0.
+                         https://commons.wikimedia.org/wiki/File:Holy_Trinity_Long_Itchington_St_Wulfstan_(3118695706).jpg
+holms-from-brean.jpg     Steep Holm and Flat Holm from Brean Down, Bob & Anne Powell. CC BY-SA 3.0.
+                         https://commons.wikimedia.org/wiki/File:Steep_Holm_%26_Flat_Holm_from_Brean_Down._-_panoramio.jpg
+beowulf-first-page.jpg   The first page of Beowulf, Nowell Codex, British Library Cotton Vitellius A.xv. PD. https://commons.wikimedia.org/wiki/File:Beowulf.firstpage.jpeg
+bayeux-harold-death.jpg  Bayeux Tapestry scene 57, Harold's death; photo Myrabella. PD. https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death.jpg

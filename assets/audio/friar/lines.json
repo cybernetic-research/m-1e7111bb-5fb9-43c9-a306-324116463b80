@@ -1,0 +1,107 @@
+[
+{
+"kind": "greet",
+"who": "friar",
+"file": "greet-0.mp3",
+"text": "God be with you, my child. May I offer you a blessing?",
+"speaker": "p243"
+},
+{
+"kind": "greet",
+"who": "friar",
+"file": "greet-1.mp3",
+"text": "Peace be with you, friend. Go safely on your road.",
+"speaker": "p243"
+},
+{
+"kind": "greet",
+"who": "friar",
+"file": "greet-2.mp3",
+"text": "Benedicat te omnipotens Deus. Go in peace, my child.",
+"speaker": "p243"
+},
+{
+"kind": "greet",
+"who": "friar",
+"file": "greet-3.mp3",
+"text": "The Lord keep you. If you are hungry, the brothers will share their bread.",
+"speaker": "p243"
+},
+{
+"kind": "heal",
+"who": "friar",
+"file": "heal-4.mp3",
+"text": "You are hurt. Sit a moment, and let me see. I know a little of herbs.",
+"speaker": "p243"
+},
+{
+"kind": "road",
+"who": "friar",
+"file": "road-5.mp3",
+"text": "God speed us both. I am going your way, and the road is safer in company.",
+"speaker": "p243"
+},
+{
+"kind": "bless",
+"who": "friar",
+"file": "bless-6.mp3",
+"text": "Benedicat te omnipotens Deus, Pater, et Filius, et Spiritus Sanctus. Go in peace, my child.",
+"speaker": "p243"
+},
+{
+"kind": "alms",
+"who": "friar",
+"file": "alms-7.mp3",
+"text": "God reward you, my child. The brothers live on such kindness, and we will pray for you.",
+"speaker": "p243"
+},
+{
+"kind": "help",
+"who": "friar",
+"file": "help-8.mp3",
+"text": "If you need a bed tonight, the friary will take you in. And they say the road to Bath is safe by day.",
+"speaker": "p243"
+},
+{
+"kind": "monk-greet",
+"who": "monk",
+"file": "monk-greet-9.mp3",
+"text": "Pax vobiscum. Welcome to the house of Our Lady of Glastonbury. May I offer you a blessing?",
+"speaker": "p243"
+},
+{
+"kind": "monk-greet",
+"who": "monk",
+"file": "monk-greet-10.mp3",
+"text": "God keep you, pilgrim. Say a prayer before Our Lady, and go in peace.",
+"speaker": "p243"
+},
+{
+"kind": "monk-greet",
+"who": "monk",
+"file": "monk-greet-11.mp3",
+"text": "Peace be with you. If you are hungry, the almoner gives bread at the gate.",
+"speaker": "p243"
+},
+{
+"kind": "monk-bread",
+"who": "monk",
+"file": "monk-bread-12.mp3",
+"text": "Go to the almonry by the gate. The almoner gives bread to all who ask, for the love of God.",
+"speaker": "p243"
+},
+{
+"kind": "monk-bed",
+"who": "monk",
+"file": "monk-bed-13.mp3",
+"text": "Pilgrims are lodged in the guest hall. Ask the hosteller, and you shall have a bed and a meal tonight.",
+"speaker": "p243"
+},
+{
+"kind": "monk-heal",
+"who": "monk",
+"file": "monk-heal-14.mp3",
+"text": "You are hurt. Come with me: the infirmarian will see to you.",
+"speaker": "p243"
+}
+]

@@ -1,0 +1,16 @@
+Animals (Deer, Stag, Wolf, Horse, Horse_White, Donkey, Fox, Husky, ShibaInu): Quaternius, "Animal Assortment", CC0 1.0 (License.txt).
+bear.glb: "Bear" by jeremy, via Poly Pizza (https://poly.pizza/m/evjB26aGfTh), licensed CC-BY 3.0
+  (https://creativecommons.org/licenses/by/3.0/). Unmodified; scaled and posed in code (src/outskirts.js).
+Nature (assets/models/nature): Quaternius, "Stylized Nature MegaKit" (Standard), CC0 1.0; textures downscaled.
+Chicken (Chicken.gltf): Čestmír Dammer, made for the Kelgar project (http://www.kelgar.org/), CC0 (the user's
+  chicken.zip; texture derived from photos by Rick Hoppmann). Converted from chickenV2.blend with Blender: the body
+  texture wired to its materials and halved to 512 px; clips kept: Walk, Idle1, Idle2, Eating, Pecking1, Pecking2.
+sheep.glb, goat.glb: "Sheep" and "Goat" by Poly by Google, via Poly Pizza's "Animals" bundle
+  (https://poly.pizza/bundle/Animals-ULEaWm7bsY), licensed CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/).
+  Textures reduced to 512 px (2026-11-19); placed in code (src/townlife.js, src/farmyard.js).
+rabbit.glb, duck.glb: "Rabbit" and "Duck" by Poly by Google, via Poly Pizza's "Animals" bundle
+  (https://poly.pizza/bundle/Animals-ULEaWm7bsY), CC-BY 3.0. Unmodified (2026-11-19).
+cat.glb: "Cat" by Poly by Google; frog.glb: "Frog" by jeremy; both via Poly Pizza's "Animals" bundle
+  (https://poly.pizza/bundle/Animals-ULEaWm7bsY), CC-BY 3.0, unmodified (2026-11-19).
+snake.glb, spider.glb: "Snake" and "Spider" by Quaternius, the same bundle, CC0 (2026-11-19).
+wasp.glb: "Wasp" by Quaternius, CC0 1.0 (the user's insect pack, Wasp.blend), converted with Blender (2026-11-19).

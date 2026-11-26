@@ -1,0 +1,1374 @@
+[
+{
+"kind": "becket_knight",
+"file": "becket_knight-0-0.mp3",
+"female": false,
+"text": "Where is Thomas Becket, traitor to the king and the kingdom?",
+"speaker": "p254"
+},
+{
+"kind": "becket_knight",
+"file": "becket_knight-1-0.mp3",
+"female": false,
+"text": "Absolve the bishops! Lift the sentence, or die!",
+"speaker": "p273"
+},
+{
+"kind": "becket_knight",
+"file": "becket_knight-2-0.mp3",
+"female": false,
+"text": "Strike! Strike him down!",
+"speaker": "p254"
+},
+{
+"kind": "becket_knight",
+"file": "becket_knight-2-1.mp3",
+"female": false,
+"text": "Strike! Strike him down!",
+"speaker": "p273"
+},
+{
+"kind": "becket",
+"file": "becket-3-0.mp3",
+"female": false,
+"text": "Here I am. No traitor to the king, but a priest of God. Why do you seek me?",
+"speaker": "p243"
+},
+{
+"kind": "becket",
+"file": "becket-4-0.mp3",
+"female": false,
+"text": "For the name of Jesus, and the protection of the Church, I am ready to embrace death.",
+"speaker": "p243"
+},
+{
+"kind": "becket_monk",
+"file": "becket_monk-5-0.mp3",
+"female": false,
+"text": "They have killed the archbishop!",
+"speaker": "p232"
+},
+{
+"kind": "becket_monk",
+"file": "becket_monk-5-1.mp3",
+"female": false,
+"text": "They have killed the archbishop!",
+"speaker": "p245"
+},
+{
+"kind": "becket_monk",
+"file": "becket_monk-6-0.mp3",
+"female": false,
+"text": "Murder! Murder in the house of God!",
+"speaker": "p232"
+},
+{
+"kind": "becket_monk",
+"file": "becket_monk-6-1.mp3",
+"female": false,
+"text": "Murder! Murder in the house of God!",
+"speaker": "p245"
+},
+{
+"kind": "gate_crier",
+"file": "gate_crier-7-0.mp3",
+"female": false,
+"text": "The gates are shutting! In or out, for the night!",
+"speaker": "p259"
+},
+{
+"kind": "gate_crier",
+"file": "gate_crier-8-0.mp3",
+"female": false,
+"text": "Sunset! The gates shut, by the king's statute! Make haste there!",
+"speaker": "p259"
+},
+{
+"kind": "gate_watch",
+"file": "gate_watch-9-0.mp3",
+"female": false,
+"text": "Stand aside, master. We are barring the gate.",
+"speaker": "p254"
+},
+{
+"kind": "gate_watch",
+"file": "gate_watch-9-1.mp3",
+"female": false,
+"text": "Stand aside, master. We are barring the gate.",
+"speaker": "p273"
+},
+{
+"kind": "gate_watch",
+"file": "gate_watch-10-0.mp3",
+"female": false,
+"text": "Too late, friend. Come back at sunrise.",
+"speaker": "p254"
+},
+{
+"kind": "gate_watch",
+"file": "gate_watch-10-1.mp3",
+"female": false,
+"text": "Too late, friend. Come back at sunrise.",
+"speaker": "p273"
+},
+{
+"kind": "gate_late",
+"file": "gate_late-11-0.mp3",
+"female": false,
+"text": "Hold the gate! Let me in, for pity's sake!",
+"speaker": "p245"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-12-0.mp3",
+"female": false,
+"text": "Stand fast, Bristol! Our town, our liberties!",
+"speaker": "p232"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-12-1.mp3",
+"female": false,
+"text": "Stand fast, Bristol! Our town, our liberties!",
+"speaker": "p245"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-12-2.mp3",
+"female": false,
+"text": "Stand fast, Bristol! Our town, our liberties!",
+"speaker": "p254"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-12-3.mp3",
+"female": false,
+"text": "Stand fast, Bristol! Our town, our liberties!",
+"speaker": "p259"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-12-4.mp3",
+"female": false,
+"text": "Stand fast, Bristol! Our town, our liberties!",
+"speaker": "p273"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-13-0.mp3",
+"female": false,
+"text": "Loose! Loose at the castle!",
+"speaker": "p232"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-13-1.mp3",
+"female": false,
+"text": "Loose! Loose at the castle!",
+"speaker": "p245"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-13-2.mp3",
+"female": false,
+"text": "Loose! Loose at the castle!",
+"speaker": "p254"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-13-3.mp3",
+"female": false,
+"text": "Loose! Loose at the castle!",
+"speaker": "p259"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-13-4.mp3",
+"female": false,
+"text": "Loose! Loose at the castle!",
+"speaker": "p273"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-14-0.mp3",
+"female": false,
+"text": "Shields up! Here they come!",
+"speaker": "p232"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-14-1.mp3",
+"female": false,
+"text": "Shields up! Here they come!",
+"speaker": "p245"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-14-2.mp3",
+"female": false,
+"text": "Shields up! Here they come!",
+"speaker": "p254"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-14-3.mp3",
+"female": false,
+"text": "Shields up! Here they come!",
+"speaker": "p259"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-14-4.mp3",
+"female": false,
+"text": "Shields up! Here they come!",
+"speaker": "p273"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-15-0.mp3",
+"female": false,
+"text": "Back to your castle, you dogs!",
+"speaker": "p232"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-15-1.mp3",
+"female": false,
+"text": "Back to your castle, you dogs!",
+"speaker": "p245"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-15-2.mp3",
+"female": false,
+"text": "Back to your castle, you dogs!",
+"speaker": "p254"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-15-3.mp3",
+"female": false,
+"text": "Back to your castle, you dogs!",
+"speaker": "p259"
+},
+{
+"kind": "fight_town",
+"file": "fight_town-15-4.mp3",
+"female": false,
+"text": "Back to your castle, you dogs!",
+"speaker": "p273"
+},
+{
+"kind": "fight_castle",
+"file": "fight_castle-16-0.mp3",
+"female": false,
+"text": "For the king! Down with the rebels!",
+"speaker": "p254"
+},
+{
+"kind": "fight_castle",
+"file": "fight_castle-16-1.mp3",
+"female": false,
+"text": "For the king! Down with the rebels!",
+"speaker": "p273"
+},
+{
+"kind": "fight_hit",
+"file": "fight_hit-17-0.mp3",
+"female": false,
+"text": "I'm hit! God, I'm hit!",
+"speaker": "p232"
+},
+{
+"kind": "fight_hit",
+"file": "fight_hit-17-1.mp3",
+"female": false,
+"text": "I'm hit! God, I'm hit!",
+"speaker": "p245"
+},
+{
+"kind": "fight_hit",
+"file": "fight_hit-17-2.mp3",
+"female": false,
+"text": "I'm hit! God, I'm hit!",
+"speaker": "p254"
+},
+{
+"kind": "fight_hit",
+"file": "fight_hit-17-3.mp3",
+"female": false,
+"text": "I'm hit! God, I'm hit!",
+"speaker": "p259"
+},
+{
+"kind": "fight_hit",
+"file": "fight_hit-17-4.mp3",
+"female": false,
+"text": "I'm hit! God, I'm hit!",
+"speaker": "p273"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-18-0.mp3",
+"female": false,
+"text": "Bread, master. For the love of God, a little bread.",
+"speaker": "p232"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-18-1.mp3",
+"female": false,
+"text": "Bread, master. For the love of God, a little bread.",
+"speaker": "p245"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-18-2.mp3",
+"female": false,
+"text": "Bread, master. For the love of God, a little bread.",
+"speaker": "p254"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-18-3.mp3",
+"female": false,
+"text": "Bread, master. For the love of God, a little bread.",
+"speaker": "p259"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-18-4.mp3",
+"female": false,
+"text": "Bread, master. For the love of God, a little bread.",
+"speaker": "p273"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-18-5.mp3",
+"female": true,
+"text": "Bread, master. For the love of God, a little bread.",
+"speaker": "p239"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-18-6.mp3",
+"female": true,
+"text": "Bread, master. For the love of God, a little bread.",
+"speaker": "p250"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-18-7.mp3",
+"female": true,
+"text": "Bread, master. For the love of God, a little bread.",
+"speaker": "p257"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-18-8.mp3",
+"female": true,
+"text": "Bread, master. For the love of God, a little bread.",
+"speaker": "p268"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-19-0.mp3",
+"female": true,
+"text": "A crust. Only a crust. My children have not eaten in three days.",
+"speaker": "p239"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-19-1.mp3",
+"female": true,
+"text": "A crust. Only a crust. My children have not eaten in three days.",
+"speaker": "p250"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-19-2.mp3",
+"female": true,
+"text": "A crust. Only a crust. My children have not eaten in three days.",
+"speaker": "p257"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-19-3.mp3",
+"female": true,
+"text": "A crust. Only a crust. My children have not eaten in three days.",
+"speaker": "p268"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-20-0.mp3",
+"female": false,
+"text": "Have pity, good sir. The harvest rotted in the fields.",
+"speaker": "p232"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-20-1.mp3",
+"female": false,
+"text": "Have pity, good sir. The harvest rotted in the fields.",
+"speaker": "p245"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-20-2.mp3",
+"female": false,
+"text": "Have pity, good sir. The harvest rotted in the fields.",
+"speaker": "p254"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-20-3.mp3",
+"female": false,
+"text": "Have pity, good sir. The harvest rotted in the fields.",
+"speaker": "p259"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-20-4.mp3",
+"female": false,
+"text": "Have pity, good sir. The harvest rotted in the fields.",
+"speaker": "p273"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-21-0.mp3",
+"female": false,
+"text": "Anything. Anything at all. Please.",
+"speaker": "p232"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-21-1.mp3",
+"female": false,
+"text": "Anything. Anything at all. Please.",
+"speaker": "p245"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-21-2.mp3",
+"female": false,
+"text": "Anything. Anything at all. Please.",
+"speaker": "p254"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-21-3.mp3",
+"female": false,
+"text": "Anything. Anything at all. Please.",
+"speaker": "p259"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-21-4.mp3",
+"female": false,
+"text": "Anything. Anything at all. Please.",
+"speaker": "p273"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-21-5.mp3",
+"female": true,
+"text": "Anything. Anything at all. Please.",
+"speaker": "p239"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-21-6.mp3",
+"female": true,
+"text": "Anything. Anything at all. Please.",
+"speaker": "p250"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-21-7.mp3",
+"female": true,
+"text": "Anything. Anything at all. Please.",
+"speaker": "p257"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-21-8.mp3",
+"female": true,
+"text": "Anything. Anything at all. Please.",
+"speaker": "p268"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-22-0.mp3",
+"female": true,
+"text": "My baby is starving. Please, sir.",
+"speaker": "p239"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-22-1.mp3",
+"female": true,
+"text": "My baby is starving. Please, sir.",
+"speaker": "p250"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-22-2.mp3",
+"female": true,
+"text": "My baby is starving. Please, sir.",
+"speaker": "p257"
+},
+{
+"kind": "famine_beg",
+"file": "famine_beg-22-3.mp3",
+"female": true,
+"text": "My baby is starving. Please, sir.",
+"speaker": "p268"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-23-0.mp3",
+"female": false,
+"text": "God save the queen!",
+"speaker": "p232"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-23-1.mp3",
+"female": false,
+"text": "God save the queen!",
+"speaker": "p245"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-23-2.mp3",
+"female": false,
+"text": "God save the queen!",
+"speaker": "p254"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-23-3.mp3",
+"female": false,
+"text": "God save the queen!",
+"speaker": "p259"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-23-4.mp3",
+"female": false,
+"text": "God save the queen!",
+"speaker": "p273"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-23-5.mp3",
+"female": true,
+"text": "God save the queen!",
+"speaker": "p239"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-23-6.mp3",
+"female": true,
+"text": "God save the queen!",
+"speaker": "p250"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-23-7.mp3",
+"female": true,
+"text": "God save the queen!",
+"speaker": "p257"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-23-8.mp3",
+"female": true,
+"text": "God save the queen!",
+"speaker": "p268"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-24-0.mp3",
+"female": false,
+"text": "Down with the Despensers!",
+"speaker": "p232"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-24-1.mp3",
+"female": false,
+"text": "Down with the Despensers!",
+"speaker": "p245"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-24-2.mp3",
+"female": false,
+"text": "Down with the Despensers!",
+"speaker": "p254"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-24-3.mp3",
+"female": false,
+"text": "Down with the Despensers!",
+"speaker": "p259"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-24-4.mp3",
+"female": false,
+"text": "Down with the Despensers!",
+"speaker": "p273"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-25-0.mp3",
+"female": false,
+"text": "The queen! The queen has come!",
+"speaker": "p232"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-25-1.mp3",
+"female": false,
+"text": "The queen! The queen has come!",
+"speaker": "p245"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-25-2.mp3",
+"female": false,
+"text": "The queen! The queen has come!",
+"speaker": "p254"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-25-3.mp3",
+"female": false,
+"text": "The queen! The queen has come!",
+"speaker": "p259"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-25-4.mp3",
+"female": false,
+"text": "The queen! The queen has come!",
+"speaker": "p273"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-25-5.mp3",
+"female": true,
+"text": "The queen! The queen has come!",
+"speaker": "p239"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-25-6.mp3",
+"female": true,
+"text": "The queen! The queen has come!",
+"speaker": "p250"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-25-7.mp3",
+"female": true,
+"text": "The queen! The queen has come!",
+"speaker": "p257"
+},
+{
+"kind": "queen_cheer",
+"file": "queen_cheer-25-8.mp3",
+"female": true,
+"text": "The queen! The queen has come!",
+"speaker": "p268"
+},
+{
+"kind": "queen_soldier",
+"file": "queen_soldier-26-0.mp3",
+"female": false,
+"text": "Make way for the queen!",
+"speaker": "p254"
+},
+{
+"kind": "mob",
+"file": "mob-27-0.mp3",
+"female": false,
+"text": "No more poll tax!",
+"speaker": "p232"
+},
+{
+"kind": "mob",
+"file": "mob-27-1.mp3",
+"female": false,
+"text": "No more poll tax!",
+"speaker": "p245"
+},
+{
+"kind": "mob",
+"file": "mob-27-2.mp3",
+"female": false,
+"text": "No more poll tax!",
+"speaker": "p254"
+},
+{
+"kind": "mob",
+"file": "mob-27-3.mp3",
+"female": false,
+"text": "No more poll tax!",
+"speaker": "p259"
+},
+{
+"kind": "mob",
+"file": "mob-27-4.mp3",
+"female": false,
+"text": "No more poll tax!",
+"speaker": "p273"
+},
+{
+"kind": "mob",
+"file": "mob-27-5.mp3",
+"female": true,
+"text": "No more poll tax!",
+"speaker": "p239"
+},
+{
+"kind": "mob",
+"file": "mob-27-6.mp3",
+"female": true,
+"text": "No more poll tax!",
+"speaker": "p250"
+},
+{
+"kind": "mob",
+"file": "mob-27-7.mp3",
+"female": true,
+"text": "No more poll tax!",
+"speaker": "p257"
+},
+{
+"kind": "mob",
+"file": "mob-27-8.mp3",
+"female": true,
+"text": "No more poll tax!",
+"speaker": "p268"
+},
+{
+"kind": "mob",
+"file": "mob-28-0.mp3",
+"female": false,
+"text": "When Adam delved and Eve span, who was then the gentleman?",
+"speaker": "p232"
+},
+{
+"kind": "mob",
+"file": "mob-28-1.mp3",
+"female": false,
+"text": "When Adam delved and Eve span, who was then the gentleman?",
+"speaker": "p245"
+},
+{
+"kind": "mob",
+"file": "mob-28-2.mp3",
+"female": false,
+"text": "When Adam delved and Eve span, who was then the gentleman?",
+"speaker": "p254"
+},
+{
+"kind": "mob",
+"file": "mob-28-3.mp3",
+"female": false,
+"text": "When Adam delved and Eve span, who was then the gentleman?",
+"speaker": "p259"
+},
+{
+"kind": "mob",
+"file": "mob-28-4.mp3",
+"female": false,
+"text": "When Adam delved and Eve span, who was then the gentleman?",
+"speaker": "p273"
+},
+{
+"kind": "mob",
+"file": "mob-29-0.mp3",
+"female": false,
+"text": "Down with the tax gatherers!",
+"speaker": "p232"
+},
+{
+"kind": "mob",
+"file": "mob-29-1.mp3",
+"female": false,
+"text": "Down with the tax gatherers!",
+"speaker": "p245"
+},
+{
+"kind": "mob",
+"file": "mob-29-2.mp3",
+"female": false,
+"text": "Down with the tax gatherers!",
+"speaker": "p254"
+},
+{
+"kind": "mob",
+"file": "mob-29-3.mp3",
+"female": false,
+"text": "Down with the tax gatherers!",
+"speaker": "p259"
+},
+{
+"kind": "mob",
+"file": "mob-29-4.mp3",
+"female": false,
+"text": "Down with the tax gatherers!",
+"speaker": "p273"
+},
+{
+"kind": "mob",
+"file": "mob-30-0.mp3",
+"female": false,
+"text": "Burn the tax rolls!",
+"speaker": "p232"
+},
+{
+"kind": "mob",
+"file": "mob-30-1.mp3",
+"female": false,
+"text": "Burn the tax rolls!",
+"speaker": "p245"
+},
+{
+"kind": "mob",
+"file": "mob-30-2.mp3",
+"female": false,
+"text": "Burn the tax rolls!",
+"speaker": "p254"
+},
+{
+"kind": "mob",
+"file": "mob-30-3.mp3",
+"female": false,
+"text": "Burn the tax rolls!",
+"speaker": "p259"
+},
+{
+"kind": "mob",
+"file": "mob-30-4.mp3",
+"female": false,
+"text": "Burn the tax rolls!",
+"speaker": "p273"
+},
+{
+"kind": "mob",
+"file": "mob-31-0.mp3",
+"female": false,
+"text": "We are men, not beasts!",
+"speaker": "p232"
+},
+{
+"kind": "mob",
+"file": "mob-31-1.mp3",
+"female": false,
+"text": "We are men, not beasts!",
+"speaker": "p245"
+},
+{
+"kind": "mob",
+"file": "mob-31-2.mp3",
+"female": false,
+"text": "We are men, not beasts!",
+"speaker": "p254"
+},
+{
+"kind": "mob",
+"file": "mob-31-3.mp3",
+"female": false,
+"text": "We are men, not beasts!",
+"speaker": "p259"
+},
+{
+"kind": "mob",
+"file": "mob-31-4.mp3",
+"female": false,
+"text": "We are men, not beasts!",
+"speaker": "p273"
+},
+{
+"kind": "mob",
+"file": "mob-31-5.mp3",
+"female": true,
+"text": "We are men, not beasts!",
+"speaker": "p239"
+},
+{
+"kind": "mob",
+"file": "mob-31-6.mp3",
+"female": true,
+"text": "We are men, not beasts!",
+"speaker": "p250"
+},
+{
+"kind": "mob",
+"file": "mob-31-7.mp3",
+"female": true,
+"text": "We are men, not beasts!",
+"speaker": "p257"
+},
+{
+"kind": "mob",
+"file": "mob-31-8.mp3",
+"female": true,
+"text": "We are men, not beasts!",
+"speaker": "p268"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-32-0.mp3",
+"female": false,
+"text": "God save Duke Henry!",
+"speaker": "p232"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-32-1.mp3",
+"female": false,
+"text": "God save Duke Henry!",
+"speaker": "p245"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-32-2.mp3",
+"female": false,
+"text": "God save Duke Henry!",
+"speaker": "p254"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-32-3.mp3",
+"female": false,
+"text": "God save Duke Henry!",
+"speaker": "p259"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-32-4.mp3",
+"female": false,
+"text": "God save Duke Henry!",
+"speaker": "p273"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-32-5.mp3",
+"female": true,
+"text": "God save Duke Henry!",
+"speaker": "p239"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-32-6.mp3",
+"female": true,
+"text": "God save Duke Henry!",
+"speaker": "p250"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-32-7.mp3",
+"female": true,
+"text": "God save Duke Henry!",
+"speaker": "p257"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-32-8.mp3",
+"female": true,
+"text": "God save Duke Henry!",
+"speaker": "p268"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-33-0.mp3",
+"female": false,
+"text": "Long live Lancaster!",
+"speaker": "p232"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-33-1.mp3",
+"female": false,
+"text": "Long live Lancaster!",
+"speaker": "p245"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-33-2.mp3",
+"female": false,
+"text": "Long live Lancaster!",
+"speaker": "p254"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-33-3.mp3",
+"female": false,
+"text": "Long live Lancaster!",
+"speaker": "p259"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-33-4.mp3",
+"female": false,
+"text": "Long live Lancaster!",
+"speaker": "p273"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-34-0.mp3",
+"female": false,
+"text": "God save Henry, and make him our king!",
+"speaker": "p232"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-34-1.mp3",
+"female": false,
+"text": "God save Henry, and make him our king!",
+"speaker": "p245"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-34-2.mp3",
+"female": false,
+"text": "God save Henry, and make him our king!",
+"speaker": "p254"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-34-3.mp3",
+"female": false,
+"text": "God save Henry, and make him our king!",
+"speaker": "p259"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-34-4.mp3",
+"female": false,
+"text": "God save Henry, and make him our king!",
+"speaker": "p273"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-34-5.mp3",
+"female": true,
+"text": "God save Henry, and make him our king!",
+"speaker": "p239"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-34-6.mp3",
+"female": true,
+"text": "God save Henry, and make him our king!",
+"speaker": "p250"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-34-7.mp3",
+"female": true,
+"text": "God save Henry, and make him our king!",
+"speaker": "p257"
+},
+{
+"kind": "henry_cheer",
+"file": "henry_cheer-34-8.mp3",
+"female": true,
+"text": "God save Henry, and make him our king!",
+"speaker": "p268"
+},
+{
+"kind": "herald",
+"file": "herald-35-0.mp3",
+"female": false,
+"text": "Make way! Make way for the Duke of Lancaster!",
+"speaker": "p259"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-36-0.mp3",
+"female": false,
+"text": "A sign! A sign from the Lord!",
+"speaker": "p232"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-36-1.mp3",
+"female": false,
+"text": "A sign! A sign from the Lord!",
+"speaker": "p245"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-36-2.mp3",
+"female": false,
+"text": "A sign! A sign from the Lord!",
+"speaker": "p259"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-37-0.mp3",
+"female": false,
+"text": "God have mercy on us!",
+"speaker": "p232"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-37-1.mp3",
+"female": false,
+"text": "God have mercy on us!",
+"speaker": "p245"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-37-2.mp3",
+"female": false,
+"text": "God have mercy on us!",
+"speaker": "p259"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-38-0.mp3",
+"female": false,
+"text": "The spire! Run! Run!",
+"speaker": "p232"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-38-1.mp3",
+"female": false,
+"text": "The spire! Run! Run!",
+"speaker": "p245"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-38-2.mp3",
+"female": false,
+"text": "The spire! Run! Run!",
+"speaker": "p259"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-39-0.mp3",
+"female": false,
+"text": "Lord preserve us, the steeple is struck!",
+"speaker": "p232"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-39-1.mp3",
+"female": false,
+"text": "Lord preserve us, the steeple is struck!",
+"speaker": "p245"
+},
+{
+"kind": "spire_flee",
+"file": "spire_flee-39-2.mp3",
+"female": false,
+"text": "Lord preserve us, the steeple is struck!",
+"speaker": "p259"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-40-0.mp3",
+"female": false,
+"text": "God save King Edward!",
+"speaker": "p232"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-40-1.mp3",
+"female": false,
+"text": "God save King Edward!",
+"speaker": "p245"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-40-2.mp3",
+"female": false,
+"text": "God save King Edward!",
+"speaker": "p254"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-40-3.mp3",
+"female": false,
+"text": "God save King Edward!",
+"speaker": "p259"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-40-4.mp3",
+"female": false,
+"text": "God save King Edward!",
+"speaker": "p273"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-40-5.mp3",
+"female": true,
+"text": "God save King Edward!",
+"speaker": "p239"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-40-6.mp3",
+"female": true,
+"text": "God save King Edward!",
+"speaker": "p250"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-40-7.mp3",
+"female": true,
+"text": "God save King Edward!",
+"speaker": "p257"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-40-8.mp3",
+"female": true,
+"text": "God save King Edward!",
+"speaker": "p268"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-41-0.mp3",
+"female": false,
+"text": "Long live the king!",
+"speaker": "p232"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-41-1.mp3",
+"female": false,
+"text": "Long live the king!",
+"speaker": "p245"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-41-2.mp3",
+"female": false,
+"text": "Long live the king!",
+"speaker": "p254"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-41-3.mp3",
+"female": false,
+"text": "Long live the king!",
+"speaker": "p259"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-41-4.mp3",
+"female": false,
+"text": "Long live the king!",
+"speaker": "p273"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-41-5.mp3",
+"female": true,
+"text": "Long live the king!",
+"speaker": "p239"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-41-6.mp3",
+"female": true,
+"text": "Long live the king!",
+"speaker": "p250"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-41-7.mp3",
+"female": true,
+"text": "Long live the king!",
+"speaker": "p257"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-41-8.mp3",
+"female": true,
+"text": "Long live the king!",
+"speaker": "p268"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-42-0.mp3",
+"female": false,
+"text": "Welcome to Bristol, Your Grace!",
+"speaker": "p232"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-42-1.mp3",
+"female": false,
+"text": "Welcome to Bristol, Your Grace!",
+"speaker": "p245"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-42-2.mp3",
+"female": false,
+"text": "Welcome to Bristol, Your Grace!",
+"speaker": "p254"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-42-3.mp3",
+"female": false,
+"text": "Welcome to Bristol, Your Grace!",
+"speaker": "p259"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-42-4.mp3",
+"female": false,
+"text": "Welcome to Bristol, Your Grace!",
+"speaker": "p273"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-42-5.mp3",
+"female": true,
+"text": "Welcome to Bristol, Your Grace!",
+"speaker": "p239"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-42-6.mp3",
+"female": true,
+"text": "Welcome to Bristol, Your Grace!",
+"speaker": "p250"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-42-7.mp3",
+"female": true,
+"text": "Welcome to Bristol, Your Grace!",
+"speaker": "p257"
+},
+{
+"kind": "edward_cheer",
+"file": "edward_cheer-42-8.mp3",
+"female": true,
+"text": "Welcome to Bristol, Your Grace!",
+"speaker": "p268"
+},
+{
+"kind": "edward_mayor",
+"file": "edward_mayor-43-0.mp3",
+"female": false,
+"text": "Most dread sovereign lord, your town of Bristol bids you welcome.",
+"speaker": "p226"
+}
+]

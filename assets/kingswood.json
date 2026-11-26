@@ -1,0 +1,17 @@
+{
+ "name": "Kingswood, Warmley and Hanham Mount",
+ "size": 4800,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.4572,
+ "lon": -2.4807,
+ "easting": 366698,
+ "northing": 173245,
+ "min": 18.77,
+ "max": 117.32,
+ "holesFilled": 0,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 135.59
+}

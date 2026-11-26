@@ -1,0 +1,29 @@
+[
+ {
+  "title": "Abona",
+  "era": "Roman",
+  "theme": "Roman Britain · Trade",
+  "lat": 51.479124,
+  "lon": -2.647553,
+  "text": "A Roman port and small town where the Trym meets the Avon, proposed in the 1820s as Abona on a route of the 3rd-century Antonine Itinerary. Excavations found a street pattern, buildings and cemeteries, all on the south side of the Trym.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Seamill Dock",
+  "era": "1712–1760s",
+  "theme": "Docks",
+  "lat": 51.481,
+  "lon": -2.649,
+  "text": "Built in 1712 on 12 acres at the Trym's mouth, one of the earliest wet docks in England, for repairing and laying up ships. Poor land transport links led to it being abandoned in the 1760s.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "Homes fit for heroes",
+  "era": "1919–1931",
+  "theme": "Housing",
+  "lat": 51.488,
+  "lon": -2.645,
+  "text": "Sea Mills was built as a garden suburb after the 1919 Housing Act: Dr Christopher Addison cut the first sod on 4 June 1919, and 1,279 houses were built by 1931.",
+  "source": "Wikipedia"
+ }
+]

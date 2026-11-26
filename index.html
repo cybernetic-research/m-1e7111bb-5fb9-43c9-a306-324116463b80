@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bristol through the ages</title>
+<style>
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #0c1016; color: #ffe9b8;
+    font-family: ui-monospace, Menlo, Consolas, monospace; }
+  canvas { display: block; }
+  #overlay { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center;
+    justify-content: center; gap: 18px; padding: 16px; text-align: center; z-index: 2;
+    background: repeating-radial-gradient(circle at 50% 60%, #0c1016 0 22px, #141b23 22px 24px); }
+  #overlay h1 { margin: 0; font-size: clamp(28px, 6vw, 56px); letter-spacing: 0.2em; }
+  #overlay p { margin: 0; max-width: 560px; line-height: 1.5; color: #b8c4cc; background: rgba(12,16,22,0.8); padding: 4px 8px; }
+  #overlay button { font: inherit; font-size: 18px; letter-spacing: 0.1em; padding: 14px 28px; cursor: pointer;
+    color: #0c1016; background: #ffe9b8; border: 0; border-radius: 4px; min-width: 240px; }
+  #overlay button:disabled { background: #2c333b; color: #6d7a85; cursor: default; }
+  #overlay button.secondary { background: rgba(12,16,22,0.8); color: #ffe9b8; outline: 1px solid #ffe9b8; }
+  #overlay .keys { font-size: 13px; color: #8e9ba6; }
+  #overlay h1 { font-family: Medieval, Georgia, serif; letter-spacing: 0.05em; color: #ffd27a; }
+  /* Where and when you are, top left (on screen; in the headset it's the badge above the belt). */
+  #period { position: fixed; top: 12px; left: 12px; z-index: 5; padding: 6px 12px; font: bold 15px ui-monospace, Menlo, monospace;
+    color: #ffb347; background: rgba(12,16,22,0.85); border: 2px solid #ffb347; border-radius: 4px; pointer-events: none; display: none; }
+  /* The corner map (src/minimap.js): top left, clear of the table and its buttons, with the place and period
+     caption immediately to its right (moved there by minimap.js while the map shows). */
+  /* The five measures, under the period, in the arcade (src/measures.js). */
+  #measures { position: fixed; top: 52px; left: 12px; z-index: 5; padding: 4px 10px; font: bold 13px ui-monospace, Menlo, monospace;
+    color: #ffe9b8; background: rgba(12,16,22,0.85); border: 2px solid #ffb347; border-radius: 4px; pointer-events: none; display: none; }
+  #measures.flash { background: rgba(60,36,10,0.92); }
+  body.hub #measures { visibility: hidden; }
+  #period .gothic { font: 24px Medieval, serif; font-weight: normal; vertical-align: -2px; }
+  #period .gothic.saxon { font: 20px Saxon, serif; }
+  body.hub #period, body.hub #minimap { visibility: hidden; }
+  #minimap { position: fixed; left: 12px; top: 12px; width: 260px; height: 260px; z-index: 5; display: none;
+    border: 2px solid #ffb347; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.4); pointer-events: none; }
+</style>
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/",
+  "three-mesh-bvh": "https://cdn.jsdelivr.net/npm/three-mesh-bvh@0.8.3/build/index.module.js",
+  "@mkkellogg/gaussian-splats-3d": "https://cdn.jsdelivr.net/npm/@mkkellogg/gaussian-splats-3d@0.4.7/build/gaussian-splats-3d.module.js"
+} }
+</script>
+</head>
+<body>
+<div id="overlay">
+  <h1>BRISTOL THROUGH THE AGES</h1>
+  <p>Bristol and the country round it, from the Ice Age to Concorde: on your table, and life size around you.</p>
+  <button id="btn-ar" disabled>CHECKING FOR AR…</button>
+  <button id="btn-screen" class="secondary">VIEW ON SCREEN</button>
+  <p class="keys" id="status">loading terrain…</p>
+  <p class="keys"><a href="credits.html" target="_blank" style="color:#ffd08a">CREDITS</a> (maps, models, pictures and sounds, and their licences)</p>
+  <details class="keys" style="max-width:560px"><summary>Controls</summary><p class="keys">
+     In the headset: point and pull the trigger to choose · ◀ BACK and ⌂ HOME are always there · at life size, walk
+     in your room; push the right stick forward to aim a jump and let go to jump; left or right to turn · B or Y is
+     back · ☰ MENU has smooth movement, music and the debug tools.<br>
+     On screen: click to choose · drag the map to slide it, wheel to zoom, ← → (or Q / E) to turn it · Backspace back ·
+     Home key home · at life size drag to look, ↑ ↓ forward and back, ← → turn; or W / S forward and back, A / D step
+     sideways, Q / E turn · Shift to hurry, click to jump.</p></details>
+</div>
+<script type="module" src="src/main.js"></script>
+<div id="period"></div>
+<div id="measures"></div>
+</body>
+</html>

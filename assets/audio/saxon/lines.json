@@ -1,0 +1,989 @@
+[
+{
+"kind": "rome_citizen",
+"file": "rome_citizen-0-0.mp3",
+"female": false,
+"text": "Where are you going? Who will guard us now?",
+"speaker": "p254"
+},
+{
+"kind": "rome_citizen",
+"file": "rome_citizen-1-0.mp3",
+"female": true,
+"text": "They are leaving. The soldiers are leaving.",
+"speaker": "p257"
+},
+{
+"kind": "rome_soldier",
+"file": "rome_soldier-2-0.mp3",
+"female": false,
+"text": "The emperor needs every man. The cities of Britain must look to their own defence.",
+"speaker": "p259"
+},
+{
+"kind": "feast_lord",
+"file": "feast_lord-3-0.mp3",
+"female": false,
+"text": "Drink, my friends! While this hill stands, no Saxon takes our land.",
+"speaker": "p245"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-4-0.mp3",
+"female": false,
+"text": "Hail to our lord!",
+"speaker": "p232"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-4-1.mp3",
+"female": false,
+"text": "Hail to our lord!",
+"speaker": "p245"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-4-2.mp3",
+"female": false,
+"text": "Hail to our lord!",
+"speaker": "p254"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-4-3.mp3",
+"female": false,
+"text": "Hail to our lord!",
+"speaker": "p259"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-4-4.mp3",
+"female": false,
+"text": "Hail to our lord!",
+"speaker": "p273"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-5-0.mp3",
+"female": false,
+"text": "To the lord of the hill!",
+"speaker": "p232"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-5-1.mp3",
+"female": false,
+"text": "To the lord of the hill!",
+"speaker": "p245"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-5-2.mp3",
+"female": false,
+"text": "To the lord of the hill!",
+"speaker": "p254"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-5-3.mp3",
+"female": false,
+"text": "To the lord of the hill!",
+"speaker": "p259"
+},
+{
+"kind": "feast_cheer",
+"file": "feast_cheer-5-4.mp3",
+"female": false,
+"text": "To the lord of the hill!",
+"speaker": "p273"
+},
+{
+"kind": "ruin_wonder",
+"file": "ruin_wonder-6-0.mp3",
+"female": false,
+"text": "Look at it. The work of giants, crumbling.",
+"speaker": "p254"
+},
+{
+"kind": "ruin_wonder",
+"file": "ruin_wonder-7-0.mp3",
+"female": false,
+"text": "Who built halls like these? Not men like us.",
+"speaker": "p273"
+},
+{
+"kind": "ruin_wonder",
+"file": "ruin_wonder-8-0.mp3",
+"female": false,
+"text": "Hot water, out of the stone! The old ones had some power here.",
+"speaker": "p259"
+},
+{
+"kind": "alfred_wife",
+"file": "alfred_wife-9-0.mp3",
+"female": true,
+"text": "You great lump! Look at my loaves, burnt black!",
+"speaker": "p250"
+},
+{
+"kind": "alfred_wife",
+"file": "alfred_wife-10-0.mp3",
+"female": true,
+"text": "You'll eat them hot quick enough, but you can't turn them when they're burning!",
+"speaker": "p250"
+},
+{
+"kind": "alfred",
+"file": "alfred-11-0.mp3",
+"female": false,
+"text": "Forgive me, mother. My mind was on other things.",
+"speaker": "p226"
+},
+{
+"kind": "alfred_men",
+"file": "alfred_men-12-0.mp3",
+"female": false,
+"text": "My lord king! The men of Somerset are ready. Say the word.",
+"speaker": "p254"
+},
+{
+"kind": "shore_watch",
+"file": "shore_watch-13-0.mp3",
+"female": false,
+"text": "Ships! Ships, out past the point!",
+"speaker": "p273"
+},
+{
+"kind": "shore_watch",
+"file": "shore_watch-14-0.mp3",
+"female": false,
+"text": "Danes, for the islands. Light the beacon! Send word along the shore!",
+"speaker": "p254"
+},
+{
+"kind": "shore_watch",
+"file": "shore_watch-15-0.mp3",
+"female": false,
+"text": "They'll not land here. Not while we watch this shore.",
+"speaker": "p259"
+},
+{
+"kind": "shore_false",
+"file": "shore_false-16-0.mp3",
+"female": false,
+"text": "Where? I see nothing out there but the gulls.",
+"speaker": "p273"
+},
+{
+"kind": "hunt",
+"file": "hunt-17-0.mp3",
+"female": false,
+"text": "The stag! He's making for the edge!",
+"speaker": "p273"
+},
+{
+"kind": "hunt",
+"file": "hunt-18-0.mp3",
+"female": false,
+"text": "The king! The king's horse has bolted!",
+"speaker": "p273"
+},
+{
+"kind": "edmund",
+"file": "edmund-19-0.mp3",
+"female": false,
+"text": "Lord, have mercy! I have wronged Dunstan. Spare me, and I will make it right!",
+"speaker": "p245"
+},
+{
+"kind": "edmund",
+"file": "edmund-20-0.mp3",
+"female": false,
+"text": "Saved. On the very brink. Fetch me Dunstan. He shall have Glastonbury.",
+"speaker": "p245"
+},
+{
+"kind": "devil_tempt",
+"file": "devil_tempt-21-0.mp3",
+"female": false,
+"text": "Such fine work, monk. Put down your hammer. Come and play.",
+"speaker": "p232"
+},
+{
+"kind": "dunstan",
+"file": "dunstan-22-0.mp3",
+"female": false,
+"text": "Begone, tempter!",
+"speaker": "p226"
+},
+{
+"kind": "devil_shriek",
+"file": "devil_shriek-23-0.mp3",
+"female": false,
+"text": "Aaaargh! My nose! Let go! Let go of my nose!",
+"speaker": "p232"
+},
+{
+"kind": "monk_wonder",
+"file": "monk_wonder-24-0.mp3",
+"female": false,
+"text": "Father abbot! What was that thing?",
+"speaker": "p259"
+},
+{
+"kind": "vivat",
+"file": "vivat-25-0.mp3",
+"female": false,
+"text": "Vivat rex! Vivat rex! May the king live for ever!",
+"speaker": "p232"
+},
+{
+"kind": "vivat",
+"file": "vivat-25-1.mp3",
+"female": false,
+"text": "Vivat rex! Vivat rex! May the king live for ever!",
+"speaker": "p245"
+},
+{
+"kind": "vivat",
+"file": "vivat-25-2.mp3",
+"female": false,
+"text": "Vivat rex! Vivat rex! May the king live for ever!",
+"speaker": "p254"
+},
+{
+"kind": "vivat",
+"file": "vivat-25-3.mp3",
+"female": false,
+"text": "Vivat rex! Vivat rex! May the king live for ever!",
+"speaker": "p259"
+},
+{
+"kind": "vivat",
+"file": "vivat-25-4.mp3",
+"female": false,
+"text": "Vivat rex! Vivat rex! May the king live for ever!",
+"speaker": "p273"
+},
+{
+"kind": "vivat",
+"file": "vivat-25-5.mp3",
+"female": true,
+"text": "Vivat rex! Vivat rex! May the king live for ever!",
+"speaker": "p239"
+},
+{
+"kind": "vivat",
+"file": "vivat-25-6.mp3",
+"female": true,
+"text": "Vivat rex! Vivat rex! May the king live for ever!",
+"speaker": "p250"
+},
+{
+"kind": "vivat",
+"file": "vivat-25-7.mp3",
+"female": true,
+"text": "Vivat rex! Vivat rex! May the king live for ever!",
+"speaker": "p257"
+},
+{
+"kind": "vivat",
+"file": "vivat-25-8.mp3",
+"female": true,
+"text": "Vivat rex! Vivat rex! May the king live for ever!",
+"speaker": "p268"
+},
+{
+"kind": "vivat",
+"file": "vivat-26-0.mp3",
+"female": false,
+"text": "Long live King Edgar!",
+"speaker": "p232"
+},
+{
+"kind": "vivat",
+"file": "vivat-26-1.mp3",
+"female": false,
+"text": "Long live King Edgar!",
+"speaker": "p245"
+},
+{
+"kind": "vivat",
+"file": "vivat-26-2.mp3",
+"female": false,
+"text": "Long live King Edgar!",
+"speaker": "p254"
+},
+{
+"kind": "vivat",
+"file": "vivat-26-3.mp3",
+"female": false,
+"text": "Long live King Edgar!",
+"speaker": "p259"
+},
+{
+"kind": "vivat",
+"file": "vivat-26-4.mp3",
+"female": false,
+"text": "Long live King Edgar!",
+"speaker": "p273"
+},
+{
+"kind": "vivat",
+"file": "vivat-26-5.mp3",
+"female": true,
+"text": "Long live King Edgar!",
+"speaker": "p239"
+},
+{
+"kind": "vivat",
+"file": "vivat-26-6.mp3",
+"female": true,
+"text": "Long live King Edgar!",
+"speaker": "p250"
+},
+{
+"kind": "vivat",
+"file": "vivat-26-7.mp3",
+"female": true,
+"text": "Long live King Edgar!",
+"speaker": "p257"
+},
+{
+"kind": "vivat",
+"file": "vivat-26-8.mp3",
+"female": true,
+"text": "Long live King Edgar!",
+"speaker": "p268"
+},
+{
+"kind": "moneyer_buyer",
+"file": "moneyer_buyer-27-0.mp3",
+"female": false,
+"text": "Master moneyer, I have the old pennies to change. The king calls them in.",
+"speaker": "p254"
+},
+{
+"kind": "moneyer",
+"file": "moneyer-28-0.mp3",
+"female": false,
+"text": "New pennies, struck true. Bristol, on every one.",
+"speaker": "p259"
+},
+{
+"kind": "harold_men",
+"file": "harold_men-29-0.mp3",
+"female": false,
+"text": "Cast off! For Ireland, and God send us home again.",
+"speaker": "p254"
+},
+{
+"kind": "harold_watch",
+"file": "harold_watch-30-0.mp3",
+"female": true,
+"text": "There goes Godwin's son. An outlaw now.",
+"speaker": "p257"
+},
+{
+"kind": "raider",
+"file": "raider-31-0.mp3",
+"female": false,
+"text": "Up the bank! Take what you can carry!",
+"speaker": "p232"
+},
+{
+"kind": "raider",
+"file": "raider-31-1.mp3",
+"female": false,
+"text": "Up the bank! Take what you can carry!",
+"speaker": "p273"
+},
+{
+"kind": "raider",
+"file": "raider-32-0.mp3",
+"female": false,
+"text": "Back to the ships! Back!",
+"speaker": "p232"
+},
+{
+"kind": "raider",
+"file": "raider-32-1.mp3",
+"female": false,
+"text": "Back to the ships! Back!",
+"speaker": "p273"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-33-0.mp3",
+"female": false,
+"text": "Stand, Bristol! Shields together!",
+"speaker": "p232"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-33-1.mp3",
+"female": false,
+"text": "Stand, Bristol! Shields together!",
+"speaker": "p245"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-33-2.mp3",
+"female": false,
+"text": "Stand, Bristol! Shields together!",
+"speaker": "p254"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-33-3.mp3",
+"female": false,
+"text": "Stand, Bristol! Shields together!",
+"speaker": "p259"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-33-4.mp3",
+"female": false,
+"text": "Stand, Bristol! Shields together!",
+"speaker": "p273"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-34-0.mp3",
+"female": false,
+"text": "Drive them into the river!",
+"speaker": "p232"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-34-1.mp3",
+"female": false,
+"text": "Drive them into the river!",
+"speaker": "p245"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-34-2.mp3",
+"female": false,
+"text": "Drive them into the river!",
+"speaker": "p254"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-34-3.mp3",
+"female": false,
+"text": "Drive them into the river!",
+"speaker": "p259"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-34-4.mp3",
+"female": false,
+"text": "Drive them into the river!",
+"speaker": "p273"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-35-0.mp3",
+"female": false,
+"text": "Not one step into our town!",
+"speaker": "p232"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-35-1.mp3",
+"female": false,
+"text": "Not one step into our town!",
+"speaker": "p245"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-35-2.mp3",
+"female": false,
+"text": "Not one step into our town!",
+"speaker": "p254"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-35-3.mp3",
+"female": false,
+"text": "Not one step into our town!",
+"speaker": "p259"
+},
+{
+"kind": "town_fight",
+"file": "town_fight-35-4.mp3",
+"female": false,
+"text": "Not one step into our town!",
+"speaker": "p273"
+},
+{
+"kind": "town_win",
+"file": "town_win-36-0.mp3",
+"female": false,
+"text": "They're running! Back to your ships!",
+"speaker": "p232"
+},
+{
+"kind": "town_win",
+"file": "town_win-36-1.mp3",
+"female": false,
+"text": "They're running! Back to your ships!",
+"speaker": "p245"
+},
+{
+"kind": "town_win",
+"file": "town_win-36-2.mp3",
+"female": false,
+"text": "They're running! Back to your ships!",
+"speaker": "p254"
+},
+{
+"kind": "town_win",
+"file": "town_win-36-3.mp3",
+"female": false,
+"text": "They're running! Back to your ships!",
+"speaker": "p259"
+},
+{
+"kind": "town_win",
+"file": "town_win-36-4.mp3",
+"female": false,
+"text": "They're running! Back to your ships!",
+"speaker": "p273"
+},
+{
+"kind": "town_win",
+"file": "town_win-37-0.mp3",
+"female": false,
+"text": "Bristol! Bristol stands!",
+"speaker": "p232"
+},
+{
+"kind": "town_win",
+"file": "town_win-37-1.mp3",
+"female": false,
+"text": "Bristol! Bristol stands!",
+"speaker": "p245"
+},
+{
+"kind": "town_win",
+"file": "town_win-37-2.mp3",
+"female": false,
+"text": "Bristol! Bristol stands!",
+"speaker": "p254"
+},
+{
+"kind": "town_win",
+"file": "town_win-37-3.mp3",
+"female": false,
+"text": "Bristol! Bristol stands!",
+"speaker": "p259"
+},
+{
+"kind": "town_win",
+"file": "town_win-37-4.mp3",
+"female": false,
+"text": "Bristol! Bristol stands!",
+"speaker": "p273"
+},
+{
+"kind": "town_win",
+"file": "town_win-37-5.mp3",
+"female": true,
+"text": "Bristol! Bristol stands!",
+"speaker": "p239"
+},
+{
+"kind": "town_win",
+"file": "town_win-37-6.mp3",
+"female": true,
+"text": "Bristol! Bristol stands!",
+"speaker": "p250"
+},
+{
+"kind": "town_win",
+"file": "town_win-37-7.mp3",
+"female": true,
+"text": "Bristol! Bristol stands!",
+"speaker": "p257"
+},
+{
+"kind": "town_win",
+"file": "town_win-37-8.mp3",
+"female": true,
+"text": "Bristol! Bristol stands!",
+"speaker": "p268"
+},
+{
+"kind": "wulfstan",
+"file": "wulfstan-38-0.mp3",
+"female": false,
+"text": "You sell your own people, Christian men and women, to the Irish, like cattle. It is a sin before God.",
+"speaker": "p226"
+},
+{
+"kind": "wulfstan",
+"file": "wulfstan-39-0.mp3",
+"female": false,
+"text": "Would you sell your neighbour? Your brother? Your own child? Turn from this trade.",
+"speaker": "p226"
+},
+{
+"kind": "wulfstan",
+"file": "wulfstan-40-0.mp3",
+"female": false,
+"text": "I will stay in this town, and preach, until you give it up.",
+"speaker": "p226"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-41-0.mp3",
+"female": false,
+"text": "The bishop speaks the truth.",
+"speaker": "p232"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-41-1.mp3",
+"female": false,
+"text": "The bishop speaks the truth.",
+"speaker": "p245"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-41-2.mp3",
+"female": false,
+"text": "The bishop speaks the truth.",
+"speaker": "p254"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-41-3.mp3",
+"female": false,
+"text": "The bishop speaks the truth.",
+"speaker": "p259"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-41-4.mp3",
+"female": false,
+"text": "The bishop speaks the truth.",
+"speaker": "p273"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-41-5.mp3",
+"female": true,
+"text": "The bishop speaks the truth.",
+"speaker": "p239"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-41-6.mp3",
+"female": true,
+"text": "The bishop speaks the truth.",
+"speaker": "p250"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-41-7.mp3",
+"female": true,
+"text": "The bishop speaks the truth.",
+"speaker": "p257"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-41-8.mp3",
+"female": true,
+"text": "The bishop speaks the truth.",
+"speaker": "p268"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-42-0.mp3",
+"female": false,
+"text": "God forgive us.",
+"speaker": "p232"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-42-1.mp3",
+"female": false,
+"text": "God forgive us.",
+"speaker": "p245"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-42-2.mp3",
+"female": false,
+"text": "God forgive us.",
+"speaker": "p254"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-42-3.mp3",
+"female": false,
+"text": "God forgive us.",
+"speaker": "p259"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-42-4.mp3",
+"female": false,
+"text": "God forgive us.",
+"speaker": "p273"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-42-5.mp3",
+"female": true,
+"text": "God forgive us.",
+"speaker": "p239"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-42-6.mp3",
+"female": true,
+"text": "God forgive us.",
+"speaker": "p250"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-42-7.mp3",
+"female": true,
+"text": "God forgive us.",
+"speaker": "p257"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-42-8.mp3",
+"female": true,
+"text": "God forgive us.",
+"speaker": "p268"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-43-0.mp3",
+"female": false,
+"text": "No more. Not from Bristol.",
+"speaker": "p232"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-43-1.mp3",
+"female": false,
+"text": "No more. Not from Bristol.",
+"speaker": "p245"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-43-2.mp3",
+"female": false,
+"text": "No more. Not from Bristol.",
+"speaker": "p254"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-43-3.mp3",
+"female": false,
+"text": "No more. Not from Bristol.",
+"speaker": "p259"
+},
+{
+"kind": "wulfstan_crowd",
+"file": "wulfstan_crowd-43-4.mp3",
+"female": false,
+"text": "No more. Not from Bristol.",
+"speaker": "p273"
+},
+{
+"kind": "news_cry",
+"file": "news_cry-44-0.mp3",
+"female": false,
+"text": "Make way! News! News from the king!",
+"speaker": "p273"
+},
+{
+"kind": "news_rider",
+"file": "news_rider-45-0.mp3",
+"female": false,
+"text": "The king is dead. Harold is dead, at Hastings, by the sea in Sussex. His brothers with him.",
+"speaker": "p273"
+},
+{
+"kind": "news_rider",
+"file": "news_rider-46-0.mp3",
+"female": false,
+"text": "The Normans hold the field. Duke William is marching on London.",
+"speaker": "p273"
+},
+{
+"kind": "news_rider",
+"file": "news_rider-47-0.mp3",
+"female": false,
+"text": "Every man of the king's household lies there round his standard. They would not leave him.",
+"speaker": "p273"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-48-0.mp3",
+"female": false,
+"text": "Dead? The king?",
+"speaker": "p232"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-48-1.mp3",
+"female": false,
+"text": "Dead? The king?",
+"speaker": "p245"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-48-2.mp3",
+"female": false,
+"text": "Dead? The king?",
+"speaker": "p254"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-48-3.mp3",
+"female": false,
+"text": "Dead? The king?",
+"speaker": "p259"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-48-4.mp3",
+"female": false,
+"text": "Dead? The king?",
+"speaker": "p273"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-49-0.mp3",
+"female": true,
+"text": "Lord have mercy on us.",
+"speaker": "p239"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-49-1.mp3",
+"female": true,
+"text": "Lord have mercy on us.",
+"speaker": "p250"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-49-2.mp3",
+"female": true,
+"text": "Lord have mercy on us.",
+"speaker": "p257"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-49-3.mp3",
+"female": true,
+"text": "Lord have mercy on us.",
+"speaker": "p268"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-50-0.mp3",
+"female": false,
+"text": "And Gyrth? And Leofwine?",
+"speaker": "p232"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-50-1.mp3",
+"female": false,
+"text": "And Gyrth? And Leofwine?",
+"speaker": "p245"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-50-2.mp3",
+"female": false,
+"text": "And Gyrth? And Leofwine?",
+"speaker": "p254"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-50-3.mp3",
+"female": false,
+"text": "And Gyrth? And Leofwine?",
+"speaker": "p259"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-50-4.mp3",
+"female": false,
+"text": "And Gyrth? And Leofwine?",
+"speaker": "p273"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-51-0.mp3",
+"female": true,
+"text": "Who is king now?",
+"speaker": "p239"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-51-1.mp3",
+"female": true,
+"text": "Who is king now?",
+"speaker": "p250"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-51-2.mp3",
+"female": true,
+"text": "Who is king now?",
+"speaker": "p257"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-51-3.mp3",
+"female": true,
+"text": "Who is king now?",
+"speaker": "p268"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-52-0.mp3",
+"female": false,
+"text": "What will the Normans want with us?",
+"speaker": "p232"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-52-1.mp3",
+"female": false,
+"text": "What will the Normans want with us?",
+"speaker": "p245"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-52-2.mp3",
+"female": false,
+"text": "What will the Normans want with us?",
+"speaker": "p254"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-52-3.mp3",
+"female": false,
+"text": "What will the Normans want with us?",
+"speaker": "p259"
+},
+{
+"kind": "news_crowd",
+"file": "news_crowd-52-4.mp3",
+"female": false,
+"text": "What will the Normans want with us?",
+"speaker": "p273"
+}
+]

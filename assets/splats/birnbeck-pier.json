@@ -1,0 +1,15 @@
+[
+ {
+  "name": "Birnbeck Pier",
+  "file": "birnbeck.splat",
+  "lat": 51.35494,
+  "lon": -2.99463,
+  "heading": 0,
+  "up": "-y",
+  "scale": 1,
+  "lat0": 51.35494,
+  "lon0": -2.99463,
+  "alt": 9.8,
+  "aligned": "height only: heading needs setting by eye (ADJUST SCAN)"
+ }
+]

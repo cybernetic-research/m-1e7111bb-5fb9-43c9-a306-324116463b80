@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Credits</title>
+<style>
+  body { margin: 0; background: #0c1016; color: #e8dcc8; font: 16px/1.55 Georgia, serif; }
+  main { max-width: 820px; margin: 0 auto; padding: 24px 16px 64px; overflow-wrap: anywhere; }
+  h1, h2 { color: #ffb347; font-family: ui-monospace, Menlo, monospace; letter-spacing: 0.05em; }
+  a { color: #ffd08a; }
+  li { margin: 0.4em 0; }
+</style>
+</head>
+<body>
+<main id="out">Loading credits…</main>
+<script>
+// CREDITS.md, shown as a page (a small Markdown subset: headings, bullets, bold, links).
+fetch('CREDITS.md').then((r) => r.text()).then((md) => {
+  const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+  const inline = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/(https?:\/\/[^\s)]+[^\s).,])/g, '<a href="$1">$1</a>');
+  let html = '', item = null, para = [];
+  const flush = () => { if (item !== null) { html += `<li>${inline(item)}</li>`; item = null; } };
+  const flushP = () => { if (para.length) { html += `<p>${inline(para.join(' '))}</p>`; para = []; } };
+  let inList = false;
+  for (const line of md.split('\n')) {
+    if (/^#{1,2} /.test(line)) { flush(); flushP(); if (inList) { html += '</ul>'; inList = false; } const h = line.startsWith('## ') ? 'h2' : 'h1'; html += `<${h}>${inline(line.replace(/^#+ /, ''))}</${h}>`; }
+    else if (line.startsWith('- ')) { flushP(); flush(); if (!inList) { html += '<ul>'; inList = true; } item = line.slice(2); }
+    else if (/^\s+\S/.test(line) && item !== null) item += ' ' + line.trim();
+    else if (line.trim()) { flush(); if (inList) { html += '</ul>'; inList = false; } para.push(line.trim()); }
+    else { flush(); flushP(); }
+  }
+  flush(); flushP(); if (inList) html += '</ul>';
+  document.getElementById('out').innerHTML = html;
+}).catch(() => { document.getElementById('out').textContent = 'Credits: see CREDITS.md'; });
+</script>
+</body>
+</html>

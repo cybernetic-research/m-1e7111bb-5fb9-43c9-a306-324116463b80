@@ -1,0 +1,65 @@
+[
+{
+"figure": "merchant",
+"file": "merchant.mp3",
+"title": "A wine merchant",
+"text": "Wine from Gascony, a tun at a time. The king takes his prise from every cargo, and the town takes its toll. But a man who knows the tides, and Bordeaux, does well enough.",
+"speaker": "p254"
+},
+{
+"figure": "burghers",
+"file": "burghers.mp3",
+"title": "Burgesses of the town",
+"text": "Bristol has its charters, and a mayor of its own since 1216. We make our own rules here, and we pay the king well for the right to.",
+"speaker": "p256"
+},
+{
+"figure": "peasant-family",
+"file": "peasant-family.mp3",
+"title": "A family come to market",
+"text": "We walked in at dawn with eggs and a cheese. Then there's the toll at the gate, and the fee for a place at the market. What's left buys salt, and maybe a little cloth.",
+"speaker": "p257"
+},
+{
+"figure": "bridge-ward",
+"file": "bridge-ward.mp3",
+"title": "The bridge-ward",
+"text": "Every cart that crosses pays toward the bridge. Without the tolls it would fall, and the town would be cut in two.",
+"speaker": "p259"
+},
+{
+"figure": "castle-guard",
+"file": "castle-guard.mp3",
+"title": "A guard at the castle",
+"text": "This is the king's castle, not the town's. Go in if you have business here, friend, but keep a civil tongue, and your hands to yourself.",
+"speaker": "p278"
+},
+{
+"figure": "castle-gate",
+"file": "castle-gate.mp3",
+"title": "A guard inside the castle gate",
+"text": "You're in the king's castle now. Bow to the constable if you meet him, keep out of the soldiers' way, and mind your step.",
+"speaker": "p273"
+},
+{
+"figure": "watchman-1275",
+"file": "watchman-1275.mp3",
+"title": "A watchman",
+"text": "When the curfew bell rings, the gates are shut and the watch keeps the streets. A stranger abroad at night had better have a good reason.",
+"speaker": "p245"
+},
+{
+"figure": "town-crier-1275",
+"file": "town-crier-1275.mp3",
+"title": "The town crier",
+"text": "The mayor's orders, the king's news, and every lost purse and strayed pig. If it's cried in the market, nobody can say they weren't told.",
+"speaker": "p232"
+},
+{
+"figure": "ostler",
+"file": "ostler.mp3",
+"title": "The ostler",
+"text": "Horses for hire, by the day, fed and shod. A merchant who must be in Bath by noon pays what I ask, and is glad to.",
+"speaker": "p286"
+}
+]

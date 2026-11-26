@@ -1,0 +1,17 @@
+{
+ "name": "Clifton Suspension Bridge",
+ "size": 2400,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.4549691,
+ "lon": -2.6278068,
+ "easting": 356475,
+ "northing": 173075,
+ "min": -3.52,
+ "max": 120.62,
+ "holesFilled": 0,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 135.97
+}

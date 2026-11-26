@@ -1,0 +1,51 @@
+[
+{
+"kind": "greet",
+"who": "ostler",
+"file": "greet-0.mp3",
+"text": "Lame, is he? Bring him here, and let me take a look at that foot.",
+"speaker": "p286"
+},
+{
+"kind": "look",
+"who": "ostler",
+"file": "look-1.mp3",
+"text": "Easy, boy, easy. There. A stone, wedged tight under the shoe.",
+"speaker": "p286"
+},
+{
+"kind": "nail",
+"who": "ostler",
+"file": "nail-2.mp3",
+"text": "And this nail's been driven too close. That's what's making him sore.",
+"speaker": "p286"
+},
+{
+"kind": "fix",
+"who": "ostler",
+"file": "fix-3.mp3",
+"text": "I'll draw it, and set the shoe fast again. Rest him an hour, and lead him gently.",
+"speaker": "p286"
+},
+{
+"kind": "done",
+"who": "ostler",
+"file": "done-4.mp3",
+"text": "There. He'll carry you home now. That's a penny for the work, if you please.",
+"speaker": "p286"
+},
+{
+"kind": "price",
+"who": "ostler",
+"file": "price-5.mp3",
+"text": "I can draw that nail and set the shoe fast again. A penny for the work.",
+"speaker": "p286"
+},
+{
+"kind": "refused",
+"who": "ostler",
+"file": "refused-6.mp3",
+"text": "Suit yourself. But he won't carry you far on that foot.",
+"speaker": "p286"
+}
+]

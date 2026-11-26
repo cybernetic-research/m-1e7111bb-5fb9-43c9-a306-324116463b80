@@ -1,0 +1,17 @@
+{
+ "name": "Sea Mills (Abonae)",
+ "size": 1800,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.484,
+ "lon": -2.647,
+ "easting": 355170,
+ "northing": 176315,
+ "min": -4.84,
+ "max": 78.26,
+ "holesFilled": 0,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 99.35
+}

@@ -1,0 +1,51 @@
+[
+{
+"kind": "oath",
+"who": "commissioner",
+"file": "oath-0.mp3",
+"text": "You are sworn of the jury for the town of Bristol. By the oath you have taken, you will answer truly to the articles of our lord the king, and conceal nothing.",
+"speaker": "p245"
+},
+{
+"kind": "article",
+"who": "commissioner",
+"file": "article-1.mp3",
+"text": "The next article. Has any sheriff, bailiff, or other officer of the king, taken anything from any man, to do his office, or to leave it undone?",
+"speaker": "p245"
+},
+{
+"kind": "warn",
+"who": "bailiff",
+"file": "warn-2.mp3",
+"text": "Think carefully before you answer, master. The commissioners ride on tomorrow. I stay here.",
+"speaker": "p273"
+},
+{
+"kind": "write",
+"who": "commissioner",
+"file": "write-3.mp3",
+"text": "Write it down, clerk. Two shillings, taken by the bailiff of the castle, to release goods held without cause. The king shall hear of it.",
+"speaker": "p245"
+},
+{
+"kind": "grudge",
+"who": "bailiff",
+"file": "grudge-4.mp3",
+"text": "You'll be bringing goods past the castle again, I expect. I shall remember you.",
+"speaker": "p273"
+},
+{
+"kind": "nothing",
+"who": "commissioner",
+"file": "nothing-5.mp3",
+"text": "Nothing? Nothing at all? Very well. Clerk, write: the jurors know of nothing. The next article.",
+"speaker": "p245"
+},
+{
+"kind": "smirk",
+"who": "bailiff",
+"file": "smirk-6.mp3",
+"text": "Wise man. You'll find the castle gate opens easier for friends.",
+"speaker": "p273"
+}
+]

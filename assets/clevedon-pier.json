@@ -1,0 +1,17 @@
+{
+ "name": "Clevedon Pier",
+ "size": 2400,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.4433088,
+ "lon": -2.8636507,
+ "easting": 340073,
+ "northing": 171945,
+ "min": -5.95,
+ "max": 90.29,
+ "holesFilled": 347961,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 99.01
+}

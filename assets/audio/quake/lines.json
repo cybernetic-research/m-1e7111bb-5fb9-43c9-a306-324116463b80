@@ -1,0 +1,86 @@
+[
+{
+"kind": "shake",
+"who": "man",
+"file": "shake-0.mp3",
+"text": "The ground! The ground is moving!",
+"speaker": "p232"
+},
+{
+"kind": "shake",
+"who": "woman",
+"file": "shake-1.mp3",
+"text": "Lord have mercy on us!",
+"speaker": "p250"
+},
+{
+"kind": "shake",
+"who": "woman",
+"file": "shake-2.mp3",
+"text": "Mother of God! What is it?",
+"speaker": "p268"
+},
+{
+"kind": "shake",
+"who": "man",
+"file": "shake-3.mp3",
+"text": "Hold on! Hold on to me!",
+"speaker": "p232"
+},
+{
+"kind": "shake",
+"who": "monk",
+"file": "shake-4.mp3",
+"text": "Kyrie eleison! Christe eleison!",
+"speaker": "p243"
+},
+{
+"kind": "shake",
+"who": "monk",
+"file": "shake-5.mp3",
+"text": "Out, brothers! Out of the church!",
+"speaker": "p273"
+},
+{
+"kind": "fall",
+"who": "man",
+"file": "fall-6.mp3",
+"text": "The tower! Run! The tower is falling!",
+"speaker": "p232"
+},
+{
+"kind": "fall",
+"who": "woman",
+"file": "fall-7.mp3",
+"text": "Christ save us!",
+"speaker": "p250"
+},
+{
+"kind": "fall",
+"who": "monk",
+"file": "fall-8.mp3",
+"text": "Away from the walls! Away!",
+"speaker": "p243"
+},
+{
+"kind": "after",
+"who": "woman",
+"file": "after-9.mp3",
+"text": "Is anyone hurt? Where is the boy?",
+"speaker": "p239"
+},
+{
+"kind": "after",
+"who": "man",
+"file": "after-10.mp3",
+"text": "The church... the church is gone.",
+"speaker": "p245"
+},
+{
+"kind": "after",
+"who": "monk",
+"file": "after-11.mp3",
+"text": "God have mercy. Saint Michael, pray for us.",
+"speaker": "p273"
+}
+]

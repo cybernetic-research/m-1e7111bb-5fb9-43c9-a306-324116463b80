@@ -1,0 +1,17 @@
+{
+ "name": "Filton airfield",
+ "size": 3600,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.5185,
+ "lon": -2.59,
+ "easting": 359159,
+ "northing": 180118,
+ "min": 20.66,
+ "max": 97.75,
+ "holesFilled": 0,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 118.36
+}

@@ -1,0 +1,30 @@
+[
+ {
+  "title": "Copper, Brass and Smoke over the Avon",
+  "era": "c.1790–1910",
+  "theme": "Industry · Slave Trade · Working Lives",
+  "lat": 51.4554,
+  "lon": -2.5347,
+  "text": "The chimney on Troopers Hill probably dates from the late 18th century and served copper-smelting works beside the Avon. Copper ore arrived by boat from Cornwall and Devon, while local coal fired the furnaces. The copper fed Bristol's brass industry, which in turn supplied goods traded into West Africa as part of the transatlantic slave trade.",
+  "source": "Friends of Troopers Hill (History of Troopers Hill)"
+ },
+ {
+  "title": "Butler's Tar Works",
+  "era": "1843–1981",
+  "theme": "Industrial Chemistry",
+  "lat": 51.4592,
+  "lon": -2.5411,
+  "text": "In 1843 a tar distillation works associated with Isambard Kingdom Brunel was established beside the river at Crew's Hole. It produced creosote for railway sleepers and later road tar and tarmac products. The works operated in various forms until 1981 before the site was redeveloped as Quayside Village.",
+  "source": "Wikipedia",
+  "check": "My understanding: founded by John Bethell to creosote sleepers for Brunel's Great Western Railway, later run by William Butler. The position given is ~400 m north of the riverside; worth confirming."
+ },
+ {
+  "title": "The flue and the chimney",
+  "era": "c.1900 map",
+  "theme": "Industry",
+  "lat": 51.45617,
+  "lon": -2.535,
+  "text": "The c.1900 Ordnance Survey map shows a double line running from the works by the river up the hillside to the chimney: a flue, carrying furnace fumes up to be released high above the houses. The chimney is 15.92 m tall.",
+  "draft": true
+ }
+]

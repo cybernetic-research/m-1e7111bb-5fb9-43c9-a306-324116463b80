@@ -1,0 +1,555 @@
+[
+{
+"kind": "plague_sailor",
+"file": "plague_sailor-0-0.mp3",
+"female": false,
+"text": "Keep away from me. We buried six at sea, and the master too.",
+"speaker": "p259"
+},
+{
+"kind": "plague_sailor",
+"file": "plague_sailor-1-0.mp3",
+"female": false,
+"text": "Water. For the love of God, water.",
+"speaker": "p259"
+},
+{
+"kind": "plague_quay",
+"file": "plague_quay-2-0.mp3",
+"female": false,
+"text": "Don't let them ashore! There's sickness on that ship!",
+"speaker": "p232"
+},
+{
+"kind": "plague_quay",
+"file": "plague_quay-2-1.mp3",
+"female": false,
+"text": "Don't let them ashore! There's sickness on that ship!",
+"speaker": "p245"
+},
+{
+"kind": "plague_quay",
+"file": "plague_quay-2-2.mp3",
+"female": true,
+"text": "Don't let them ashore! There's sickness on that ship!",
+"speaker": "p239"
+},
+{
+"kind": "plague_quay",
+"file": "plague_quay-2-3.mp3",
+"female": true,
+"text": "Don't let them ashore! There's sickness on that ship!",
+"speaker": "p250"
+},
+{
+"kind": "plague_quay",
+"file": "plague_quay-3-0.mp3",
+"female": false,
+"text": "Where is she from? Melcombe? God help us.",
+"speaker": "p232"
+},
+{
+"kind": "plague_quay",
+"file": "plague_quay-3-1.mp3",
+"female": false,
+"text": "Where is she from? Melcombe? God help us.",
+"speaker": "p245"
+},
+{
+"kind": "plague_quay",
+"file": "plague_quay-3-2.mp3",
+"female": true,
+"text": "Where is she from? Melcombe? God help us.",
+"speaker": "p239"
+},
+{
+"kind": "plague_quay",
+"file": "plague_quay-3-3.mp3",
+"female": true,
+"text": "Where is she from? Melcombe? God help us.",
+"speaker": "p250"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-4-0.mp3",
+"female": false,
+"text": "Water. Please. Water.",
+"speaker": "p232"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-4-1.mp3",
+"female": false,
+"text": "Water. Please. Water.",
+"speaker": "p245"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-4-2.mp3",
+"female": false,
+"text": "Water. Please. Water.",
+"speaker": "p254"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-4-3.mp3",
+"female": false,
+"text": "Water. Please. Water.",
+"speaker": "p259"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-4-4.mp3",
+"female": false,
+"text": "Water. Please. Water.",
+"speaker": "p273"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-4-5.mp3",
+"female": true,
+"text": "Water. Please. Water.",
+"speaker": "p239"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-4-6.mp3",
+"female": true,
+"text": "Water. Please. Water.",
+"speaker": "p250"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-4-7.mp3",
+"female": true,
+"text": "Water. Please. Water.",
+"speaker": "p257"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-4-8.mp3",
+"female": true,
+"text": "Water. Please. Water.",
+"speaker": "p268"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-5-0.mp3",
+"female": false,
+"text": "It burns. The swellings, under my arm.",
+"speaker": "p232"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-5-1.mp3",
+"female": false,
+"text": "It burns. The swellings, under my arm.",
+"speaker": "p245"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-5-2.mp3",
+"female": false,
+"text": "It burns. The swellings, under my arm.",
+"speaker": "p254"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-5-3.mp3",
+"female": false,
+"text": "It burns. The swellings, under my arm.",
+"speaker": "p259"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-5-4.mp3",
+"female": false,
+"text": "It burns. The swellings, under my arm.",
+"speaker": "p273"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-5-5.mp3",
+"female": true,
+"text": "It burns. The swellings, under my arm.",
+"speaker": "p239"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-5-6.mp3",
+"female": true,
+"text": "It burns. The swellings, under my arm.",
+"speaker": "p250"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-5-7.mp3",
+"female": true,
+"text": "It burns. The swellings, under my arm.",
+"speaker": "p257"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-5-8.mp3",
+"female": true,
+"text": "It burns. The swellings, under my arm.",
+"speaker": "p268"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-6-0.mp3",
+"female": false,
+"text": "Don't come in. It's in the house.",
+"speaker": "p232"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-6-1.mp3",
+"female": false,
+"text": "Don't come in. It's in the house.",
+"speaker": "p245"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-6-2.mp3",
+"female": false,
+"text": "Don't come in. It's in the house.",
+"speaker": "p254"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-6-3.mp3",
+"female": false,
+"text": "Don't come in. It's in the house.",
+"speaker": "p259"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-6-4.mp3",
+"female": false,
+"text": "Don't come in. It's in the house.",
+"speaker": "p273"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-6-5.mp3",
+"female": true,
+"text": "Don't come in. It's in the house.",
+"speaker": "p239"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-6-6.mp3",
+"female": true,
+"text": "Don't come in. It's in the house.",
+"speaker": "p250"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-6-7.mp3",
+"female": true,
+"text": "Don't come in. It's in the house.",
+"speaker": "p257"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-6-8.mp3",
+"female": true,
+"text": "Don't come in. It's in the house.",
+"speaker": "p268"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-7-0.mp3",
+"female": false,
+"text": "Lord have mercy on us.",
+"speaker": "p232"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-7-1.mp3",
+"female": false,
+"text": "Lord have mercy on us.",
+"speaker": "p245"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-7-2.mp3",
+"female": false,
+"text": "Lord have mercy on us.",
+"speaker": "p254"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-7-3.mp3",
+"female": false,
+"text": "Lord have mercy on us.",
+"speaker": "p259"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-7-4.mp3",
+"female": false,
+"text": "Lord have mercy on us.",
+"speaker": "p273"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-7-5.mp3",
+"female": true,
+"text": "Lord have mercy on us.",
+"speaker": "p239"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-7-6.mp3",
+"female": true,
+"text": "Lord have mercy on us.",
+"speaker": "p250"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-7-7.mp3",
+"female": true,
+"text": "Lord have mercy on us.",
+"speaker": "p257"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-7-8.mp3",
+"female": true,
+"text": "Lord have mercy on us.",
+"speaker": "p268"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-8-0.mp3",
+"female": true,
+"text": "My little ones. All three, in two days.",
+"speaker": "p239"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-8-1.mp3",
+"female": true,
+"text": "My little ones. All three, in two days.",
+"speaker": "p250"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-8-2.mp3",
+"female": true,
+"text": "My little ones. All three, in two days.",
+"speaker": "p257"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-8-3.mp3",
+"female": true,
+"text": "My little ones. All three, in two days.",
+"speaker": "p268"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-9-0.mp3",
+"female": false,
+"text": "Fetch the priest. Before it is too late.",
+"speaker": "p232"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-9-1.mp3",
+"female": false,
+"text": "Fetch the priest. Before it is too late.",
+"speaker": "p245"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-9-2.mp3",
+"female": false,
+"text": "Fetch the priest. Before it is too late.",
+"speaker": "p254"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-9-3.mp3",
+"female": false,
+"text": "Fetch the priest. Before it is too late.",
+"speaker": "p259"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-9-4.mp3",
+"female": false,
+"text": "Fetch the priest. Before it is too late.",
+"speaker": "p273"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-9-5.mp3",
+"female": true,
+"text": "Fetch the priest. Before it is too late.",
+"speaker": "p239"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-9-6.mp3",
+"female": true,
+"text": "Fetch the priest. Before it is too late.",
+"speaker": "p250"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-9-7.mp3",
+"female": true,
+"text": "Fetch the priest. Before it is too late.",
+"speaker": "p257"
+},
+{
+"kind": "plague_sick",
+"file": "plague_sick-9-8.mp3",
+"female": true,
+"text": "Fetch the priest. Before it is too late.",
+"speaker": "p268"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-10-0.mp3",
+"female": true,
+"text": "Not him too. Not him too.",
+"speaker": "p239"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-10-1.mp3",
+"female": true,
+"text": "Not him too. Not him too.",
+"speaker": "p250"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-10-2.mp3",
+"female": true,
+"text": "Not him too. Not him too.",
+"speaker": "p257"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-10-3.mp3",
+"female": true,
+"text": "Not him too. Not him too.",
+"speaker": "p268"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-11-0.mp3",
+"female": true,
+"text": "Take him gently. He was a good man.",
+"speaker": "p239"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-11-1.mp3",
+"female": true,
+"text": "Take him gently. He was a good man.",
+"speaker": "p250"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-11-2.mp3",
+"female": true,
+"text": "Take him gently. He was a good man.",
+"speaker": "p257"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-11-3.mp3",
+"female": true,
+"text": "Take him gently. He was a good man.",
+"speaker": "p268"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-12-0.mp3",
+"female": true,
+"text": "Stay with me. Stay with me, love.",
+"speaker": "p239"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-12-1.mp3",
+"female": true,
+"text": "Stay with me. Stay with me, love.",
+"speaker": "p250"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-12-2.mp3",
+"female": true,
+"text": "Stay with me. Stay with me, love.",
+"speaker": "p257"
+},
+{
+"kind": "plague_mourn",
+"file": "plague_mourn-12-3.mp3",
+"female": true,
+"text": "Stay with me. Stay with me, love.",
+"speaker": "p268"
+},
+{
+"kind": "plague_deadcart",
+"file": "plague_deadcart-13-0.mp3",
+"female": false,
+"text": "Bring out your dead!",
+"speaker": "p232"
+},
+{
+"kind": "plague_deadcart",
+"file": "plague_deadcart-14-0.mp3",
+"female": false,
+"text": "Bring out your dead! The cart is here!",
+"speaker": "p232"
+},
+{
+"kind": "plague_priest",
+"file": "plague_priest-15-0.mp3",
+"female": false,
+"text": "Requiem aeternam dona eis, Domine. Eternal rest grant unto them, O Lord.",
+"speaker": "p243"
+},
+{
+"kind": "plague_priest",
+"file": "plague_priest-16-0.mp3",
+"female": false,
+"text": "Into thy hands, O Lord, we commend their souls.",
+"speaker": "p243"
+},
+{
+"kind": "plague_digger",
+"file": "plague_digger-17-0.mp3",
+"female": false,
+"text": "Another row. And the churchyard full already.",
+"speaker": "p254"
+},
+{
+"kind": "plague_digger",
+"file": "plague_digger-17-1.mp3",
+"female": false,
+"text": "Another row. And the churchyard full already.",
+"speaker": "p273"
+},
+{
+"kind": "plague_digger",
+"file": "plague_digger-18-0.mp3",
+"female": false,
+"text": "Lay them close. There's more coming.",
+"speaker": "p254"
+},
+{
+"kind": "plague_digger",
+"file": "plague_digger-18-1.mp3",
+"female": false,
+"text": "Lay them close. There's more coming.",
+"speaker": "p273"
+}
+]

@@ -1,0 +1,10 @@
+The cries on Glastonbury Tor in the earthquake (these .mp3 files) were made by tools/make_quake_speech.py with Piper
+(https://github.com/OHF-Voice/piper1-gpl) and its en_GB "vctk" medium voice (https://huggingface.co/rhasspy/piper-voices),
+speakers p232, p239, p243, p245, p250, p259, p268 and p273.
+
+That voice is trained on the CSTR VCTK Corpus: Yamagishi, Junichi; Veaux, Christophe; MacDonald, Kirsten. "CSTR VCTK
+Corpus: English Multi-speaker Corpus for CSTR Voice Cloning Toolkit (version 0.92)", University of Edinburgh, The Centre
+for Speech Technology Research (CSTR), 2019, https://doi.org/10.7488/ds/2645. Licence: Creative Commons Attribution 4.0
+International (https://creativecommons.org/licenses/by/4.0/).
+
+The lines are illustrative, except the monks' "Kyrie eleison! Christe eleison!", from the Mass and the hours.

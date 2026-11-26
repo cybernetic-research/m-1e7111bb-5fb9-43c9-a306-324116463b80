@@ -1,0 +1,72 @@
+[
+{
+"kind": "alms",
+"who": "leper",
+"file": "alms-0.mp3",
+"text": "Alms, for the love of God. Alms for the poor lepers of Saint Lawrence's. I'll come no nearer.",
+"speaker": "p278"
+},
+{
+"kind": "bless",
+"who": "leper",
+"file": "bless-1.mp3",
+"text": "God reward you, master. We'll pray for you at Saint Lawrence's.",
+"speaker": "p278"
+},
+{
+"kind": "pass",
+"who": "leper",
+"file": "pass-2.mp3",
+"text": "God keep you, all the same.",
+"speaker": "p278"
+},
+{
+"kind": "no-lepers",
+"who": "porter",
+"file": "no-lepers-3.mp3",
+"text": "No nearer, friend. You know you can't come into the town. Back to Saint Lawrence's with you, and God help you.",
+"speaker": "p273"
+},
+{
+"kind": "ask",
+"who": "beggar",
+"file": "ask-4.mp3",
+"text": "Let me in, master, I beg you. There's work at the quay, unloading the ships. I'm strong. I can work.",
+"speaker": "p232"
+},
+{
+"kind": "doubt",
+"who": "porter",
+"file": "doubt-5.mp3",
+"text": "Strong enough to work, and begging at my gate? How do I know you won't be cutting purses in the market by noon?",
+"speaker": "p273"
+},
+{
+"kind": "vouched",
+"who": "porter",
+"file": "vouched-6.mp3",
+"text": "If the merchant will answer for you, then in you go. And mind you're off the streets by curfew.",
+"speaker": "p273"
+},
+{
+"kind": "let",
+"who": "porter",
+"file": "let-7.mp3",
+"text": "Go on, then. But I'll know your face, and if there's trouble, I'll know where to look.",
+"speaker": "p273"
+},
+{
+"kind": "refuse",
+"who": "porter",
+"file": "refuse-8.mp3",
+"text": "Not today. Try Saint Bartholomew's, over the Frome. They feed the poor there.",
+"speaker": "p273"
+},
+{
+"kind": "thanks",
+"who": "beggar",
+"file": "thanks-9.mp3",
+"text": "God bless you, master. You won't regret it.",
+"speaker": "p232"
+}
+]

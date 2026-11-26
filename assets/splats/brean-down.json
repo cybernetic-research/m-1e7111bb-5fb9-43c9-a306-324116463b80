@@ -1,0 +1,28 @@
+[
+ {
+  "name": "Brean Down",
+  "file": "brean-1.splat",
+  "lat": 51.32469,
+  "lon": -3.00932,
+  "heading": 0,
+  "up": "-y",
+  "scale": 1,
+  "lat0": 51.32469,
+  "lon0": -3.00932,
+  "alt": 54.8,
+  "aligned": "height only: heading needs setting by eye (ADJUST SCAN)"
+ },
+ {
+  "name": "Brean Down Fort",
+  "file": "brean-2.splat",
+  "lat": 51.32808,
+  "lon": -3.03275,
+  "heading": 0,
+  "up": "-y",
+  "scale": 1,
+  "lat0": 51.32808,
+  "lon0": -3.03275,
+  "alt": 12.4,
+  "aligned": "height only: heading needs setting by eye (ADJUST SCAN)"
+ }
+]

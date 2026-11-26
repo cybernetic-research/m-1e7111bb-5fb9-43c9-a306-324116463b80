@@ -1,0 +1,15 @@
+[
+ {
+  "name": "Clevedon",
+  "file": "clevedon.splat",
+  "lat": 51.44233,
+  "lon": -2.86142,
+  "heading": 0,
+  "up": "-y",
+  "scale": 1,
+  "lat0": 51.44233,
+  "lon0": -2.86142,
+  "alt": 9.1,
+  "aligned": "height only: heading needs setting by eye (ADJUST SCAN)"
+ }
+]

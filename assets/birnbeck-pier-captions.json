@@ -1,0 +1,21 @@
+[
+ {
+  "title": "The Island Pier",
+  "era": "1867–1914",
+  "theme": "Tourism · Steamships",
+  "lat": 51.3565,
+  "lon": -2.9945,
+  "text": "Birnbeck Pier opened in 1867 and remains unique as Britain's only pier linking the mainland directly to an island. Paddle steamers connected Weston-super-Mare with ports around the Bristol Channel while the island hosted amusements, pavilions and seaside attractions.",
+  "source": "Wikipedia"
+ },
+ {
+  "title": "HMS Birnbeck",
+  "era": "1941–1945",
+  "theme": "Secret Weapons Development",
+  "lat": 51.358,
+  "lon": -2.999,
+  "text": "During the Second World War Birnbeck Pier became HMS Birnbeck, a secret Admiralty research station. Experimental naval weapons, including work connected with Barnes Wallis projects, were tested in the Bristol Channel.",
+  "source": "Wikipedia",
+  "check": "Wikipedia: an outpost of the Admiralty's Directorate of Miscellaneous Weapons Development from 1941; it says the bouncing bomb was tested at Brean Down Fort, not on the pier."
+ }
+]

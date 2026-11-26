@@ -1,0 +1,17 @@
+{
+ "name": "Brean Down",
+ "size": 3000,
+ "metresPerPixel": 1,
+ "offset": 10,
+ "lat": 51.3262,
+ "lon": -3.016,
+ "easting": 329304,
+ "northing": 159057,
+ "min": -5.72,
+ "max": 97.57,
+ "holesFilled": 1288,
+ "attribution": "LIDAR: Environment Agency, Open Government Licence v3.0",
+ "dsm": true,
+ "dsmOffset": 10,
+ "dsmMax": 98.75
+}

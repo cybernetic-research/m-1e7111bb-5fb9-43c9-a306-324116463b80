@@ -1,0 +1,13 @@
+The hue and cry's voices (these .mp3 files) were made by tools/make_huecry_speech.py with Piper
+(https://github.com/OHF-Voice/piper1-gpl) and its en_GB "vctk" medium voice (https://huggingface.co/rhasspy/piper-voices),
+speakers p225, p226, p228, p232, p239, p243, p256, p257 and p259.
+
+That voice is trained on the CSTR VCTK Corpus: Yamagishi, Junichi; Veaux, Christophe; MacDonald, Kirsten. "CSTR VCTK
+Corpus: English Multi-speaker Corpus for CSTR Voice Cloning Toolkit (version 0.92)", University of Edinburgh, The Centre
+for Speech Technology Research (CSTR), 2019, https://doi.org/10.7488/ds/2645. Licence: Creative Commons Attribution 4.0
+International (https://creativecommons.org/licenses/by/4.0/).
+
+The lines are illustrative, except "Out, out! Harrow!", the cry of the chase in Chaucer's Nun's Priest's Tale (1390s).
+
+The gate watch's lines at night (gate-*.mp3, kind "gate" in lines.json) were made the same way by
+tools/make_gate_speech.py, with speakers p226, p232, p243, p256 and p259. Their words are illustrative.
